@@ -1,3 +1,6 @@
 [submodule "binder"]
 	path = binder
 	url = git@github.com:malariagen/binder.git
+[submodule "agam-report-base"]
+	path = agam-report-base
+	url = git@github.com:malariagen/agam-report-base.git
