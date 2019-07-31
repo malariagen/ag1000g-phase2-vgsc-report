@@ -89,10 +89,15 @@ from humanize import naturalsize, intcomma, intword
 import zarr
 from scipy.stats import entropy
 import lmfit
+import veff
+
+# %%
+#analysis packages
+import allel
 
 # %%
 sys.path.insert(0, '../agam-report-base/src/python')
-from shutil import *
+from util import *
 
 # %%
 from ag1k import phase2_ar1
@@ -101,3 +106,8 @@ from ag1k import phase2_ar1
 # This is a symlink in your root directory
 # eg: ln -s /kwiat/vector/ag1000g/release/phase2.AR1 .
 phase2_ar1.init("../phase2.AR1")
+
+# %%
+region_vgsc = SeqFeature('2L', 2358158, 2431617, label='Vgsc')
+
+# %%
