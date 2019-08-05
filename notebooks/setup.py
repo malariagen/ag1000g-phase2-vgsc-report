@@ -89,7 +89,6 @@ from humanize import naturalsize, intcomma, intword
 import zarr
 from scipy.stats import entropy
 import lmfit
-import veff
 
 # %%
 #analysis packages
@@ -109,5 +108,8 @@ phase2_ar1.init("../phase2.AR1")
 
 # %%
 region_vgsc = SeqFeature('2L', 2358158, 2431617, label='Vgsc')
+
+# %%
+import veff
 
 # %%

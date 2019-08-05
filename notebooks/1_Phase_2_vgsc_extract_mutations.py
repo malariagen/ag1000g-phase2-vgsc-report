@@ -95,14 +95,11 @@ tbl_davies_exons = (
 )
 tbl_davies_exons.displayall()
 
-# %%
-#we are here
-
 # %% [markdown]
 # ## Extract table of variants
 
 # %%
-callset = phase1_ar31.callset
+callset = phase2_ar1.callset
 callset
 
 # %%
@@ -110,12 +107,40 @@ callset
 print(', '.join(callset['2L/variants']))
 
 # %%
-# what SNPEFF fields are available?
-print(', '.join(callset['2L/variants/ANN'].dtype.names))
+#get SNPEFF annotations from HDF5 - also find out why these aren't in zarr format
+snpeff_h5_fn = '../phase2.AR1/variation/main/hdf5/all_snpeff/ag1000g.phase2.ar1.snpeff.AgamP4.2.2L.h5'
+snpf = h5py.File(snpeff_h5_fn, mode='r')
 
 # %%
-samples = phase1_ar3.df_samples
+# what SNPEFF fields are available?
+print(', '.join(snpf['2L/variants/ANN'].dtype.names))
+
+# %%
+samples = phase2_ar1.df_samples
 samples.head()
+
+# %%
+#samples needs to have a numeric index - this should probably be tested in future versions
+samples = samples.reset_index()
+
+# %% [markdown]
+# ### breakdown table code - not working
+
+# %%
+variants = callset[seqid]['variants']
+ann = snpf[seqid]['variants']['ANN']
+pos = allel.SortedIndex(variants['POS'])
+
+# %%
+start = region_vgsc.start
+end = region_vgsc.end
+
+# %%
+loc = pos.locate_range(start, end)
+genotype = allel.GenotypeArray(callset[seqid]['calldata/genotype'][loc])
+
+# %%
+acs = genotype.count_alleles_subpops(max_allele=3, subpops=subpops)
 
 
 # %%
@@ -195,17 +220,21 @@ def tabulate_variants(callset, snpeff, seqid, start, end, pop_ids, subpops):
 
 
 # %%
-pop_ids = 'AOM BFM GWA GNS BFS CMS GAS UGS KES'.split()
+pop_ids = phase2_ar1.pop_ids
+print(', '.join(pop_ids))
 
 # %%
 subpops = {p: samples[samples.population == p].index.values.tolist() for p in pop_ids}
 
 # %%
 # build a table of variants from phase 1
-tbl_variants_phase1 = tabulate_variants(callset, callset, 
+tbl_variants_phase2 = tabulate_variants(callset, snpf, 
                                         seqid=region_vgsc.seqid, start=region_vgsc.start, end=region_vgsc.end, 
                                         pop_ids=pop_ids, subpops=subpops)
-tbl_variants_phase1
+tbl_variants_phase2
+
+# %%
+#up to here.
 
 # %% [markdown]
 # ## Annotate effects for all transcripts
