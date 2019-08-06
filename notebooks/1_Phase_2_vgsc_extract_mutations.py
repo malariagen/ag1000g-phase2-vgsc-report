@@ -124,25 +124,6 @@ samples.head()
 samples = samples.reset_index()
 
 
-# %% [markdown]
-# ### breakdown table code - not working
-
-# %%
-# variants = callset[seqid]['variants']
-# ann = snpf[seqid]['variants']['ANN']
-# pos = allel.SortedIndex(variants['POS'])
-
-# %%
-# start = region_vgsc.start
-# end = region_vgsc.end
-
-# %%
-# loc = pos.locate_range(start, end)
-# genotype = allel.GenotypeArray(callset[seqid]['calldata/genotype'][loc])
-
-# %%
-# acs = genotype.count_alleles_subpops(max_allele=3, subpops=subpops)
-
 # %%
 def tabulate_variants(callset, snpeff, seqid, start, end, pop_ids, subpops):
     """Build a table of variants for a given callset and genome region."""
@@ -233,10 +214,6 @@ tbl_variants_phase2 = tabulate_variants(callset, snpf,
                                         pop_ids=pop_ids, subpops=subpops)
 tbl_variants_phase2
 
-# %%
-#let's have a look shall we
-tbl_variants_phase2.tocsv('phase2_variants.csv')
-
 # %% [markdown]
 # ## Annotate effects for all transcripts
 
@@ -262,7 +239,6 @@ def lpop(l, default=None):
         return default
 
 
-
 # %%
 def transcript_effect(transcript_id):
     def f(row):
@@ -276,6 +252,17 @@ def transcript_effect(transcript_id):
     return f
 
 
+# %%
+#the latest version of intervaltree breaks petl - here I roll back to the previous version
+# conda uninstall intervaltree
+# conda install intervaltree=2.1.0
+
+# %%
+#Check versions
+conda list
+
+# %%
+import intervaltree
 
 # %%
 tbl_variants_phase2_eff = (
@@ -286,8 +273,7 @@ tbl_variants_phase2_eff = (
         tbl_davies_exons.select('exon', lambda v: v[-1] != '-'),
         lkey='CHROM', rkey='exon_seqid', lstart='POS', rstart='exon_start', lstop='POS', rstop='exon_end', include_stop=True)
     .cutout('exon_seqid')
-    .addfield('VEFF', lambda row: [e for e in annotator.get_effects(chrom=row.CHROM, pos=row.POS, ref=row.REF, alt=row.ALT) 
-                                   if e.effect in selected_effects])
+    .addfield('VEFF', lambda row: [e for e in annotator.get_effects(chrom=row.CHROM, pos=row.POS, ref=row.REF, alt=row.ALT) if e.effect in selected_effects])
     .addfield(transcript_ids[0], transcript_effect(transcript_ids[0]))
     .addfield(transcript_ids[1], transcript_effect(transcript_ids[1]))
     .addfield(transcript_ids[2], transcript_effect(transcript_ids[2]))
@@ -343,12 +329,12 @@ def tr_style(row):
     return 'background-color:rgba(0, 255, 0, %.3f)' % (min(1, row['AC']/100))
 
 
-tbl_variants_phase1_missense = (
-    tbl_variants_phase1_eff
+tbl_variants_phase2_missense = (
+    tbl_variants_phase2_eff
     .select(lambda row: any(row[t] and row[t][0] == 'NON_SYNONYMOUS_CODING' for t in transcript_ids))
     .convert(transcript_ids, simplify_missense_effect)
 )
-tbl_variants_phase1_missense.displayall(td_styles=td_styles, tr_style=tr_style)
+tbl_variants_phase2_missense.displayall(td_styles=td_styles, tr_style=tr_style)
 
 
 # %% [markdown]
@@ -386,29 +372,29 @@ def tr_style(row):
     return 'background-color:rgba(0, 255, 0, %.3f)' % (min(1, row['AC']/100))
 
 
-tbl_variants_phase1_splice = (
-    tbl_variants_phase1_eff
+tbl_variants_phase2_splice = (
+    tbl_variants_phase2_eff
     .select(lambda row: any(row[t] and row[t][0] in ['SPLICE_REGION', 'SPLICE_CORE'] for t in transcript_ids))
     .convert(transcript_ids, simplify_intron_effect)
 )
-tbl_variants_phase1_splice.displayall(td_styles=td_styles, tr_style=tr_style)
+tbl_variants_phase2_splice.displayall(td_styles=td_styles, tr_style=tr_style)
 
 # %% [markdown]
 # ## Write out variants to file
 
 # %%
-(tbl_variants_phase1_eff
- .teepickle('../data/tbl_variants_phase1.pkl')
+(tbl_variants_phase2_eff
+ .teepickle('../data/tbl_variants_phase2.pkl')
  .convert(transcript_ids, lambda v: ':'.join(map(str, v)))
  .replaceall(None, 'NA')
- .tocsv('../data/tbl_variants_phase1.csv')
+ .tocsv('../data/tbl_variants_phase2.csv')
 )
 
 # %%
 # check OK
-etl.frompickle('../data/tbl_variants_phase1.pkl')
+etl.frompickle('../data/tbl_variants_phase2.pkl')
 
 # %%
-etl.fromcsv('../data/tbl_variants_phase1.csv')
+etl.fromcsv('../data/tbl_variants_phase2.csv')
 
 # %%
