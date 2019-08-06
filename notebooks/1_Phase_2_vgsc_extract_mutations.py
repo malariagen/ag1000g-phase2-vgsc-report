@@ -123,25 +123,25 @@ samples.head()
 #samples needs to have a numeric index - this should probably be tested in future versions
 samples = samples.reset_index()
 
+
 # %% [markdown]
 # ### breakdown table code - not working
 
 # %%
-variants = callset[seqid]['variants']
-ann = snpf[seqid]['variants']['ANN']
-pos = allel.SortedIndex(variants['POS'])
+# variants = callset[seqid]['variants']
+# ann = snpf[seqid]['variants']['ANN']
+# pos = allel.SortedIndex(variants['POS'])
 
 # %%
-start = region_vgsc.start
-end = region_vgsc.end
+# start = region_vgsc.start
+# end = region_vgsc.end
 
 # %%
-loc = pos.locate_range(start, end)
-genotype = allel.GenotypeArray(callset[seqid]['calldata/genotype'][loc])
+# loc = pos.locate_range(start, end)
+# genotype = allel.GenotypeArray(callset[seqid]['calldata/genotype'][loc])
 
 # %%
-acs = genotype.count_alleles_subpops(max_allele=3, subpops=subpops)
-
+# acs = genotype.count_alleles_subpops(max_allele=3, subpops=subpops)
 
 # %%
 def tabulate_variants(callset, snpeff, seqid, start, end, pop_ids, subpops):
@@ -234,7 +234,8 @@ tbl_variants_phase2 = tabulate_variants(callset, snpf,
 tbl_variants_phase2
 
 # %%
-#up to here.
+#let's have a look shall we
+tbl_variants_phase2.tocsv('phase2_variants.csv')
 
 # %% [markdown]
 # ## Annotate effects for all transcripts
@@ -277,8 +278,8 @@ def transcript_effect(transcript_id):
 
 
 # %%
-tbl_variants_phase1_eff = (
-    tbl_variants_phase1
+tbl_variants_phase2_eff = (
+    tbl_variants_phase2
     # join in Davies exon information
     .intervalleftjoin(
         # don't include shorter exon alternatives
@@ -307,7 +308,7 @@ tbl_variants_phase1_eff = (
 )
 
 # %%
-tbl_variants_phase1_eff.display(20)
+tbl_variants_phase2_eff
 
 
 # %% [markdown]
