@@ -16,7 +16,7 @@ digraph {
 	13 [label="" fillcolor=tomato1 fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.1224744871391589]
 	14 [label="" fillcolor=tomato1 fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.07071067811865475]
 	15 [label="" fillcolor=tomato1 fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.07071067811865475]
-	16 [label="" fillcolor=lightpink fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.07071067811865475]
+	16 [label="" fillcolor=peachpuff1 fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.07071067811865475]
 	17 [label="" fillcolor=darksalmon fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.07071067811865475]
 	18 [label="" fillcolor=darksalmon fixedsize=true fontname=monospace fontsize=None shape=circle style=filled width=0.07071067811865475]
 	0 -> 2 [label="" dir=none fontname=monospace fontsize=None len=0.6353553390593274 style=normal weight=10]
