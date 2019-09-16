@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Figure_median_joining_network.svg">
+   sodipodi:docname="Figure_median_joining_network_label_pruned.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.02"
-     inkscape:cx="573.18982"
-     inkscape:cy="305.57493"
+     inkscape:zoom="3.8798199"
+     inkscape:cx="403.94686"
+     inkscape:cy="325.75063"
      inkscape:document-units="px"
-     inkscape:current-layer="edge12"
+     inkscape:current-layer="edge13"
      showgrid="false"
      units="mm"
      inkscape:window-width="1855"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -483,10 +483,21 @@
              id="polygon58" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-73.716942"
-             y="-29.448978"
+             x="-78.839363"
+             y="-26.18926"
              font-size="14.00"
              id="text60">I1940T</text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.77615166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="-192.39796"
+             y="-78.971718"
+             id="text5306"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan5308"
+               x="-192.39796"
+               y="-78.971718">F1</tspan></text>
         </g>
         <!-- 3 -->
         <g
@@ -536,8 +547,8 @@
              id="polygon76" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-1.53598"
-             y="-48.498901"
+             x="-1.9336481"
+             y="-49.467808"
              font-size="14.00"
              id="text78">E1597Q</text>
         </g>
@@ -594,8 +605,8 @@
              id="polygon96" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="57.6945"
-             y="18.626699"
+             x="38.925465"
+             y="34.649044"
              font-size="14.00"
              id="text98">V1853I</text>
         </g>
@@ -652,8 +663,8 @@
              id="polygon116" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-49.221066"
-             y="63.598392"
+             x="-59.671879"
+             y="70.029663"
              font-size="14.00"
              id="text118">T791M</text>
         </g>
@@ -726,8 +737,8 @@
              id="polygon140" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-85.916771"
-             y="25.718218"
+             x="-92.900726"
+             y="25.475658"
              font-size="14.00"
              id="text142">N1570Y</text>
         </g>
@@ -779,8 +790,8 @@
              id="polygon158" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="9.3594971"
-             y="66.574135"
+             x="16.594675"
+             y="64.966316"
              font-size="14.00"
              id="text160">K1603T</text>
         </g>
@@ -875,8 +886,8 @@
              id="polygon190" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="57.9258"
-             y="-22.353193"
+             x="56.152153"
+             y="-33.43848"
              font-size="14.00"
              id="text192">A1934D</text>
         </g>
@@ -916,12 +927,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="20.0889,-33.0936 25.0343,-34.9925 22.3525,-30.424 20.0889,-33.0936 "
              id="polygon204" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="49.496017"
-             y="-36.743866"
-             font-size="14.00"
-             id="text206">R254K</text>
         </g>
         <!-- 15 -->
         <g
@@ -1004,8 +1009,8 @@
              id="polygon232" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-77.9972"
-             y="-1.4567"
+             x="-72.456467"
+             y="-1.2435949"
              font-size="14.00"
              id="text234">N1345I</text>
         </g>
@@ -1178,8 +1183,8 @@
              id="polygon292" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="67.514801"
-             y="-4.87362"
+             x="63.150482"
+             y="-3.2990985"
              font-size="14.00"
              id="text294">E1597G</text>
         </g>
@@ -1187,7 +1192,7 @@
         <g
            id="node38"
            class="node"
-           transform="matrix(0.80916505,0,0,0.80916505,423.73541,55.593023)">
+           transform="matrix(0.80916505,0,0,0.80916505,412.91657,84.109026)">
           <title
              id="title297">38</title>
           <ellipse
@@ -1207,7 +1212,7 @@
         <g
            id="edge16"
            class="edge"
-           transform="matrix(0.80916505,0,0,0.80916505,423.73541,55.593023)">
+           transform="matrix(0.70072747,-0.40463451,0.40463451,0.70072747,414.33173,62.876887)">
           <title
              id="title302">0-&gt;38</title>
           <path
@@ -1219,12 +1224,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-41.8091,-10.7051 -46.3485,-13.4358 -41.0969,-14.1319 -41.8091,-10.7051 "
              id="polygon306" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-60.944099"
-             y="-16.7362"
-             font-size="14.00"
-             id="text308">P55L</text>
         </g>
         <!-- 125 -->
         <g
@@ -1361,12 +1360,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="36.1228,-17.4585 41.3804,-16.8105 36.8662,-14.0384 36.1228,-17.4585 "
              id="polygon350" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="18.271151"
-             y="-5.94133"
-             font-size="14.00"
-             id="text352">A988T</text>
         </g>
         <!-- 171 -->
         <g
@@ -1404,12 +1397,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="22.9371,11.667 26.3193,15.7441 21.1327,14.6661 22.9371,11.667 "
              id="polygon364" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-3.04896"
-             y="24.316099"
-             font-size="14.00"
-             id="text366">W1589C</text>
         </g>
         <!-- anon_0_160_0 -->
         <g
@@ -1633,12 +1620,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="157.988,112.349 159.544,117.413 155.17,114.425 157.988,112.349 "
              id="polygon442" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="179.5184"
-             y="108.47128"
-             font-size="14.00"
-             id="text444">A1934D</text>
         </g>
         <g
            id="edge24"
@@ -1655,12 +1636,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="101.413,88.2174 97.4799,91.7663 98.3414,86.5394 101.413,88.2174 "
              id="polygon388" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="126.72414"
-             y="94.911354"
-             font-size="14.00"
-             id="text390">K1603T</text>
         </g>
         <!-- 29 -->
         <g
@@ -1698,12 +1673,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-134.605,-91.6573 -136.88,-96.4411 -132.118,-94.1205 -134.605,-91.6573 "
              id="polygon456" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-129.55032"
-             y="-65.865913"
-             font-size="14.00"
-             id="text458">M704V</text>
         </g>
         <!-- 5 -->
         <g
@@ -2030,12 +1999,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-97.5098,84.2474 -101.996,81.4307 -96.7324,80.8349 -97.5098,84.2474 "
              id="polygon560" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-97.180801"
-             y="98.437431"
-             font-size="14.00"
-             id="text562">N1570Y</text>
         </g>
         <!-- anon_7_33_0 -->
         <g
@@ -2152,12 +2115,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-108.049,73.7868 -106.305,78.7889 -110.788,75.9662 -108.049,73.7868 "
              id="polygon599" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-108.87886"
-             y="62.647316"
-             font-size="14.00"
-             id="text601">T791M</text>
         </g>
         <!-- 39 -->
         <g
@@ -2228,12 +2185,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-210.46,16.3646 -215.005,13.6427 -209.755,12.9364 -210.46,16.3646 "
              id="polygon623" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-218.978"
-             y="29.169399"
-             font-size="14.00"
-             id="text625">V1303A</text>
         </g>
         <!-- 49 -->
         <g
@@ -2292,7 +2243,7 @@
         <g
            id="edge50"
            class="edge"
-           transform="matrix(0.80916505,0,0,0.80916505,423.73541,55.593023)">
+           transform="matrix(0.80916505,0,0,0.80916505,423.90785,55.420586)">
           <title
              id="title643">8-&gt;56</title>
           <path
@@ -2302,14 +2253,15 @@
              id="path645" />
           <polygon
              style="fill:#ff0000;stroke:#ff0000"
-             points="-175.044,-7.19837 -176.618,-12.2564 -172.233,-9.28423 -175.044,-7.19837 "
+             points="-172.233,-9.28423 -175.044,-7.19837 -175.044,-7.19837 -176.618,-12.2564 "
              id="polygon647" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-148.487"
-             y="-6.44732"
-             font-size="14.00"
-             id="text649">I829L</text>
+          <path
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:1"
+             inkscape:connector-curvature="0"
+             d="m -56.072655,19.636968 c 6.07494,-2.660937 12.15011,-5.322856 16.67359,-7.304521"
+             id="path645-3"
+             inkscape:transform-center-x="61.274537"
+             inkscape:transform-center-y="33.290495" />
         </g>
         <!-- 119 -->
         <g
@@ -2459,12 +2411,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="89.4544,90.3014 93.6371,93.5522 88.3401,93.6193 89.4544,90.3014 "
              id="polygon696" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="50.830502"
-             y="98.7724"
-             font-size="14.00"
-             id="text698">P1874S</text>
         </g>
         <!-- anon_9_17_0 -->
         <g
@@ -3352,13 +3298,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="202.496,-213.81 202.496,-213.81 197.268,-212.955 200.821,-216.884 "
              id="polygon991" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="48.82716"
-             y="310.00699"
-             font-size="14.00"
-             id="text993"
-             transform="matrix(-0.62903038,-0.77738071,0.77738071,-0.62903038,0,0)">A586T</text>
         </g>
         <!-- 93 -->
         <g
@@ -3462,15 +3401,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="351.574,-230.694 351.574,-230.694 355.533,-227.175 350.244,-227.457 "
              id="polygon1025" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-45.521549"
-             y="408.58209"
-             font-size="14.00"
-             id="text1027"
-             transform="matrix(-0.62822645,-0.77803054,0.77803054,-0.62822645,0,0)"
-             inkscape:transform-center-x="-5.4455446"
-             inkscape:transform-center-y="5.3848076">T679S</text>
         </g>
         <!-- 104 -->
         <g
@@ -3674,13 +3604,6 @@
              points="227.316,-269.5 227.316,-269.5 222.887,-272.407 228.161,-272.896 "
              id="polygon1089" />
           <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="77.848618"
-             y="338.38495"
-             font-size="14.00"
-             id="text1091"
-             transform="matrix(-0.62263467,-0.78251266,0.78251266,-0.62263467,0,0)">A837V</text>
-          <text
              xml:space="preserve"
              style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
              x="338.61386"
@@ -3690,6 +3613,54 @@
              transform="matrix(-0.62264826,-0.76814692,0.76814692,-0.62264826,367.71931,42.932546)"><tspan
                sodipodi:role="line"
                id="tspan5209"></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.77615356px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="354.47629"
+             y="922.53821"
+             id="text5254"
+             sodipodi:linespacing="125%"
+             transform="matrix(-0.62969605,-0.77684161,0.77684161,-0.62969605,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5256"
+               x="354.47629"
+               y="922.53821">F2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.77615356px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="-235.96248"
+             y="894.70685"
+             id="text5258"
+             sodipodi:linespacing="125%"
+             transform="matrix(-0.62969605,-0.77684161,0.77684161,-0.62969605,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5260"
+               x="-235.96248"
+               y="894.70685">F4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="573.17072"
+             y="55.476597"
+             id="text5262"
+             sodipodi:linespacing="125%"
+             transform="matrix(-0.62264826,-0.76814692,0.76814692,-0.62264826,367.71931,42.932546)"><tspan
+               sodipodi:role="line"
+               id="tspan5264"
+               x="573.17072"
+               y="55.476597">F3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.77615356px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="-47.847836"
+             y="284.8457"
+             id="text5266"
+             sodipodi:linespacing="125%"
+             transform="matrix(-0.62969605,-0.77684161,0.77684161,-0.62969605,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5268"
+               x="-47.847836"
+               y="284.8457">F5</tspan></text>
         </g>
         <!-- 121 -->
         <g
@@ -4107,12 +4078,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="347.089,105.263 341.818,105.8 345.603,102.094 347.089,105.263 "
              id="polygon1217" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="368.19501"
-             y="116.87575"
-             font-size="14.00"
-             id="text1219">D466H</text>
         </g>
         <!-- 79 -->
         <g
@@ -4258,8 +4223,8 @@
              id="polygon1264" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-124.637"
-             y="-278.98599"
+             x="-117.40182"
+             y="-280.59381"
              font-size="14.00"
              id="text1266">F1920S</text>
         </g>
@@ -4299,12 +4264,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-58.592,-242.15 -61.3804,-246.655 -57.963,-247.41 -57.963,-247.41 "
              id="polygon1278" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-84.662109"
-             y="-244.81088"
-             font-size="14.00"
-             id="text1280">A586T</text>
         </g>
         <!-- 86 -->
         <g
@@ -4375,12 +4334,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-24.9435,-325.225 -28.1008,-320.971 -30.0643,-323.869 -30.0643,-323.869 "
              id="polygon1302" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-18.85673"
-             y="-302.72226"
-             font-size="14.00"
-             id="text1304">H1755Y</text>
         </g>
         <!-- 150 -->
         <g
@@ -4451,12 +4404,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-19.3536,-273.028 -24.6402,-273.367 -23.2746,-276.59 -23.2746,-276.59 "
              id="polygon1326" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-33.991528"
-             y="-258.09427"
-             font-size="14.00"
-             id="text1328">K251R</text>
         </g>
         <!-- 66 -->
         <!-- anon_66_73_0 -->
@@ -4743,7 +4690,7 @@
              id="polygon1432" />
           <text
              style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="49.987453"
+             x="45.99675"
              y="-62.26022"
              font-size="14.00"
              id="text1434">A1934D</text>
@@ -4877,12 +4824,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-89.128,-81.9036 -91.1909,-86.7828 -86.5355,-84.255 -89.128,-81.9036 "
              id="polygon1471" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-63.9431"
-             y="-59.322899"
-             font-size="14.00"
-             id="text1473">V1507I</text>
         </g>
         <!-- anon_5_35_0&#45;&gt;35 -->
         <g
@@ -4913,12 +4854,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-11.7748,145.256 -9.99405,150.245 -14.4974,147.455 -11.7748,145.256 "
              id="polygon1485" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="1.3559721"
-             y="132.5555"
-             font-size="14.00"
-             id="text1487">L1366F</text>
         </g>
         <!-- anon_8_53_0&#45;&gt;53 -->
         <g
@@ -4936,12 +4871,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-234.298,116.812 -239.525,117.67 -235.974,113.739 -234.298,116.812 "
              id="polygon1494" />
-          <text
-             style="font-size:14px;text-anchor:middle;font-family:monospace"
-             x="-204.9727"
-             y="119.56377"
-             font-size="14.00"
-             id="text1496">P940H</text>
         </g>
         <!-- anon_8_162_0&#45;&gt;162 -->
         <g
@@ -5430,11 +5359,65 @@
              points="298.167,-107.693 297.956,-111.186 297.956,-111.186 303.053,-109.74 "
              style="fill:#ff0000;stroke:#ff0000" />
           <text
-             id="text120"
-             font-size="14.00"
-             y="-96.886101"
-             x="275.58701"
-             style="font-size:14px;text-anchor:middle;font-family:monospace">F1529L</text>
+             xml:space="preserve"
+             style="font-size:19.7803936px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="48.219101"
+             y="-238.87729"
+             id="text5234"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.99982557,-0.01867715,0.01867715,0.99982557,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5236"
+               x="48.219101"
+               y="-238.87729">S4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.7803936px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="194.56183"
+             y="-175.3549"
+             id="text5238"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.99982557,-0.01867715,0.01867715,0.99982557,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5240"
+               x="194.56183"
+               y="-175.3549">S1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.7803936px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="44.198681"
+             y="-429.44449"
+             id="text5242"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.99982557,-0.01867715,0.01867715,0.99982557,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5244"
+               x="44.198681"
+               y="-429.44449">S2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.7803936px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="272.55768"
+             y="-478.49344"
+             id="text5246"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.99982557,-0.01867715,0.01867715,0.99982557,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5248"
+               x="272.55768"
+               y="-478.49344">S5</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.7803936px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+             x="92.443542"
+             y="-693.18304"
+             id="text5250"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.99982557,-0.01867715,0.01867715,0.99982557,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan5252"
+               x="92.443542"
+               y="-693.18304">S3</tspan></text>
         </g>
         <g
            transform="matrix(0.80885045,0.01510966,-0.01510966,0.80885045,628.33809,293.93849)"
@@ -5532,12 +5515,6 @@
              id="polygon152"
              points="261.89,-69.8458 264.168,-72.5028 264.168,-72.5028 266.825,-67.9196 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text154"
-             font-size="14.00"
-             y="-51.327724"
-             x="275.52982"
-             style="font-size:14px;text-anchor:middle;font-family:monospace">M925L</text>
         </g>
         <g
            transform="matrix(0.80885045,0.01510966,-0.01510966,0.80885045,628.33809,293.93849)"
@@ -5726,12 +5703,6 @@
              id="polygon215"
              points="-61.6102,62.5162 -61.3416,66.0059 -61.3416,66.0059 -66.4611,64.6449 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text217"
-             font-size="14.00"
-             y="59.193699"
-             x="-60.076683"
-             style="font-size:14px;text-anchor:middle;font-family:monospace">T297S</text>
         </g>
         <g
            transform="matrix(0.80899156,0,0,0.80899156,771.88731,-182.71745)"
@@ -6813,14 +6784,8 @@
              style="fill:#ff0000;stroke:#ff0000" />
           <polygon
              id="polygon575"
-             points="174.976,48.4977 174.976,48.4977 172.077,44.0637 177.108,45.7222 "
+             points="174.976,48.4977 172.077,44.0637 177.108,45.7222 174.976,48.4977 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text577"
-             font-size="14.00"
-             y="70.366722"
-             x="174.35614"
-             style="font-size:14px;text-anchor:middle;font-family:monospace">R537L</text>
         </g>
         <g
            transform="matrix(0.80899156,0,0,0.80899156,540.67283,-70.578002)"
@@ -6856,12 +6821,6 @@
              id="polygon589"
              points="255.761,26.7892 255.761,26.7892 259.655,23.1975 258.851,28.4336 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text591"
-             font-size="14.00"
-             y="45.731339"
-             x="258.00858"
-             style="font-size:14px;text-anchor:middle;font-family:monospace">G1990S</text>
         </g>
         <g
            transform="matrix(0.80899156,0,0,0.80899156,540.67283,-70.578002)"
@@ -7071,12 +7030,6 @@
              id="polygon658"
              points="339.762,128.9 339.762,128.9 344.941,130.012 340.199,132.372 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text660"
-             font-size="14.00"
-             y="143.79601"
-             x="345.39099"
-             style="font-size:14px;text-anchor:middle;font-family:monospace">K251R</text>
         </g>
         <g
            transform="matrix(0.80899156,0,0,0.80899156,540.67283,-70.578002)"
