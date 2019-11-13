@@ -71,9 +71,9 @@ Resistance to pyrethroid insecticides is a major concern for malaria vector cont
 %
 Pyrethroids target the voltage-gated sodium channel (VGSC), an essential component of the mosquito nervous system, but substitutions in the amino acid sequence can disrupt the activity of these insecticides, inducing a resistance phenotype.
 %
-Here we use Illumina whole-genome sequence data from phase 1 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) to provide a comprehensive account of genetic variation in the \emph{Vgsc} gene in mosquito populations from eight African countries.
+Here we use Illumina whole-genome sequence data from phase 2 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) to provide a comprehensive account of genetic variation in the \emph{Vgsc} gene in mosquito populations from 13 African countries.
 %
-In addition to the three known resistance alleles, we describe 20 non-synonymous nucleotide substitutions at appreciable frequency in one or more populations that are previously unknown in \textit{Anopheles} mosquitoes.
+In addition to the three known \textit{kdr} resistance alleles, we describe 20 non-synonymous nucleotide substitutions at appreciable frequency in one or more populations that are previously unknown in \textit{Anopheles} mosquitoes.
 %
 Thirteen of these novel alleles were found to occur almost exclusively on haplotypes carrying the known \texttt{L995F} resistance allele (\texttt{L1014F} in \textit{Musca domesticus} codon numbering), and may enhance or compensate for the \texttt{L995F} resistance phenotype.
 %
@@ -81,9 +81,11 @@ A novel mutation \texttt{I1527T}, which is adjacent to a predicted pyrethroid bi
 %
 We analyse the genetic backgrounds on which non-synonymous alleles are found, to determine which alleles have experienced recent positive selection, and to refine our understanding of the spread of resistance between species and geographical locations.
 %
-We describe twelve distinct haplotype groups with evidence of recent positive selection, five of which carry the known \texttt{L995F} resistance allele, five of which carry the known \texttt{L995S} resistance allele, one of which carries the novel \texttt{I1527T} allele, and one of which carries a novel \texttt{M490I} allele.
+We describe ten distinct \textit{kdr} carrying haplotype groups with evidence of recent positive selection, five of which carry the known \texttt{L995F} resistance allele, five of which carry the known \texttt{L995S} resistance allele.
 %
-Seven of these groups are localised to a single geographical location, and five comprise haplotypes from different countries, in one case separated by over 3000 km, providing new information about the geographical distribution and spread of resistance.
+Five of these groups are localised to a single geographical location, and five comprise haplotypes from different countries, in one case separated by over 3000 km, providing new information about the geographical distribution and spread of resistance.
+%
+Two "non-\textit{kdr}" haplotype groups with evidence of recent selection were also detected, one of which carries the novel \texttt{I1527T} allele, and one of which carries a novel \texttt{M490I} allele.
 %
 We also find evidence for multiple introgression events transmitting resistance alleles between \textit{An. gambiae} and \textit{An. coluzzii}.
 %
@@ -105,7 +107,7 @@ Pyrethroids are currently used in all insecticide-treated bed-nets (ITNs), and a
 %
 Pyrethroid resistance is widespread in malaria vector populations across Africa \cite{Hemingway2016}.
 %
-The World Health Organization (WHO) has published plans for insecticide resistance management (IRM), which emphasise the need for improvements in both our knowledge of the molecular mechanisms of resistance and our ability to monitor them in natural populations \cite{WorldHealthOrganization2012}.
+The World Health Organization (WHO) has published plans for insecticide resistance management (IRM), which emphasise the need for improvements in both our knowledge of the molecular mechanisms of resistance and our ability to monitor them in natural populations \cite{WorldHealthOrganization2012,world2017global}.
 %%
 
 
@@ -114,11 +116,11 @@ The voltage-gated sodium channel (VGSC) is the physiological target of pyrethroi
 %
 Pyrethroid molecules bind to sites within the protein channel and prevent normal nervous system function, causing paralysis (``knock-down'') and then death.
 %
-However, amino acid substitutions at key positions within the protein alter the interaction with insecticide molecules (target-site resistance), increasing the dose of insecticide required for knock-down \cite{Davies2007a,Dong2014}.
+However, amino acid substitutions at key positions within the protein alter the interaction with insecticide molecules (target-site resistance), increasing the dose of insecticide required for knock-down (hence this type of resistance is also known as knock-down resistance or \textit{kdr}\cite{Davies2007a,Dong2014}.
 %
 In the African malaria vectors \textit{Anopheles gambiae} and \textit{An. coluzzii}, three substitutions have been found to cause pyrethroid resistance.
 %
-Two of these substitutions occur in codon 995\footnotemark, with \texttt{L995F} prevalent in West and Central Africa \cite{Martinez-Torres1998,Silva2014}, and \texttt{L995S} found in Central and East Africa \cite{Ranson2000,Silva2014}.\footnotetext{Codon numbering is given here relative to transcript \texttt{AGAP004707-RA} as defined in the AgamP4.4 gene annotations. A mapping of codon numbers from \texttt{AGAP004707-RA} to \emph{Musca domestica}, the system in which knock-down resistance mutations were first described \cite{Williamson1996}, is given in Table \ref{table:variants_missense}.}
+Two of these substitutions occur in codon 995\footnotemark, with \texttt{L995F} prevalent in West and Central Africa \cite{Martinez-Torres1998,Silva2014}, and \texttt{L995S} found in Central and East Africa \cite{Ranson2000,Silva2014}.\footnotetext{Codon numbering is given here relative to transcript \texttt{AGAP004707-RD} as defined in the AgamP4.12 gene-set annotations. A mapping of codon numbers from \texttt{AGAP004707-RD} to \emph{Musca domestica}, the system in which \textit{kdr} mutations were first described \cite{Williamson1996}, is given in Table \ref{table:variants_missense}.}
 %
 A third substitution, \texttt{N1570Y}, has been found in West and Central Africa and shown to increase resistance in association with \texttt{L995F} \cite{Jones2012}.
 %
@@ -129,7 +131,7 @@ To our knowledge, no studies in malaria vectors have analysed the full \emph{Vgs
 
 
 %%
-Basic information is also lacking about the spread of pyrethroid resistance in malaria vectors.
+Basic information is also lacking about the spread of pyrethroid resistance in malaria vectors \cite{WorldHealthOrganization2012}.
 %
 For example, it is not clear when, where or how many times pyrethroid target-site resistance has emerged.
 %
@@ -139,15 +141,15 @@ Previous studies have found evidence that \texttt{L995F} occurs on several diffe
 %
 However, these studies analysed only small gene regions in a limited number of mosquito populations, and therefore had limited resolution to make inferences about relationships between haplotypes carrying this allele.
 %
-It has also been shown that the \texttt{L995F} allele spread from \textit{An. gambiae} to \textit{An. coluzzii} in West Africa \cite{Clarkson2014,Norris2015}.
+It has also been shown that the \texttt{L995F} allele spread from \textit{An. gambiae} to \textit{An. coluzzii} in West Africa \cite{Weill2000,diabate2004,Clarkson2014,Norris2015}.
 %
-However, both \texttt{L995F} and \texttt{L995S} now have wide geographical distributions \cite{Silva2014}, and to our knowledge no attempts have been made to infer or track the geographical spread of either allele.
+However, both \texttt{L995F} and \texttt{L995S} now have wide geographical distributions \cite{Silva2014}, and to our knowledge no attempts have been made to infer or track the geographical spread of either allele across Africa.
 %%
 
 %%
-Here we report an in-depth analysis of genetic variation in the \textit{Vgsc} gene, using whole-genome Illumina sequence data from phase 1 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) \cite{Ag1000gConsortium2017}.
+Here we report an in-depth analysis of genetic variation in the \textit{Vgsc} gene, using whole-genome Illumina sequence data from phase 2 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) \cite{Ag1000gConsortium2017}.
 %
-The Ag1000G phase 1 resource includes data on nucleotide variation in 765 wild-caught mosquitoes sampled from 8 countries, with representation of West, Central, Southern and East Africa, and of both \textit{An. gambiae} and \textit{An. coluzzii}.
+The Ag1000G phase 2 resource includes data on nucleotide variation in 1,142 wild-caught mosquitoes sampled from 13 countries, with representation of West, Central, Southern and East Africa, and of both \textit{An. gambiae} and \textit{An. coluzzii}.
 %
 We investigate variation across the complete gene coding sequence, and report population genetic data for both known and novel non-synonymous nucleotide substitutions.
 %
@@ -279,7 +281,7 @@ A number of secondary substitutions have occurred and risen in frequency, sugges
 
   \centering
 
-  \includegraphics[width=\linewidth]{artwork/fig_ld.png}
+  \includegraphics[width=\linewidth]{artwork/figure_Phase_2_vgsc_LD.png}
 
   \caption{\textbf{Linkage disequilibrium ($D'$) between non-synonymous variants}. A value of 1 indicates that two alleles are in perfect linkage, meaning that one of the alleles is only ever found in combination with the other. Conversely, a value of -1 indicates that two alleles are never found in combination with each other. The bar plot at the top shows the frequency of each allele within the Ag1000G phase 1 cohort. See Table \ref{table:variants_missense} for population allele frequencies.}
 
@@ -346,7 +348,7 @@ The resulting network contained 5 groups containing haplotypes carrying \texttt{
 %% Figure - Haplotype networks.
 %
 \begin{figure}[!t]
-  \includegraphics[width=1.1\linewidth,center]{artwork/complete_networks.pdf}
+  \includegraphics[width=1.1\linewidth,center]{artwork/figure_Phase_2_median_joining_network_label_pruned.pdf}
   \caption{\textbf{Haplotype networks}. Median joining network for haplotypes carrying \texttt{L995F} (labelled F1-F5) or \texttt{L995S} variants (S1-S5) with a maximum edge distance of two SNPs. Labelling of network components is via concordance with hierarchical clusters discovered in \cite{Ag1000gConsortium2017}. Node size is relative to the number of haplotypes contained and node colour represents the proportion of haplotypes from mosquito populations/species - AO=Angola; BF=Burkina Faso; GN=Guinea; CM=Cameroon; GA=Gabon; UG=Uganda; KE=Kenya. Non-synonymous edges are highlighted in red and those leading to non-singleton nodes are labelled with the codon change, arrow head indicates direction of change away from the reference allele. Network components with fewer than three haplotypes are not shown.}
   \label{fig:networks}
 \end{figure}
@@ -394,7 +396,7 @@ Given this assumption, these groups each provide evidence for adaptive gene flow
 %% Figure - Haplotype map
 %
 \begin{figure}[!t]
-  \includegraphics[width=1.1\linewidth,center]{artwork/outbreak_map_base.pdf}
+  \includegraphics[width=1.1\linewidth,center]{artwork/figure_Phase_2_vgsc_haplotype_frequency.jpg}
   \caption{\textbf{Map of haplotype frequencies}. Each pie shows the frequency of different haplotype groups within one of the populations sampled. The size of the pie is proportional to the number of haplotypes sampled. The size of each wedge within the pie is proportional to the frequency of a haplotype group within the population. Haplotypes in groups F1-5 carry the \texttt{L995F} \textit{kdr} allele. Haplotypes in groups S1-5 carry the \texttt{L995S} \textit{kdr} allele. Haplotypes in group L1 carry the \texttt{I1527T} allele. Haplotypes in group L2 carry the \texttt{M490I} allele. Wild-type (\textit{wt}) haplotypes do not carry any known or putative resistance alleles.}
   \label{fig:map}
 \end{figure}
