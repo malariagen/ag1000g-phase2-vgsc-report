@@ -315,6 +315,33 @@
       \field{type}{techreport}
       \field{year}{2012}
     \endentry
+    \entry{world2017global}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=07025dc7a22c08e61d41e77563b30557}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Health Organization}%
+      }
+      \strng{namehash}{2c67eb2922d13e7055f8681a85b478ed}
+      \strng{fullhash}{2c67eb2922d13e7055f8681a85b478ed}
+      \strng{bibnamehash}{2c67eb2922d13e7055f8681a85b478ed}
+      \strng{authorbibnamehash}{2c67eb2922d13e7055f8681a85b478ed}
+      \strng{authornamehash}{2c67eb2922d13e7055f8681a85b478ed}
+      \strng{authorfullhash}{2c67eb2922d13e7055f8681a85b478ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global vector control response 2017-2030.}
+      \field{title}{Global vector control response 2017-2030.}
+      \field{year}{2017}
+    \endentry
     \entry{Davies2007a}{article}{}
       \name{author}{4}{}{%
         {{hash=e6fb85109b4024ef6fbab46cc85c5184}{%
@@ -6418,6 +6445,70 @@
       \endverb
       \keyw{Mosquito,Malaria,Hybridization,correspondence,emiliano,hybridization,it,malaria,mancini,mosquito,uniroma1}
     \endentry
+    \entry{weill2000}{article}{}
+      \name{author}{8}{}{%
+        {{hash=69d16740320e11ced9c35df4cdce5e41}{%
+           family={Weill},
+           familyi={W\bibinitperiod},
+           given={Myl{\`{e}}ne},
+           giveni={M\bibinitperiod}}}%
+        {{hash=64cf2e2258e79b38385aac92f018b6bd}{%
+           family={Chandre},
+           familyi={C\bibinitperiod},
+           given={Fabrice},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0db30428ff5642e879ae62ba0fc7004f}{%
+           family={Brengues},
+           familyi={B\bibinitperiod},
+           given={C{\'{e}}cile},
+           giveni={C\bibinitperiod}}}%
+        {{hash=990ffda945c3ded717a5c4fb2df8ad09}{%
+           family={Manguin},
+           familyi={M\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a5d9e893fcc792908ce5b8c8d8269fe7}{%
+           family={Akogbeto},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2eded982a4c365fb357e79950467ed9a}{%
+           family={Pasteur},
+           familyi={P\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=636fbcea284aa8d38fcf49a39a886363}{%
+           family={Guillet},
+           familyi={G\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c786c0ed4444dd30fa98dd3821571dda}{%
+           family={Raymond},
+           familyi={R\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{72402e655d276abd5596da72d18369a9}
+      \strng{fullhash}{2896dd9f36afefee276528d16c1ff3b6}
+      \strng{bibnamehash}{72402e655d276abd5596da72d18369a9}
+      \strng{authorbibnamehash}{72402e655d276abd5596da72d18369a9}
+      \strng{authornamehash}{72402e655d276abd5596da72d18369a9}
+      \strng{authorfullhash}{2896dd9f36afefee276528d16c1ff3b6}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Insect molecular biology}
+      \field{number}{5}
+      \field{title}{The kdr mutation occurs in the Mopti form of Anopheles gambiaes. s. through introgression}
+      \field{volume}{9}
+      \field{year}{2000}
+      \field{pages}{451\bibrangedash 455}
+      \range{pages}{5}
+    \endentry
     \entry{diabate2004}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -7142,8 +7233,8 @@
       \strng{authorbibnamehash}{2f42c6b1e5f74ea945e79dbd5cef1143}
       \strng{authornamehash}{2f42c6b1e5f74ea945e79dbd5cef1143}
       \strng{authorfullhash}{453be563228b77bbb38a17f569be288c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLoS One}
@@ -7364,8 +7455,8 @@
       \strng{authorbibnamehash}{2fb1156cdab8d7769b5d77f6b68ecc20}
       \strng{authornamehash}{2fb1156cdab8d7769b5d77f6b68ecc20}
       \strng{authorfullhash}{ccc19b6b1b83a3a5ca7a0110c5502990}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Parasites \& vectors}
@@ -7440,8 +7531,8 @@
       \strng{authorbibnamehash}{93fa714480c06a8fbfc96ac6ab679e5c}
       \strng{authornamehash}{93fa714480c06a8fbfc96ac6ab679e5c}
       \strng{authorfullhash}{5a65d9a3d09815fc0b1d5a3656a0dcf8}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Parasites \& vectors}
@@ -8227,8 +8318,8 @@
       \strng{authorbibnamehash}{631006c7a171a5d6cf4ac5b9bf1ed35d}
       \strng{authornamehash}{631006c7a171a5d6cf4ac5b9bf1ed35d}
       \strng{authorfullhash}{663c0deef9a94403dc41a21a760368a7}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{19336942}
@@ -8539,7 +8630,6 @@
       \range{pages}{6}
     \endentry
   \enddatalist
-  \missing{Weill2000}
 \endrefsection
 \endinput
 

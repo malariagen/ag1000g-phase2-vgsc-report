@@ -1,27 +1,26 @@
 [0] Config.pm:302> INFO - This is Biber 2.10
 [0] Config.pm:305> INFO - Logfile is 'main.blg'
-[34] biber:313> INFO - === Wed Nov 13, 2019, 14:58:16
-[58] Biber.pm:371> INFO - Reading 'main.bcf'
-[132] Biber.pm:857> INFO - Found 43 citekeys in bib section 0
-[145] Biber.pm:3976> INFO - Processing section 0
-[155] Biber.pm:4136> INFO - Looking for bibtex format file 'refs.bib' for section 0
-[155] bibtex.pm:1444> INFO - Reading ascii input as UTF-8
-[161] bibtex.pm:1490> INFO - LaTeX decoding ...
-[306] bibtex.pm:1306> INFO - Found BibTeX data source 'refs.bib'
-[1930] Utils.pm:193> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Weill2000' and 'weill2000' in file 'refs.bib'
-[2363] Utils.pm:193> WARN - I didn't find a database entry for 'Weill2000' (section 0)
-[2421] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2421] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2421] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[2421] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-UK'
-[2495] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'ascii'
-[2501] Utils.pm:193> WARN - The entry 'Bhatt2015' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[2504] Utils.pm:193> WARN - The entry 'Hemingway2016' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[2507] Utils.pm:193> WARN - The entry 'Martinez-Torres1998' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3528] Utils.pm:193> WARN - The entry 'Silva2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3550] Utils.pm:193> WARN - The entry 'diabate2004' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3552] Utils.pm:193> WARN - The entry 'Clarkson2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3556] Utils.pm:193> WARN - The entry 'Toe2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3586] Utils.pm:193> WARN - The entry 'Delaneau2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3588] bbl.pm:720> INFO - Output to main.bbl
-[3588] Biber.pm:110> INFO - WARNINGS: 10
+[35] biber:313> INFO - === Wed Nov 13, 2019, 16:26:32
+[57] Biber.pm:371> INFO - Reading 'main.bcf'
+[134] Biber.pm:857> INFO - Found 44 citekeys in bib section 0
+[147] Biber.pm:3976> INFO - Processing section 0
+[156] Biber.pm:4136> INFO - Looking for bibtex format file 'refs.bib' for section 0
+[157] bibtex.pm:1444> INFO - Reading ascii input as UTF-8
+[163] bibtex.pm:1490> INFO - LaTeX decoding ...
+[371] bibtex.pm:1306> INFO - Found BibTeX data source 'refs.bib'
+[2734] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2734] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2734] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[2734] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-UK'
+[2810] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'ascii'
+[2815] Utils.pm:193> WARN - The entry 'Bhatt2015' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2818] Utils.pm:193> WARN - The entry 'Hemingway2016' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2823] Utils.pm:193> WARN - The entry 'Martinez-Torres1998' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3874] Utils.pm:193> WARN - The entry 'Silva2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3895] Utils.pm:193> WARN - The entry 'weill2000' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3897] Utils.pm:193> WARN - The entry 'diabate2004' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3899] Utils.pm:193> WARN - The entry 'Clarkson2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3905] Utils.pm:193> WARN - The entry 'Toe2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3936] Utils.pm:193> WARN - The entry 'Delaneau2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3939] bbl.pm:720> INFO - Output to main.bbl
+[3939] Biber.pm:110> INFO - WARNINGS: 9
