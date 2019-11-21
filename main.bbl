@@ -6803,8 +6803,8 @@
       \strng{authorbibnamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
       \strng{authornamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
       \strng{authorfullhash}{b73aa8c562d5c17ee1dbf2ba258b0b49}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Pharmacology}
@@ -6844,8 +6844,8 @@
       \strng{authorbibnamehash}{71a3cfc8efc6e09f63d7bf5631d42636}
       \strng{authornamehash}{71a3cfc8efc6e09f63d7bf5631d42636}
       \strng{authorfullhash}{d315068c1097625fa984cf70e4e50768}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{07394462}
@@ -7233,8 +7233,8 @@
       \strng{authorbibnamehash}{2f42c6b1e5f74ea945e79dbd5cef1143}
       \strng{authornamehash}{2f42c6b1e5f74ea945e79dbd5cef1143}
       \strng{authorfullhash}{453be563228b77bbb38a17f569be288c}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLoS One}
@@ -7455,8 +7455,8 @@
       \strng{authorbibnamehash}{2fb1156cdab8d7769b5d77f6b68ecc20}
       \strng{authornamehash}{2fb1156cdab8d7769b5d77f6b68ecc20}
       \strng{authorfullhash}{ccc19b6b1b83a3a5ca7a0110c5502990}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Parasites \& vectors}
@@ -7531,8 +7531,8 @@
       \strng{authorbibnamehash}{93fa714480c06a8fbfc96ac6ab679e5c}
       \strng{authornamehash}{93fa714480c06a8fbfc96ac6ab679e5c}
       \strng{authorfullhash}{5a65d9a3d09815fc0b1d5a3656a0dcf8}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Parasites \& vectors}
@@ -8318,8 +8318,8 @@
       \strng{authorbibnamehash}{631006c7a171a5d6cf4ac5b9bf1ed35d}
       \strng{authornamehash}{631006c7a171a5d6cf4ac5b9bf1ed35d}
       \strng{authorfullhash}{663c0deef9a94403dc41a21a760368a7}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{19336942}
