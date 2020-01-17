@@ -7613,6 +7613,80 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/25815165%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4374364
       \endverb
     \endentry
+    \entry{lucas2019high}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=7dce995ac737c91dd2410679c5a13631}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ef8dfeffb7479e0ba9467e7d0d6e4e21}{%
+           family={Rockett},
+           familyi={R\bibinitperiod},
+           given={Kirk\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e583d720596e1e09e6e7152167fa8d99}{%
+           family={Lynd},
+           familyi={L\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f1424800901fb421fe297ee8a15c9e60}{%
+           family={Essandoh},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=675ab8662c4e51741dc52faf50aa8a6c}{%
+           family={Grisales},
+           familyi={G\bibinitperiod},
+           given={Nelson},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b508d16ff3da387849870ea1d92f89a7}{%
+           family={Kemei},
+           familyi={K\bibinitperiod},
+           given={Brigid},
+           giveni={B\bibinitperiod}}}%
+        {{hash=44a13f1c270246d220eac7a7bd985176}{%
+           family={Njoroge},
+           familyi={N\bibinitperiod},
+           given={Harun},
+           giveni={H\bibinitperiod}}}%
+        {{hash=54fdba5140acd0fda50f4adb6163bfb6}{%
+           family={Hubbart},
+           familyi={H\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=52b85fd7f2f2f543dc4b5ceff96b543f}{%
+           family={Rippon},
+           familyi={R\bibinitperiod},
+           given={Emily\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=85e50c7efdcbdb453fc86e19b5802615}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{cb343fd604e13d9542da5e437fffbecb}
+      \strng{fullhash}{c9400c091444ac4b9e173df5e5f0456d}
+      \strng{bibnamehash}{cb343fd604e13d9542da5e437fffbecb}
+      \strng{authorbibnamehash}{cb343fd604e13d9542da5e437fffbecb}
+      \strng{authornamehash}{cb343fd604e13d9542da5e437fffbecb}
+      \strng{authorfullhash}{c9400c091444ac4b9e173df5e5f0456d}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioRxiv}
+      \field{title}{A high throughput multi-locus insecticide resistance marker panel for tracking resistance emergence and spread in Anopheles gambiae}
+      \field{year}{2019}
+      \field{pages}{592279}
+      \range{pages}{1}
+    \endentry
     \entry{Holt2002}{article}{}
       \name{author}{123}{}{%
         {{hash=0bc0d417dc2c80d1f41a415963ff2c26}{%
@@ -8318,8 +8392,8 @@
       \strng{authorbibnamehash}{631006c7a171a5d6cf4ac5b9bf1ed35d}
       \strng{authornamehash}{631006c7a171a5d6cf4ac5b9bf1ed35d}
       \strng{authorfullhash}{663c0deef9a94403dc41a21a760368a7}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{19336942}
