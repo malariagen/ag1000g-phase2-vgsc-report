@@ -6,19 +6,19 @@ AA0041-Cb,AA0041-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0042-Ca,AA0042-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0042-Cb,AA0042-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0043-Ca,AA0043-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0043-Cb,AA0043-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0043-Cb,AA0043-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0044-Ca,AA0044-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0044-Cb,AA0044-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0044-Cb,AA0044-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0048-Ca,AA0048-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0048-Cb,AA0048-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0049-Ca,AA0049-C,GHcol,Ghana,Madina,F,F1,F1,F1
-AA0049-Cb,AA0049-C,GHcol,Ghana,Madina,F,L1,WT,
+AA0049-Cb,AA0049-C,GHcol,Ghana,Madina,F,L1,WT,WT
 AA0050-Ca,AA0050-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0050-Cb,AA0050-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0051-Ca,AA0051-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0051-Cb,AA0051-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0052-Ca,AA0052-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
-AA0052-Cb,AA0052-C,GHcol,Ghana,Twifo_Praso,F,L1,WT,
+AA0052-Cb,AA0052-C,GHcol,Ghana,Twifo_Praso,F,L1,WT,WT
 AA0053-Ca,AA0053-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0053-Cb,AA0053-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0054-Ca,AA0054-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
@@ -26,7 +26,7 @@ AA0054-Cb,AA0054-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0055-Ca,AA0055-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0055-Cb,AA0055-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0056-Ca,AA0056-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0056-Cb,AA0056-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0056-Cb,AA0056-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0060-Ca,AA0060-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0060-Cb,AA0060-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0061-Ca,AA0061-C,GHgam,Ghana,Madina,F,F1,F1,F1
@@ -43,18 +43,18 @@ AA0068-Ca,AA0068-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0068-Cb,AA0068-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0072-Ca,AA0072-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0072-Cb,AA0072-C,GHgam,Ghana,Madina,F,F1,F1,F1
-AA0073-Ca,AA0073-C,GHcol,Ghana,Madina,F,L1,WT,
-AA0073-Cb,AA0073-C,GHcol,Ghana,Madina,F,L1,WT,
+AA0073-Ca,AA0073-C,GHcol,Ghana,Madina,F,L1,WT,WT
+AA0073-Cb,AA0073-C,GHcol,Ghana,Madina,F,L1,WT,WT
 AA0074-Ca,AA0074-C,GHcol,Ghana,Madina,F,F1,F1,F1
 AA0074-Cb,AA0074-C,GHcol,Ghana,Madina,F,F1,F1,F1
 AA0075-Ca,AA0075-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0075-Cb,AA0075-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0076-Ca,AA0076-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
-AA0076-Cb,AA0076-C,GHcol,Ghana,Twifo_Praso,F,L1,WT,
+AA0076-Cb,AA0076-C,GHcol,Ghana,Twifo_Praso,F,L1,WT,WT
 AA0077-Ca,AA0077-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0077-Cb,AA0077-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0080-Ca,AA0080-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0080-Cb,AA0080-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0080-Cb,AA0080-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0084-Ca,AA0084-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0084-Cb,AA0084-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0085-Ca,AA0085-C,GHgam,Ghana,Madina,F,F1,F1,F1
@@ -67,7 +67,7 @@ AA0088-Ca,AA0088-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0088-Cb,AA0088-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0089-Ca,AA0089-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0089-Cb,AA0089-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
-AA0090-Ca,AA0090-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0090-Ca,AA0090-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0090-Cb,AA0090-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0091-Ca,AA0091-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0091-Cb,AA0091-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
@@ -75,7 +75,7 @@ AA0096-Ca,AA0096-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0096-Cb,AA0096-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0097-Ca,AA0097-C,GHcol,Ghana,Madina,F,F1,F1,F1
 AA0097-Cb,AA0097-C,GHcol,Ghana,Madina,F,F1,F1,F1
-AA0098-Ca,AA0098-C,GHcol,Ghana,Madina,F,L1,WT,
+AA0098-Ca,AA0098-C,GHcol,Ghana,Madina,F,L1,WT,WT
 AA0098-Cb,AA0098-C,GHcol,Ghana,Madina,F,F1,F1,F1
 AA0099-Ca,AA0099-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0099-Cb,AA0099-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
@@ -87,30 +87,30 @@ AA0102-Ca,AA0102-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0102-Cb,AA0102-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0103-Ca,AA0103-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0103-Cb,AA0103-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0104-Ca,AA0104-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0104-Ca,AA0104-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0104-Cb,AA0104-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0107-Ca,AA0107-C,GHcol,Ghana,Koforidua,F,WT25,WT,
-AA0107-Cb,AA0107-C,GHcol,Ghana,Koforidua,F,L1,WT,
+AA0107-Ca,AA0107-C,GHcol,Ghana,Koforidua,F,WT25,WT,WT
+AA0107-Cb,AA0107-C,GHcol,Ghana,Koforidua,F,L1,WT,WT
 AA0108-Ca,AA0108-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0108-Cb,AA0108-C,GHgam,Ghana,Madina,F,FX03,F1,F1
 AA0109-Ca,AA0109-C,GHcol,Ghana,Madina,F,F1,F1,F1
-AA0109-Cb,AA0109-C,GHcol,Ghana,Madina,F,L1,WT,
+AA0109-Cb,AA0109-C,GHcol,Ghana,Madina,F,L1,WT,WT
 AA0110-Ca,AA0110-C,GHcol,Ghana,Madina,F,F1,F1,F1
-AA0110-Cb,AA0110-C,GHcol,Ghana,Madina,F,L1,WT,
+AA0110-Cb,AA0110-C,GHcol,Ghana,Madina,F,L1,WT,WT
 AA0111-Ca,AA0111-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0111-Cb,AA0111-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0113-Ca,AA0113-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0113-Cb,AA0113-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0114-Ca,AA0114-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0114-Cb,AA0114-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
-AA0115-Ca,AA0115-C,GHcol,Ghana,Takoradi,F,L1,WT,
-AA0115-Cb,AA0115-C,GHcol,Ghana,Takoradi,F,L1,WT,
-AA0116-Ca,AA0116-C,GHcol,Ghana,Takoradi,F,L1,WT,
+AA0115-Ca,AA0115-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
+AA0115-Cb,AA0115-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
+AA0116-Ca,AA0116-C,GHcol,Ghana,Takoradi,F,L1,WT,WT
 AA0116-Cb,AA0116-C,GHcol,Ghana,Takoradi,F,F1,F1,F1
 AA0122-Ca,AA0122-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0122-Cb,AA0122-C,GHgam,Ghana,Madina,F,F1,F1,F1
 AA0123-Ca,AA0123-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
-AA0123-Cb,AA0123-C,GHcol,Ghana,Twifo_Praso,F,L1,WT,
+AA0123-Cb,AA0123-C,GHcol,Ghana,Twifo_Praso,F,L1,WT,WT
 AA0124-Ca,AA0124-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0124-Cb,AA0124-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
 AA0125-Ca,AA0125-C,GHcol,Ghana,Twifo_Praso,F,F1,F1,F1
@@ -136,15 +136,15 @@ AA0141-Cb,AA0141-C,GHcol,Ghana,Madina,F,F1,F1,F1
 AB0085-Ca,AB0085-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0085-Cb,AB0085-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0087-Ca,AB0087-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
-AB0087-Cb,AB0087-C,BFcol,Burkina Faso,Bana M,F,L1,WT,
+AB0087-Cb,AB0087-C,BFcol,Burkina Faso,Bana M,F,L1,WT,WT
 AB0088-Ca,AB0088-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0088-Cb,AB0088-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0089-Ca,AB0089-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0089-Cb,AB0089-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0090-Ca,AB0090-C,BFcol,Burkina Faso,Bana,F,F1,F1,F1
-AB0090-Cb,AB0090-C,BFcol,Burkina Faso,Bana,F,L1,WT,
+AB0090-Cb,AB0090-C,BFcol,Burkina Faso,Bana,F,L1,WT,WT
 AB0091-Ca,AB0091-C,BFcol,Burkina Faso,Bana,F,F1,F1,F1
-AB0091-Cb,AB0091-C,BFcol,Burkina Faso,Bana,F,L1,WT,
+AB0091-Cb,AB0091-C,BFcol,Burkina Faso,Bana,F,L1,WT,WT
 AB0092-Ca,AB0092-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0092-Cb,AB0092-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0094-Ca,AB0094-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
@@ -165,15 +165,15 @@ AB0103-Ca,AB0103-C,BFgam,Burkina Faso,Bana M,F,F1,F1,F1
 AB0103-Cb,AB0103-C,BFgam,Burkina Faso,Bana M,F,F1,F1,F1
 AB0104-Ca,AB0104-C,BFgam,Burkina Faso,Bana M,F,F1,F1,F1
 AB0104-Cb,AB0104-C,BFgam,Burkina Faso,Bana M,F,F1,F1,F1
-AB0108-Ca,AB0108-C,BFgam,Burkina Faso,Pala,F,FX05,FX,
+AB0108-Ca,AB0108-C,BFgam,Burkina Faso,Pala,F,FX05,FX,WT
 AB0108-Cb,AB0108-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0109-Ca,AB0109-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0109-Cb,AB0109-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
-AB0110-Ca,AB0110-C,BFcol,Burkina Faso,Bana V,F,L1,WT,
+AB0110-Ca,AB0110-C,BFcol,Burkina Faso,Bana V,F,L1,WT,WT
 AB0110-Cb,AB0110-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0111-Ca,AB0111-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0111-Cb,AB0111-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
-AB0112-Ca,AB0112-C,BFcol,Burkina Faso,Bana,F,L1,WT,
+AB0112-Ca,AB0112-C,BFcol,Burkina Faso,Bana,F,L1,WT,WT
 AB0112-Cb,AB0112-C,BFcol,Burkina Faso,Bana,F,F1,F1,F1
 AB0113-Ca,AB0113-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0113-Cb,AB0113-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
@@ -214,7 +214,7 @@ AB0136-Cb,AB0136-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0137-Ca,AB0137-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0137-Cb,AB0137-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0138-Ca,AB0138-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
-AB0138-Cb,AB0138-C,BFcol,Burkina Faso,Sour,F,L1,WT,
+AB0138-Cb,AB0138-C,BFcol,Burkina Faso,Sour,F,L1,WT,WT
 AB0139-Ca,AB0139-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0139-Cb,AB0139-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0140-Ca,AB0140-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
@@ -281,7 +281,7 @@ AB0178-Ca,AB0178-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0178-Cb,AB0178-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0179-Ca,AB0179-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0179-Cb,AB0179-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
-AB0181-Ca,AB0181-C,BFcol,Burkina Faso,Bana M,F,L1,WT,
+AB0181-Ca,AB0181-C,BFcol,Burkina Faso,Bana M,F,L1,WT,WT
 AB0181-Cb,AB0181-C,BFcol,Burkina Faso,Bana M,F,F1,FX,F1
 AB0182-Ca,AB0182-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0182-Cb,AB0182-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
@@ -295,7 +295,7 @@ AB0186-Ca,AB0186-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0186-Cb,AB0186-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0187-Ca,AB0187-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0187-Cb,AB0187-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
-AB0188-Ca,AB0188-C,BFcol,Burkina Faso,Bana M,F,L1,WT,
+AB0188-Ca,AB0188-C,BFcol,Burkina Faso,Bana M,F,L1,WT,WT
 AB0188-Cb,AB0188-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0189-Ca,AB0189-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0189-Cb,AB0189-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
@@ -303,10 +303,10 @@ AB0190-Ca,AB0190-C,BFcol,Burkina Faso,Bana M,F,F1,F1,F1
 AB0190-Cb,AB0190-C,BFcol,Burkina Faso,Bana M,F,F1,FX,F1
 AB0191-Ca,AB0191-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0191-Cb,AB0191-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
-AB0192-Ca,AB0192-C,BFcol,Burkina Faso,Bana V,F,L1,WT,
+AB0192-Ca,AB0192-C,BFcol,Burkina Faso,Bana V,F,L1,WT,WT
 AB0192-Cb,AB0192-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
-AB0195-Ca,AB0195-C,BFcol,Burkina Faso,Bana V,F,L1,WT,
-AB0195-Cb,AB0195-C,BFcol,Burkina Faso,Bana V,F,F1,FX,
+AB0195-Ca,AB0195-C,BFcol,Burkina Faso,Bana V,F,L1,WT,WT
+AB0195-Cb,AB0195-C,BFcol,Burkina Faso,Bana V,F,F1,FX,WT
 AB0196-Ca,AB0196-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0196-Cb,AB0196-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0197-Ca,AB0197-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
@@ -324,7 +324,7 @@ AB0202-Cb,AB0202-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0203-Ca,AB0203-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0203-Cb,AB0203-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0204-Ca,AB0204-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
-AB0204-Cb,AB0204-C,BFcol,Burkina Faso,Pala,F,L1,WT,
+AB0204-Cb,AB0204-C,BFcol,Burkina Faso,Pala,F,L1,WT,WT
 AB0205-Ca,AB0205-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0205-Cb,AB0205-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0206-Ca,AB0206-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
@@ -340,7 +340,7 @@ AB0210-Cb,AB0210-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
 AB0211-Ca,AB0211-C,BFgam,Burkina Faso,Bana V,F,F1,F1,F1
 AB0211-Cb,AB0211-C,BFgam,Burkina Faso,Bana V,F,F1,F1,F1
 AB0212-Ca,AB0212-C,BFcol,Burkina Faso,Bana V,F,F1,F1,F1
-AB0212-Cb,AB0212-C,BFcol,Burkina Faso,Bana V,F,L1,WT,
+AB0212-Cb,AB0212-C,BFcol,Burkina Faso,Bana V,F,L1,WT,WT
 AB0213-Ca,AB0213-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0213-Cb,AB0213-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0215-Ca,AB0215-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
@@ -359,13 +359,13 @@ AB0223-Ca,AB0223-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0223-Cb,AB0223-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0224-Ca,AB0224-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0224-Cb,AB0224-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
-AB0226-Ca,AB0226-C,BFcol,Burkina Faso,Sour,F,L1,WT,
+AB0226-Ca,AB0226-C,BFcol,Burkina Faso,Sour,F,L1,WT,WT
 AB0226-Cb,AB0226-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0227-Ca,AB0227-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0227-Cb,AB0227-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0228-Ca,AB0228-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0228-Cb,AB0228-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
-AB0229-Ca,AB0229-C,BFcol,Burkina Faso,Sour,F,L1,WT,
+AB0229-Ca,AB0229-C,BFcol,Burkina Faso,Sour,F,L1,WT,WT
 AB0229-Cb,AB0229-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0231-Ca,AB0231-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0231-Cb,AB0231-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
@@ -385,17 +385,17 @@ AB0238-Ca,AB0238-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0238-Cb,AB0238-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0239-Ca,AB0239-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0239-Cb,AB0239-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
-AB0240-Ca,AB0240-C,BFcol,Burkina Faso,Sour,F,L1,WT,
+AB0240-Ca,AB0240-C,BFcol,Burkina Faso,Sour,F,L1,WT,WT
 AB0240-Cb,AB0240-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0241-Ca,AB0241-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0241-Cb,AB0241-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
-AB0242-Ca,AB0242-C,BFcol,Burkina Faso,Sour,F,F1,FX,
-AB0242-Cb,AB0242-C,BFcol,Burkina Faso,Sour,F,WT82,WT,
+AB0242-Ca,AB0242-C,BFcol,Burkina Faso,Sour,F,F1,FX,WT
+AB0242-Cb,AB0242-C,BFcol,Burkina Faso,Sour,F,WT82,WT,WT
 AB0243-Ca,AB0243-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0243-Cb,AB0243-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0244-Ca,AB0244-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
 AB0244-Cb,AB0244-C,BFgam,Burkina Faso,Sour,F,F1,F1,F1
-AB0246-Ca,AB0246-C,BFcol,Burkina Faso,Sour,F,L1,WT,
+AB0246-Ca,AB0246-C,BFcol,Burkina Faso,Sour,F,L1,WT,WT
 AB0246-Cb,AB0246-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0247-Ca,AB0247-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
 AB0247-Cb,AB0247-C,BFcol,Burkina Faso,Sour,F,F1,F1,F1
@@ -416,7 +416,7 @@ AB0255-Cb,AB0255-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0256-Ca,AB0256-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0256-Cb,AB0256-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0257-Ca,AB0257-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
-AB0257-Cb,AB0257-C,BFcol,Burkina Faso,Pala,F,L1,WT,
+AB0257-Cb,AB0257-C,BFcol,Burkina Faso,Pala,F,L1,WT,WT
 AB0258-Ca,AB0258-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
 AB0258-Cb,AB0258-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
 AB0260-Ca,AB0260-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
@@ -426,14 +426,14 @@ AB0261-Cb,AB0261-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0262-Ca,AB0262-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
 AB0262-Cb,AB0262-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
 AB0263-Ca,AB0263-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
-AB0263-Cb,AB0263-C,BFcol,Burkina Faso,Pala,F,L1,WT,
+AB0263-Cb,AB0263-C,BFcol,Burkina Faso,Pala,F,L1,WT,WT
 AB0264-Ca,AB0264-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0264-Cb,AB0264-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0265-Ca,AB0265-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0265-Cb,AB0265-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
-AB0266-Ca,AB0266-C,BFcol,Burkina Faso,Pala,F,L1,WT,
-AB0266-Cb,AB0266-C,BFcol,Burkina Faso,Pala,F,WT83,WT,
-AB0267-Ca,AB0267-C,BFcol,Burkina Faso,Pala,F,L1,WT,
+AB0266-Ca,AB0266-C,BFcol,Burkina Faso,Pala,F,L1,WT,WT
+AB0266-Cb,AB0266-C,BFcol,Burkina Faso,Pala,F,WT83,WT,WT
+AB0267-Ca,AB0267-C,BFcol,Burkina Faso,Pala,F,L1,WT,WT
 AB0267-Cb,AB0267-C,BFcol,Burkina Faso,Pala,F,F1,F1,F1
 AB0268-Ca,AB0268-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
 AB0268-Cb,AB0268-C,BFgam,Burkina Faso,Pala,F,F1,F1,F1
@@ -691,324 +691,324 @@ AC0202-Ca,AC0202-C,UGgam,Uganda,"Nagongera, Tororo",F,S1,S1,S1
 AC0202-Cb,AC0202-C,UGgam,Uganda,"Nagongera, Tororo",F,S3,S3,S3
 AC0203-Ca,AC0203-C,UGgam,Uganda,"Nagongera, Tororo",F,S3,S3,S3
 AC0203-Cb,AC0203-C,UGgam,Uganda,"Nagongera, Tororo",F,S3,S3,S3
-AG0082-Ca,AG0082-C,GM,"Gambia, The",SIB,F,WT33,WT,
-AG0082-Cb,AG0082-C,GM,"Gambia, The",SIB,F,WT49,WT,
-AG0085-Ca,AG0085-C,GM,"Gambia, The",SIB,F,WT15,WT,
-AG0085-Cb,AG0085-C,GM,"Gambia, The",SIB,F,WT04,WT,
-AG0089-Ca,AG0089-C,GM,"Gambia, The",SIB,F,WT84,WT,
-AG0089-Cb,AG0089-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0096-Ca,AG0096-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0096-Cb,AG0096-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0097-Ca,AG0097-C,GM,"Gambia, The",SIB,F,WT22,WT,
-AG0097-Cb,AG0097-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0098-Ca,AG0098-C,GM,"Gambia, The",SIB,F,WT22,WT,
-AG0098-Cb,AG0098-C,GM,"Gambia, The",SIB,F,WT07,WT,
-AG0100-Ca,AG0100-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0100-Cb,AG0100-C,GM,"Gambia, The",SIB,F,WT33,WT,
-AG0102-Ca,AG0102-C,GM,"Gambia, The",SIB,F,WT85,WT,
-AG0102-Cb,AG0102-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0104-Ca,AG0104-C,GM,"Gambia, The",MSN,F,WT26,WT,
-AG0104-Cb,AG0104-C,GM,"Gambia, The",MSN,F,WT03,WT,
-AG0106-Ca,AG0106-C,GM,"Gambia, The",MSN,F,WT02,WT,
-AG0106-Cb,AG0106-C,GM,"Gambia, The",MSN,F,WT23,WT,
-AG0108-Ca,AG0108-C,GM,"Gambia, The",MSN,F,WT50,WT,
-AG0108-Cb,AG0108-C,GM,"Gambia, The",MSN,F,WT15,WT,
-AG0109-Ca,AG0109-C,GM,"Gambia, The",MSN,F,WT22,WT,
-AG0109-Cb,AG0109-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0111-Ca,AG0111-C,GM,"Gambia, The",MSN,F,WT04,WT,
-AG0111-Cb,AG0111-C,GM,"Gambia, The",MSN,F,WT51,WT,
-AG0118-Ca,AG0118-C,GM,"Gambia, The",MSN,F,WT52,WT,
-AG0118-Cb,AG0118-C,GM,"Gambia, The",MSN,F,WT10,WT,
-AG0120-Ca,AG0120-C,GM,"Gambia, The",MSN,F,WT51,WT,
-AG0120-Cb,AG0120-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0121-Ca,AG0121-C,GM,"Gambia, The",MSN,F,LX02,WT,
-AG0121-Cb,AG0121-C,GM,"Gambia, The",MSN,F,WT10,WT,
-AG0123-Ca,AG0123-C,GM,"Gambia, The",MSN,F,WT86,WT,
-AG0123-Cb,AG0123-C,GM,"Gambia, The",MSN,F,WT87,WT,
-AG0125-Ca,AG0125-C,GM,"Gambia, The",KSK,F,WT04,WT,
-AG0125-Cb,AG0125-C,GM,"Gambia, The",KSK,F,WT01,WT,
-AG0126-Ca,AG0126-C,GM,"Gambia, The",KSK,F,WT49,WT,
-AG0126-Cb,AG0126-C,GM,"Gambia, The",KSK,F,WT04,WT,
-AG0127-Ca,AG0127-C,GM,"Gambia, The",KSK,F,WT02,WT,
-AG0127-Cb,AG0127-C,GM,"Gambia, The",KSK,F,WT02,WT,
-AG0128-Ca,AG0128-C,GM,"Gambia, The",SIB,F,WT06,WT,
-AG0128-Cb,AG0128-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0129-Ca,AG0129-C,GM,"Gambia, The",SIB,F,WT03,WT,
-AG0129-Cb,AG0129-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0133-Ca,AG0133-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0133-Cb,AG0133-C,GM,"Gambia, The",SIB,F,WT88,WT,
-AG0134-Ca,AG0134-C,GM,"Gambia, The",SIB,F,WT26,WT,
-AG0134-Cb,AG0134-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0136-Ca,AG0136-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0136-Cb,AG0136-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0137-Ca,AG0137-C,GM,"Gambia, The",SIB,F,WT52,WT,
-AG0137-Cb,AG0137-C,GM,"Gambia, The",SIB,F,WT27,WT,
-AG0138-Ca,AG0138-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0138-Cb,AG0138-C,GM,"Gambia, The",SIB,F,WT15,WT,
-AG0139-Ca,AG0139-C,GM,"Gambia, The",SIB,F,WT03,WT,
-AG0139-Cb,AG0139-C,GM,"Gambia, The",SIB,F,WT53,WT,
-AG0141-Ca,AG0141-C,GM,"Gambia, The",SIB,F,WT15,WT,
-AG0141-Cb,AG0141-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0142-Ca,AG0142-C,GM,"Gambia, The",KBK,F,WT10,WT,
-AG0142-Cb,AG0142-C,GM,"Gambia, The",KBK,F,WT04,WT,
-AG0143-Ca,AG0143-C,GM,"Gambia, The",KBK,F,WT02,WT,
-AG0143-Cb,AG0143-C,GM,"Gambia, The",KBK,F,WT23,WT,
-AG0144-Ca,AG0144-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0144-Cb,AG0144-C,GM,"Gambia, The",KBK,F,WT10,WT,
-AG0145-Ca,AG0145-C,GM,"Gambia, The",KBK,F,WT04,WT,
-AG0145-Cb,AG0145-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0146-Ca,AG0146-C,GM,"Gambia, The",KBK,F,LX01,WT,
-AG0146-Cb,AG0146-C,GM,"Gambia, The",KBK,F,WT04,WT,
-AG0147-Ca,AG0147-C,GM,"Gambia, The",KBK,F,WT10,WT,
-AG0147-Cb,AG0147-C,GM,"Gambia, The",KBK,F,WT02,WT,
-AG0148-Ca,AG0148-C,GM,"Gambia, The",KBK,F,LX01,WT,
-AG0148-Cb,AG0148-C,GM,"Gambia, The",KBK,F,WT04,WT,
-AG0152-Ca,AG0152-C,GM,"Gambia, The",KBK,F,WT26,WT,
-AG0152-Cb,AG0152-C,GM,"Gambia, The",KBK,F,WT03,WT,
-AG0153-Ca,AG0153-C,GM,"Gambia, The",KBK,F,WT02,WT,
-AG0153-Cb,AG0153-C,GM,"Gambia, The",KBK,F,WT89,WT,
-AG0156-Ca,AG0156-C,GM,"Gambia, The",KBK,F,WT23,WT,
-AG0156-Cb,AG0156-C,GM,"Gambia, The",KBK,F,WT25,WT,
-AG0159-Ca,AG0159-C,GM,"Gambia, The",KBK,F,WT03,WT,
-AG0159-Cb,AG0159-C,GM,"Gambia, The",KBK,F,WT53,WT,
-AG0162-Ca,AG0162-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0162-Cb,AG0162-C,GM,"Gambia, The",KBK,F,WT02,WT,
-AG0163-Ca,AG0163-C,GM,"Gambia, The",KBK,F,WT90,WT,
-AG0163-Cb,AG0163-C,GM,"Gambia, The",KBK,F,WT91,WT,
-AG0169-Ca,AG0169-C,GM,"Gambia, The",MSN,F,WT22,WT,
-AG0169-Cb,AG0169-C,GM,"Gambia, The",MSN,F,WT10,WT,
-AG0170-Ca,AG0170-C,GM,"Gambia, The",MSN,F,WT02,WT,
-AG0170-Cb,AG0170-C,GM,"Gambia, The",MSN,F,WT22,WT,
-AG0172-Ca,AG0172-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0172-Cb,AG0172-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0178-Ca,AG0178-C,GM,"Gambia, The",KBK,F,WT03,WT,
-AG0178-Cb,AG0178-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0179-Ca,AG0179-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0179-Cb,AG0179-C,GM,"Gambia, The",KBK,F,WT15,WT,
-AG0181-Ca,AG0181-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0181-Cb,AG0181-C,GM,"Gambia, The",SIB,F,WT01,WT,
-AG0183-Ca,AG0183-C,GM,"Gambia, The",SIB,F,WT02,WT,
-AG0183-Cb,AG0183-C,GM,"Gambia, The",SIB,F,WT25,WT,
-AG0195-Ca,AG0195-C,GM,"Gambia, The",SIB,F,WT03,WT,
-AG0195-Cb,AG0195-C,GM,"Gambia, The",SIB,F,WT19,WT,
-AG0197-Ca,AG0197-C,GM,"Gambia, The",MSN,F,WT02,WT,
-AG0197-Cb,AG0197-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0202-Ca,AG0202-C,GM,"Gambia, The",MSN,F,WT33,WT,
-AG0202-Cb,AG0202-C,GM,"Gambia, The",MSN,F,WT02,WT,
-AG0203-Ca,AG0203-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0203-Cb,AG0203-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0204-Ca,AG0204-C,GM,"Gambia, The",MSN,F,WT50,WT,
-AG0204-Cb,AG0204-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0206-Ca,AG0206-C,GM,"Gambia, The",MSN,F,WT20,WT,
-AG0206-Cb,AG0206-C,GM,"Gambia, The",MSN,F,WT04,WT,
-AG0208-Ca,AG0208-C,GM,"Gambia, The",MSN,F,WT01,WT,
-AG0208-Cb,AG0208-C,GM,"Gambia, The",MSN,F,WT04,WT,
-AG0214-Ca,AG0214-C,GM,"Gambia, The",KSK,F,WT02,WT,
-AG0214-Cb,AG0214-C,GM,"Gambia, The",KSK,F,WT10,WT,
-AG0221-Ca,AG0221-C,GM,"Gambia, The",KBK,F,WT16,WT,
-AG0221-Cb,AG0221-C,GM,"Gambia, The",KBK,F,WT02,WT,
-AG0223-Ca,AG0223-C,GM,"Gambia, The",KBK,F,WT15,WT,
-AG0223-Cb,AG0223-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0227-Ca,AG0227-C,GM,"Gambia, The",KBK,F,WT15,WT,
-AG0227-Cb,AG0227-C,GM,"Gambia, The",KBK,F,WT92,WT,
-AG0229-Ca,AG0229-C,GM,"Gambia, The",KSK,F,WT03,WT,
-AG0229-Cb,AG0229-C,GM,"Gambia, The",KSK,F,WT19,WT,
-AG0230-Ca,AG0230-C,GM,"Gambia, The",KSK,F,LX01,WT,
-AG0230-Cb,AG0230-C,GM,"Gambia, The",KSK,F,WT01,WT,
-AG0231-Ca,AG0231-C,GM,"Gambia, The",KSK,F,WT93,WT,
-AG0231-Cb,AG0231-C,GM,"Gambia, The",KSK,F,WT02,WT,
-AG0232-Ca,AG0232-C,GM,"Gambia, The",KSK,F,WT26,WT,
-AG0232-Cb,AG0232-C,GM,"Gambia, The",KSK,F,WT19,WT,
-AG0263-Ca,AG0263-C,GM,"Gambia, The",KBK,F,WT01,WT,
-AG0263-Cb,AG0263-C,GM,"Gambia, The",KBK,F,WT04,WT,
-AJ0023-Ca,AJ0023-C,GW,Guinea-Bissau,Antula,F,WT94,WT,
-AJ0023-Cb,AJ0023-C,GW,Guinea-Bissau,Antula,F,WT95,WT,
-AJ0024-Ca,AJ0024-C,GW,Guinea-Bissau,Antula,F,WT96,WT,
-AJ0024-Cb,AJ0024-C,GW,Guinea-Bissau,Antula,F,WT97,WT,
-AJ0028-Ca,AJ0028-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0028-Cb,AJ0028-C,GW,Guinea-Bissau,Antula,F,WT03,WT,
-AJ0032-Ca,AJ0032-C,GW,Guinea-Bissau,Antula,F,WT24,WT,
-AJ0032-Cb,AJ0032-C,GW,Guinea-Bissau,Antula,F,WT54,WT,
-AJ0035-Ca,AJ0035-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0035-Cb,AJ0035-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0036-Ca,AJ0036-C,GW,Guinea-Bissau,Antula,F,WT98,WT,
-AJ0036-Cb,AJ0036-C,GW,Guinea-Bissau,Antula,F,WT28,WT,
-AJ0037-Ca,AJ0037-C,GW,Guinea-Bissau,Antula,F,WT17,WT,
-AJ0037-Cb,AJ0037-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0038-Ca,AJ0038-C,GW,Guinea-Bissau,Antula,F,WT34,WT,
-AJ0038-Cb,AJ0038-C,GW,Guinea-Bissau,Antula,F,WT03,WT,
-AJ0039-Ca,AJ0039-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0039-Cb,AJ0039-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0043-Ca,AJ0043-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0043-Cb,AJ0043-C,GW,Guinea-Bissau,Antula,F,WT06,WT,
-AJ0044-Ca,AJ0044-C,GW,Guinea-Bissau,Antula,F,WT55,WT,
-AJ0044-Cb,AJ0044-C,GW,Guinea-Bissau,Antula,F,WT11,WT,
-AJ0045-Ca,AJ0045-C,GW,Guinea-Bissau,Antula,F,WT17,WT,
-AJ0045-Cb,AJ0045-C,GW,Guinea-Bissau,Antula,F,WT99,WT,
-AJ0047-Ca,AJ0047-C,GW,Guinea-Bissau,Antula,F,WT11,WT,
-AJ0047-Cb,AJ0047-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0051-Ca,AJ0051-C,GW,Guinea-Bissau,Antula,F,WT25,WT,
-AJ0051-Cb,AJ0051-C,GW,Guinea-Bissau,Antula,F,WT20,WT,
-AJ0052-Ca,AJ0052-C,GW,Guinea-Bissau,Antula,F,WT11,WT,
-AJ0052-Cb,AJ0052-C,GW,Guinea-Bissau,Antula,F,WT11,WT,
-AJ0056-Ca,AJ0056-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0056-Cb,AJ0056-C,GW,Guinea-Bissau,Antula,F,WT02,WT,
-AJ0059-Ca,AJ0059-C,GW,Guinea-Bissau,Antula,F,WT06,WT,
-AJ0059-Cb,AJ0059-C,GW,Guinea-Bissau,Antula,F,WT56,WT,
-AJ0060-Ca,AJ0060-C,GW,Guinea-Bissau,Antula,F,WT11,WT,
-AJ0060-Cb,AJ0060-C,GW,Guinea-Bissau,Antula,F,WT57,WT,
-AJ0061-Ca,AJ0061-C,GW,Guinea-Bissau,Antula,F,WT34,WT,
-AJ0061-Cb,AJ0061-C,GW,Guinea-Bissau,Antula,F,WT03,WT,
-AJ0063-Ca,AJ0063-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0063-Cb,AJ0063-C,GW,Guinea-Bissau,Antula,F,WT12,WT,
-AJ0064-Ca,AJ0064-C,GW,Guinea-Bissau,Antula,F,WT35,WT,
-AJ0064-Cb,AJ0064-C,GW,Guinea-Bissau,Antula,F,WT100,WT,
-AJ0066-Ca,AJ0066-C,GW,Guinea-Bissau,Antula,F,WT03,WT,
-AJ0066-Cb,AJ0066-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0068-Ca,AJ0068-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0068-Cb,AJ0068-C,GW,Guinea-Bissau,Antula,F,WT36,WT,
-AJ0070-Ca,AJ0070-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0070-Cb,AJ0070-C,GW,Guinea-Bissau,Antula,F,WT58,WT,
-AJ0071-Ca,AJ0071-C,GW,Guinea-Bissau,Antula,F,WT37,WT,
-AJ0071-Cb,AJ0071-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0072-Ca,AJ0072-C,GW,Guinea-Bissau,Antula,F,WT28,WT,
-AJ0072-Cb,AJ0072-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0074-Ca,AJ0074-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0074-Cb,AJ0074-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0075-Ca,AJ0075-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0075-Cb,AJ0075-C,GW,Guinea-Bissau,Antula,F,WT10,WT,
-AJ0076-Ca,AJ0076-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0076-Cb,AJ0076-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0077-Ca,AJ0077-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0077-Cb,AJ0077-C,GW,Guinea-Bissau,Antula,F,WT101,WT,
-AJ0078-Ca,AJ0078-C,GW,Guinea-Bissau,Antula,F,WT102,WT,
-AJ0078-Cb,AJ0078-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0080-Ca,AJ0080-C,GW,Guinea-Bissau,Antula,F,WT103,WT,
-AJ0080-Cb,AJ0080-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0081-Ca,AJ0081-C,GW,Guinea-Bissau,Antula,F,WT54,WT,
-AJ0081-Cb,AJ0081-C,GW,Guinea-Bissau,Antula,F,WT36,WT,
-AJ0084-Ca,AJ0084-C,GW,Guinea-Bissau,Antula,F,WT59,WT,
-AJ0084-Cb,AJ0084-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0085-Ca,AJ0085-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0085-Cb,AJ0085-C,GW,Guinea-Bissau,Antula,F,WT36,WT,
-AJ0086-Ca,AJ0086-C,GW,Guinea-Bissau,Antula,F,WT104,WT,
-AJ0086-Cb,AJ0086-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0087-Ca,AJ0087-C,GW,Guinea-Bissau,Antula,F,WT60,WT,
-AJ0087-Cb,AJ0087-C,GW,Guinea-Bissau,Antula,F,WT17,WT,
-AJ0088-Ca,AJ0088-C,GW,Guinea-Bissau,Antula,F,WT17,WT,
-AJ0088-Cb,AJ0088-C,GW,Guinea-Bissau,Antula,F,WT105,WT,
-AJ0090-Ca,AJ0090-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0090-Cb,AJ0090-C,GW,Guinea-Bissau,Antula,F,WT06,WT,
-AJ0092-Ca,AJ0092-C,GW,Guinea-Bissau,Antula,F,WT60,WT,
-AJ0092-Cb,AJ0092-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0093-Ca,AJ0093-C,GW,Guinea-Bissau,Antula,F,WT20,WT,
-AJ0093-Cb,AJ0093-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0095-Ca,AJ0095-C,GW,Guinea-Bissau,Antula,F,WT13,WT,
-AJ0095-Cb,AJ0095-C,GW,Guinea-Bissau,Antula,F,WT24,WT,
-AJ0096-Ca,AJ0096-C,GW,Guinea-Bissau,Antula,F,WT02,WT,
-AJ0096-Cb,AJ0096-C,GW,Guinea-Bissau,Antula,F,WT17,WT,
-AJ0097-Ca,AJ0097-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0097-Cb,AJ0097-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0098-Ca,AJ0098-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0098-Cb,AJ0098-C,GW,Guinea-Bissau,Antula,F,WT58,WT,
-AJ0099-Ca,AJ0099-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0099-Cb,AJ0099-C,GW,Guinea-Bissau,Antula,F,WT106,WT,
-AJ0100-Ca,AJ0100-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0100-Cb,AJ0100-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0101-Ca,AJ0101-C,GW,Guinea-Bissau,Antula,F,WT03,WT,
-AJ0101-Cb,AJ0101-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0102-Ca,AJ0102-C,GW,Guinea-Bissau,Antula,F,WT107,WT,
-AJ0102-Cb,AJ0102-C,GW,Guinea-Bissau,Antula,F,WT02,WT,
-AJ0103-Ca,AJ0103-C,GW,Guinea-Bissau,Antula,F,WT27,WT,
-AJ0103-Cb,AJ0103-C,GW,Guinea-Bissau,Antula,F,WT59,WT,
-AJ0105-Ca,AJ0105-C,GW,Guinea-Bissau,Antula,F,WT108,WT,
-AJ0105-Cb,AJ0105-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0107-Ca,AJ0107-C,GW,Guinea-Bissau,Antula,F,WT28,WT,
-AJ0107-Cb,AJ0107-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0109-Ca,AJ0109-C,GW,Guinea-Bissau,Antula,F,WT109,WT,
-AJ0109-Cb,AJ0109-C,GW,Guinea-Bissau,Antula,F,WT110,WT,
-AJ0113-Ca,AJ0113-C,GW,Guinea-Bissau,Antula,F,WT111,WT,
-AJ0113-Cb,AJ0113-C,GW,Guinea-Bissau,Antula,F,WT10,WT,
-AJ0115-Ca,AJ0115-C,GW,Guinea-Bissau,Antula,F,WT07,WT,
-AJ0115-Cb,AJ0115-C,GW,Guinea-Bissau,Antula,F,WT03,WT,
-AJ0116-Ca,AJ0116-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0116-Cb,AJ0116-C,GW,Guinea-Bissau,Antula,F,WT55,WT,
-AJ0117-Ca,AJ0117-C,GW,Guinea-Bissau,Antula,F,WT01,WT,
-AJ0117-Cb,AJ0117-C,GW,Guinea-Bissau,Antula,F,WT20,WT,
-AJ0119-Ca,AJ0119-C,GW,Guinea-Bissau,Antula,F,WT04,WT,
-AJ0119-Cb,AJ0119-C,GW,Guinea-Bissau,Antula,F,WT02,WT,
-AJ0128-Ca,AJ0128-C,GW,Guinea-Bissau,Safim,F,WT05,WT,
-AJ0128-Cb,AJ0128-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0129-Ca,AJ0129-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0129-Cb,AJ0129-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0130-Ca,AJ0130-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0130-Cb,AJ0130-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0131-Ca,AJ0131-C,GW,Guinea-Bissau,Safim,F,WT37,WT,
-AJ0131-Cb,AJ0131-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0132-Ca,AJ0132-C,GW,Guinea-Bissau,Safim,F,WT112,WT,
-AJ0132-Cb,AJ0132-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0133-Ca,AJ0133-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0133-Cb,AJ0133-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0134-Ca,AJ0134-C,GW,Guinea-Bissau,Safim,F,WT113,WT,
-AJ0134-Cb,AJ0134-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0135-Ca,AJ0135-C,GW,Guinea-Bissau,Safim,F,WT24,WT,
-AJ0135-Cb,AJ0135-C,GW,Guinea-Bissau,Safim,F,WT02,WT,
-AJ0136-Ca,AJ0136-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0136-Cb,AJ0136-C,GW,Guinea-Bissau,Safim,F,WT06,WT,
-AJ0137-Ca,AJ0137-C,GW,Guinea-Bissau,Safim,F,WT17,WT,
-AJ0137-Cb,AJ0137-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0138-Ca,AJ0138-C,GW,Guinea-Bissau,Safim,F,WT20,WT,
-AJ0138-Cb,AJ0138-C,GW,Guinea-Bissau,Safim,F,WT27,WT,
-AJ0139-Ca,AJ0139-C,GW,Guinea-Bissau,Safim,F,WT23,WT,
-AJ0139-Cb,AJ0139-C,GW,Guinea-Bissau,Safim,F,WT11,WT,
-AJ0140-Ca,AJ0140-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0140-Cb,AJ0140-C,GW,Guinea-Bissau,Safim,F,WT114,WT,
-AJ0141-Ca,AJ0141-C,GW,Guinea-Bissau,Safim,F,WT34,WT,
-AJ0141-Cb,AJ0141-C,GW,Guinea-Bissau,Safim,F,WT57,WT,
-AJ0142-Ca,AJ0142-C,GW,Guinea-Bissau,Safim,F,WT07,WT,
-AJ0142-Cb,AJ0142-C,GW,Guinea-Bissau,Safim,F,WT07,WT,
-AJ0143-Ca,AJ0143-C,GW,Guinea-Bissau,Safim,F,WT115,WT,
-AJ0143-Cb,AJ0143-C,GW,Guinea-Bissau,Safim,F,WT06,WT,
-AJ0144-Ca,AJ0144-C,GW,Guinea-Bissau,Safim,F,WT02,WT,
-AJ0144-Cb,AJ0144-C,GW,Guinea-Bissau,Safim,F,WT35,WT,
-AJ0145-Ca,AJ0145-C,GW,Guinea-Bissau,Safim,F,WT61,WT,
-AJ0145-Cb,AJ0145-C,GW,Guinea-Bissau,Safim,F,WT23,WT,
-AJ0146-Ca,AJ0146-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0146-Cb,AJ0146-C,GW,Guinea-Bissau,Safim,F,WT11,WT,
-AJ0147-Ca,AJ0147-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0147-Cb,AJ0147-C,GW,Guinea-Bissau,Safim,F,WT24,WT,
-AJ0148-Ca,AJ0148-C,GW,Guinea-Bissau,Safim,F,WT62,WT,
-AJ0148-Cb,AJ0148-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0149-Ca,AJ0149-C,GW,Guinea-Bissau,Safim,F,WT06,WT,
-AJ0149-Cb,AJ0149-C,GW,Guinea-Bissau,Safim,F,WT63,WT,
-AJ0150-Ca,AJ0150-C,GW,Guinea-Bissau,Safim,F,WT64,WT,
-AJ0150-Cb,AJ0150-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0151-Ca,AJ0151-C,GW,Guinea-Bissau,Safim,F,WT04,WT,
-AJ0151-Cb,AJ0151-C,GW,Guinea-Bissau,Safim,F,WT02,WT,
-AJ0152-Ca,AJ0152-C,GW,Guinea-Bissau,Safim,F,WT37,WT,
-AJ0152-Cb,AJ0152-C,GW,Guinea-Bissau,Safim,F,WT63,WT,
-AJ0153-Ca,AJ0153-C,GW,Guinea-Bissau,Safim,F,WT20,WT,
-AJ0153-Cb,AJ0153-C,GW,Guinea-Bissau,Safim,F,WT13,WT,
-AJ0154-Ca,AJ0154-C,GW,Guinea-Bissau,Safim,F,WT116,WT,
-AJ0154-Cb,AJ0154-C,GW,Guinea-Bissau,Safim,F,WT64,WT,
-AJ0155-Ca,AJ0155-C,GW,Guinea-Bissau,Safim,F,WT56,WT,
-AJ0155-Cb,AJ0155-C,GW,Guinea-Bissau,Safim,F,WT02,WT,
-AJ0156-Ca,AJ0156-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0156-Cb,AJ0156-C,GW,Guinea-Bissau,Safim,F,WT01,WT,
-AJ0157-Ca,AJ0157-C,GW,Guinea-Bissau,Safim,F,WT11,WT,
-AJ0157-Cb,AJ0157-C,GW,Guinea-Bissau,Safim,F,WT17,WT,
-AJ0158-Ca,AJ0158-C,GW,Guinea-Bissau,Safim,F,WT07,WT,
-AJ0158-Cb,AJ0158-C,GW,Guinea-Bissau,Safim,F,WT35,WT,
-AJ0159-Ca,AJ0159-C,GW,Guinea-Bissau,Safim,F,WT11,WT,
-AJ0159-Cb,AJ0159-C,GW,Guinea-Bissau,Safim,F,WT28,WT,
-AJ0161-Ca,AJ0161-C,GW,Guinea-Bissau,Safim,F,WT27,WT,
-AJ0161-Cb,AJ0161-C,GW,Guinea-Bissau,Safim,F,WT09,WT,
+AG0082-Ca,AG0082-C,GM,"Gambia, The",SIB,F,WT33,WT,WT
+AG0082-Cb,AG0082-C,GM,"Gambia, The",SIB,F,WT49,WT,WT
+AG0085-Ca,AG0085-C,GM,"Gambia, The",SIB,F,WT15,WT,WT
+AG0085-Cb,AG0085-C,GM,"Gambia, The",SIB,F,WT04,WT,WT
+AG0089-Ca,AG0089-C,GM,"Gambia, The",SIB,F,WT84,WT,WT
+AG0089-Cb,AG0089-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0096-Ca,AG0096-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0096-Cb,AG0096-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0097-Ca,AG0097-C,GM,"Gambia, The",SIB,F,WT22,WT,WT
+AG0097-Cb,AG0097-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0098-Ca,AG0098-C,GM,"Gambia, The",SIB,F,WT22,WT,WT
+AG0098-Cb,AG0098-C,GM,"Gambia, The",SIB,F,WT07,WT,WT
+AG0100-Ca,AG0100-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0100-Cb,AG0100-C,GM,"Gambia, The",SIB,F,WT33,WT,WT
+AG0102-Ca,AG0102-C,GM,"Gambia, The",SIB,F,WT85,WT,WT
+AG0102-Cb,AG0102-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0104-Ca,AG0104-C,GM,"Gambia, The",MSN,F,WT26,WT,WT
+AG0104-Cb,AG0104-C,GM,"Gambia, The",MSN,F,WT03,WT,WT
+AG0106-Ca,AG0106-C,GM,"Gambia, The",MSN,F,WT02,WT,WT
+AG0106-Cb,AG0106-C,GM,"Gambia, The",MSN,F,WT23,WT,WT
+AG0108-Ca,AG0108-C,GM,"Gambia, The",MSN,F,WT50,WT,WT
+AG0108-Cb,AG0108-C,GM,"Gambia, The",MSN,F,WT15,WT,WT
+AG0109-Ca,AG0109-C,GM,"Gambia, The",MSN,F,WT22,WT,WT
+AG0109-Cb,AG0109-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0111-Ca,AG0111-C,GM,"Gambia, The",MSN,F,WT04,WT,WT
+AG0111-Cb,AG0111-C,GM,"Gambia, The",MSN,F,WT51,WT,WT
+AG0118-Ca,AG0118-C,GM,"Gambia, The",MSN,F,WT52,WT,WT
+AG0118-Cb,AG0118-C,GM,"Gambia, The",MSN,F,WT10,WT,WT
+AG0120-Ca,AG0120-C,GM,"Gambia, The",MSN,F,WT51,WT,WT
+AG0120-Cb,AG0120-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0121-Ca,AG0121-C,GM,"Gambia, The",MSN,F,LX02,WT,WT
+AG0121-Cb,AG0121-C,GM,"Gambia, The",MSN,F,WT10,WT,WT
+AG0123-Ca,AG0123-C,GM,"Gambia, The",MSN,F,WT86,WT,WT
+AG0123-Cb,AG0123-C,GM,"Gambia, The",MSN,F,WT87,WT,WT
+AG0125-Ca,AG0125-C,GM,"Gambia, The",KSK,F,WT04,WT,WT
+AG0125-Cb,AG0125-C,GM,"Gambia, The",KSK,F,WT01,WT,WT
+AG0126-Ca,AG0126-C,GM,"Gambia, The",KSK,F,WT49,WT,WT
+AG0126-Cb,AG0126-C,GM,"Gambia, The",KSK,F,WT04,WT,WT
+AG0127-Ca,AG0127-C,GM,"Gambia, The",KSK,F,WT02,WT,WT
+AG0127-Cb,AG0127-C,GM,"Gambia, The",KSK,F,WT02,WT,WT
+AG0128-Ca,AG0128-C,GM,"Gambia, The",SIB,F,WT06,WT,WT
+AG0128-Cb,AG0128-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0129-Ca,AG0129-C,GM,"Gambia, The",SIB,F,WT03,WT,WT
+AG0129-Cb,AG0129-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0133-Ca,AG0133-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0133-Cb,AG0133-C,GM,"Gambia, The",SIB,F,WT88,WT,WT
+AG0134-Ca,AG0134-C,GM,"Gambia, The",SIB,F,WT26,WT,WT
+AG0134-Cb,AG0134-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0136-Ca,AG0136-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0136-Cb,AG0136-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0137-Ca,AG0137-C,GM,"Gambia, The",SIB,F,WT52,WT,WT
+AG0137-Cb,AG0137-C,GM,"Gambia, The",SIB,F,WT27,WT,WT
+AG0138-Ca,AG0138-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0138-Cb,AG0138-C,GM,"Gambia, The",SIB,F,WT15,WT,WT
+AG0139-Ca,AG0139-C,GM,"Gambia, The",SIB,F,WT03,WT,WT
+AG0139-Cb,AG0139-C,GM,"Gambia, The",SIB,F,WT53,WT,WT
+AG0141-Ca,AG0141-C,GM,"Gambia, The",SIB,F,WT15,WT,WT
+AG0141-Cb,AG0141-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0142-Ca,AG0142-C,GM,"Gambia, The",KBK,F,WT10,WT,WT
+AG0142-Cb,AG0142-C,GM,"Gambia, The",KBK,F,WT04,WT,WT
+AG0143-Ca,AG0143-C,GM,"Gambia, The",KBK,F,WT02,WT,WT
+AG0143-Cb,AG0143-C,GM,"Gambia, The",KBK,F,WT23,WT,WT
+AG0144-Ca,AG0144-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0144-Cb,AG0144-C,GM,"Gambia, The",KBK,F,WT10,WT,WT
+AG0145-Ca,AG0145-C,GM,"Gambia, The",KBK,F,WT04,WT,WT
+AG0145-Cb,AG0145-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0146-Ca,AG0146-C,GM,"Gambia, The",KBK,F,LX01,WT,WT
+AG0146-Cb,AG0146-C,GM,"Gambia, The",KBK,F,WT04,WT,WT
+AG0147-Ca,AG0147-C,GM,"Gambia, The",KBK,F,WT10,WT,WT
+AG0147-Cb,AG0147-C,GM,"Gambia, The",KBK,F,WT02,WT,WT
+AG0148-Ca,AG0148-C,GM,"Gambia, The",KBK,F,LX01,WT,WT
+AG0148-Cb,AG0148-C,GM,"Gambia, The",KBK,F,WT04,WT,WT
+AG0152-Ca,AG0152-C,GM,"Gambia, The",KBK,F,WT26,WT,WT
+AG0152-Cb,AG0152-C,GM,"Gambia, The",KBK,F,WT03,WT,WT
+AG0153-Ca,AG0153-C,GM,"Gambia, The",KBK,F,WT02,WT,WT
+AG0153-Cb,AG0153-C,GM,"Gambia, The",KBK,F,WT89,WT,WT
+AG0156-Ca,AG0156-C,GM,"Gambia, The",KBK,F,WT23,WT,WT
+AG0156-Cb,AG0156-C,GM,"Gambia, The",KBK,F,WT25,WT,WT
+AG0159-Ca,AG0159-C,GM,"Gambia, The",KBK,F,WT03,WT,WT
+AG0159-Cb,AG0159-C,GM,"Gambia, The",KBK,F,WT53,WT,WT
+AG0162-Ca,AG0162-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0162-Cb,AG0162-C,GM,"Gambia, The",KBK,F,WT02,WT,WT
+AG0163-Ca,AG0163-C,GM,"Gambia, The",KBK,F,WT90,WT,WT
+AG0163-Cb,AG0163-C,GM,"Gambia, The",KBK,F,WT91,WT,WT
+AG0169-Ca,AG0169-C,GM,"Gambia, The",MSN,F,WT22,WT,WT
+AG0169-Cb,AG0169-C,GM,"Gambia, The",MSN,F,WT10,WT,WT
+AG0170-Ca,AG0170-C,GM,"Gambia, The",MSN,F,WT02,WT,WT
+AG0170-Cb,AG0170-C,GM,"Gambia, The",MSN,F,WT22,WT,WT
+AG0172-Ca,AG0172-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0172-Cb,AG0172-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0178-Ca,AG0178-C,GM,"Gambia, The",KBK,F,WT03,WT,WT
+AG0178-Cb,AG0178-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0179-Ca,AG0179-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0179-Cb,AG0179-C,GM,"Gambia, The",KBK,F,WT15,WT,WT
+AG0181-Ca,AG0181-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0181-Cb,AG0181-C,GM,"Gambia, The",SIB,F,WT01,WT,WT
+AG0183-Ca,AG0183-C,GM,"Gambia, The",SIB,F,WT02,WT,WT
+AG0183-Cb,AG0183-C,GM,"Gambia, The",SIB,F,WT25,WT,WT
+AG0195-Ca,AG0195-C,GM,"Gambia, The",SIB,F,WT03,WT,WT
+AG0195-Cb,AG0195-C,GM,"Gambia, The",SIB,F,WT19,WT,WT
+AG0197-Ca,AG0197-C,GM,"Gambia, The",MSN,F,WT02,WT,WT
+AG0197-Cb,AG0197-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0202-Ca,AG0202-C,GM,"Gambia, The",MSN,F,WT33,WT,WT
+AG0202-Cb,AG0202-C,GM,"Gambia, The",MSN,F,WT02,WT,WT
+AG0203-Ca,AG0203-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0203-Cb,AG0203-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0204-Ca,AG0204-C,GM,"Gambia, The",MSN,F,WT50,WT,WT
+AG0204-Cb,AG0204-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0206-Ca,AG0206-C,GM,"Gambia, The",MSN,F,WT20,WT,WT
+AG0206-Cb,AG0206-C,GM,"Gambia, The",MSN,F,WT04,WT,WT
+AG0208-Ca,AG0208-C,GM,"Gambia, The",MSN,F,WT01,WT,WT
+AG0208-Cb,AG0208-C,GM,"Gambia, The",MSN,F,WT04,WT,WT
+AG0214-Ca,AG0214-C,GM,"Gambia, The",KSK,F,WT02,WT,WT
+AG0214-Cb,AG0214-C,GM,"Gambia, The",KSK,F,WT10,WT,WT
+AG0221-Ca,AG0221-C,GM,"Gambia, The",KBK,F,WT16,WT,WT
+AG0221-Cb,AG0221-C,GM,"Gambia, The",KBK,F,WT02,WT,WT
+AG0223-Ca,AG0223-C,GM,"Gambia, The",KBK,F,WT15,WT,WT
+AG0223-Cb,AG0223-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0227-Ca,AG0227-C,GM,"Gambia, The",KBK,F,WT15,WT,WT
+AG0227-Cb,AG0227-C,GM,"Gambia, The",KBK,F,WT92,WT,WT
+AG0229-Ca,AG0229-C,GM,"Gambia, The",KSK,F,WT03,WT,WT
+AG0229-Cb,AG0229-C,GM,"Gambia, The",KSK,F,WT19,WT,WT
+AG0230-Ca,AG0230-C,GM,"Gambia, The",KSK,F,LX01,WT,WT
+AG0230-Cb,AG0230-C,GM,"Gambia, The",KSK,F,WT01,WT,WT
+AG0231-Ca,AG0231-C,GM,"Gambia, The",KSK,F,WT93,WT,WT
+AG0231-Cb,AG0231-C,GM,"Gambia, The",KSK,F,WT02,WT,WT
+AG0232-Ca,AG0232-C,GM,"Gambia, The",KSK,F,WT26,WT,WT
+AG0232-Cb,AG0232-C,GM,"Gambia, The",KSK,F,WT19,WT,WT
+AG0263-Ca,AG0263-C,GM,"Gambia, The",KBK,F,WT01,WT,WT
+AG0263-Cb,AG0263-C,GM,"Gambia, The",KBK,F,WT04,WT,WT
+AJ0023-Ca,AJ0023-C,GW,Guinea-Bissau,Antula,F,WT94,WT,WT
+AJ0023-Cb,AJ0023-C,GW,Guinea-Bissau,Antula,F,WT95,WT,WT
+AJ0024-Ca,AJ0024-C,GW,Guinea-Bissau,Antula,F,WT96,WT,WT
+AJ0024-Cb,AJ0024-C,GW,Guinea-Bissau,Antula,F,WT97,WT,WT
+AJ0028-Ca,AJ0028-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0028-Cb,AJ0028-C,GW,Guinea-Bissau,Antula,F,WT03,WT,WT
+AJ0032-Ca,AJ0032-C,GW,Guinea-Bissau,Antula,F,WT24,WT,WT
+AJ0032-Cb,AJ0032-C,GW,Guinea-Bissau,Antula,F,WT54,WT,WT
+AJ0035-Ca,AJ0035-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0035-Cb,AJ0035-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0036-Ca,AJ0036-C,GW,Guinea-Bissau,Antula,F,WT98,WT,WT
+AJ0036-Cb,AJ0036-C,GW,Guinea-Bissau,Antula,F,WT28,WT,WT
+AJ0037-Ca,AJ0037-C,GW,Guinea-Bissau,Antula,F,WT17,WT,WT
+AJ0037-Cb,AJ0037-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0038-Ca,AJ0038-C,GW,Guinea-Bissau,Antula,F,WT34,WT,WT
+AJ0038-Cb,AJ0038-C,GW,Guinea-Bissau,Antula,F,WT03,WT,WT
+AJ0039-Ca,AJ0039-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0039-Cb,AJ0039-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0043-Ca,AJ0043-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0043-Cb,AJ0043-C,GW,Guinea-Bissau,Antula,F,WT06,WT,WT
+AJ0044-Ca,AJ0044-C,GW,Guinea-Bissau,Antula,F,WT55,WT,WT
+AJ0044-Cb,AJ0044-C,GW,Guinea-Bissau,Antula,F,WT11,WT,WT
+AJ0045-Ca,AJ0045-C,GW,Guinea-Bissau,Antula,F,WT17,WT,WT
+AJ0045-Cb,AJ0045-C,GW,Guinea-Bissau,Antula,F,WT99,WT,WT
+AJ0047-Ca,AJ0047-C,GW,Guinea-Bissau,Antula,F,WT11,WT,WT
+AJ0047-Cb,AJ0047-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0051-Ca,AJ0051-C,GW,Guinea-Bissau,Antula,F,WT25,WT,WT
+AJ0051-Cb,AJ0051-C,GW,Guinea-Bissau,Antula,F,WT20,WT,WT
+AJ0052-Ca,AJ0052-C,GW,Guinea-Bissau,Antula,F,WT11,WT,WT
+AJ0052-Cb,AJ0052-C,GW,Guinea-Bissau,Antula,F,WT11,WT,WT
+AJ0056-Ca,AJ0056-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0056-Cb,AJ0056-C,GW,Guinea-Bissau,Antula,F,WT02,WT,WT
+AJ0059-Ca,AJ0059-C,GW,Guinea-Bissau,Antula,F,WT06,WT,WT
+AJ0059-Cb,AJ0059-C,GW,Guinea-Bissau,Antula,F,WT56,WT,WT
+AJ0060-Ca,AJ0060-C,GW,Guinea-Bissau,Antula,F,WT11,WT,WT
+AJ0060-Cb,AJ0060-C,GW,Guinea-Bissau,Antula,F,WT57,WT,WT
+AJ0061-Ca,AJ0061-C,GW,Guinea-Bissau,Antula,F,WT34,WT,WT
+AJ0061-Cb,AJ0061-C,GW,Guinea-Bissau,Antula,F,WT03,WT,WT
+AJ0063-Ca,AJ0063-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0063-Cb,AJ0063-C,GW,Guinea-Bissau,Antula,F,WT12,WT,WT
+AJ0064-Ca,AJ0064-C,GW,Guinea-Bissau,Antula,F,WT35,WT,WT
+AJ0064-Cb,AJ0064-C,GW,Guinea-Bissau,Antula,F,WT100,WT,WT
+AJ0066-Ca,AJ0066-C,GW,Guinea-Bissau,Antula,F,WT03,WT,WT
+AJ0066-Cb,AJ0066-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0068-Ca,AJ0068-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0068-Cb,AJ0068-C,GW,Guinea-Bissau,Antula,F,WT36,WT,WT
+AJ0070-Ca,AJ0070-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0070-Cb,AJ0070-C,GW,Guinea-Bissau,Antula,F,WT58,WT,WT
+AJ0071-Ca,AJ0071-C,GW,Guinea-Bissau,Antula,F,WT37,WT,WT
+AJ0071-Cb,AJ0071-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0072-Ca,AJ0072-C,GW,Guinea-Bissau,Antula,F,WT28,WT,WT
+AJ0072-Cb,AJ0072-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0074-Ca,AJ0074-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0074-Cb,AJ0074-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0075-Ca,AJ0075-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0075-Cb,AJ0075-C,GW,Guinea-Bissau,Antula,F,WT10,WT,WT
+AJ0076-Ca,AJ0076-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0076-Cb,AJ0076-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0077-Ca,AJ0077-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0077-Cb,AJ0077-C,GW,Guinea-Bissau,Antula,F,WT101,WT,WT
+AJ0078-Ca,AJ0078-C,GW,Guinea-Bissau,Antula,F,WT102,WT,WT
+AJ0078-Cb,AJ0078-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0080-Ca,AJ0080-C,GW,Guinea-Bissau,Antula,F,WT103,WT,WT
+AJ0080-Cb,AJ0080-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0081-Ca,AJ0081-C,GW,Guinea-Bissau,Antula,F,WT54,WT,WT
+AJ0081-Cb,AJ0081-C,GW,Guinea-Bissau,Antula,F,WT36,WT,WT
+AJ0084-Ca,AJ0084-C,GW,Guinea-Bissau,Antula,F,WT59,WT,WT
+AJ0084-Cb,AJ0084-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0085-Ca,AJ0085-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0085-Cb,AJ0085-C,GW,Guinea-Bissau,Antula,F,WT36,WT,WT
+AJ0086-Ca,AJ0086-C,GW,Guinea-Bissau,Antula,F,WT104,WT,WT
+AJ0086-Cb,AJ0086-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0087-Ca,AJ0087-C,GW,Guinea-Bissau,Antula,F,WT60,WT,WT
+AJ0087-Cb,AJ0087-C,GW,Guinea-Bissau,Antula,F,WT17,WT,WT
+AJ0088-Ca,AJ0088-C,GW,Guinea-Bissau,Antula,F,WT17,WT,WT
+AJ0088-Cb,AJ0088-C,GW,Guinea-Bissau,Antula,F,WT105,WT,WT
+AJ0090-Ca,AJ0090-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0090-Cb,AJ0090-C,GW,Guinea-Bissau,Antula,F,WT06,WT,WT
+AJ0092-Ca,AJ0092-C,GW,Guinea-Bissau,Antula,F,WT60,WT,WT
+AJ0092-Cb,AJ0092-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0093-Ca,AJ0093-C,GW,Guinea-Bissau,Antula,F,WT20,WT,WT
+AJ0093-Cb,AJ0093-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0095-Ca,AJ0095-C,GW,Guinea-Bissau,Antula,F,WT13,WT,WT
+AJ0095-Cb,AJ0095-C,GW,Guinea-Bissau,Antula,F,WT24,WT,WT
+AJ0096-Ca,AJ0096-C,GW,Guinea-Bissau,Antula,F,WT02,WT,WT
+AJ0096-Cb,AJ0096-C,GW,Guinea-Bissau,Antula,F,WT17,WT,WT
+AJ0097-Ca,AJ0097-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0097-Cb,AJ0097-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0098-Ca,AJ0098-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0098-Cb,AJ0098-C,GW,Guinea-Bissau,Antula,F,WT58,WT,WT
+AJ0099-Ca,AJ0099-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0099-Cb,AJ0099-C,GW,Guinea-Bissau,Antula,F,WT106,WT,WT
+AJ0100-Ca,AJ0100-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0100-Cb,AJ0100-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0101-Ca,AJ0101-C,GW,Guinea-Bissau,Antula,F,WT03,WT,WT
+AJ0101-Cb,AJ0101-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0102-Ca,AJ0102-C,GW,Guinea-Bissau,Antula,F,WT107,WT,WT
+AJ0102-Cb,AJ0102-C,GW,Guinea-Bissau,Antula,F,WT02,WT,WT
+AJ0103-Ca,AJ0103-C,GW,Guinea-Bissau,Antula,F,WT27,WT,WT
+AJ0103-Cb,AJ0103-C,GW,Guinea-Bissau,Antula,F,WT59,WT,WT
+AJ0105-Ca,AJ0105-C,GW,Guinea-Bissau,Antula,F,WT108,WT,WT
+AJ0105-Cb,AJ0105-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0107-Ca,AJ0107-C,GW,Guinea-Bissau,Antula,F,WT28,WT,WT
+AJ0107-Cb,AJ0107-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0109-Ca,AJ0109-C,GW,Guinea-Bissau,Antula,F,WT109,WT,WT
+AJ0109-Cb,AJ0109-C,GW,Guinea-Bissau,Antula,F,WT110,WT,WT
+AJ0113-Ca,AJ0113-C,GW,Guinea-Bissau,Antula,F,WT111,WT,WT
+AJ0113-Cb,AJ0113-C,GW,Guinea-Bissau,Antula,F,WT10,WT,WT
+AJ0115-Ca,AJ0115-C,GW,Guinea-Bissau,Antula,F,WT07,WT,WT
+AJ0115-Cb,AJ0115-C,GW,Guinea-Bissau,Antula,F,WT03,WT,WT
+AJ0116-Ca,AJ0116-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0116-Cb,AJ0116-C,GW,Guinea-Bissau,Antula,F,WT55,WT,WT
+AJ0117-Ca,AJ0117-C,GW,Guinea-Bissau,Antula,F,WT01,WT,WT
+AJ0117-Cb,AJ0117-C,GW,Guinea-Bissau,Antula,F,WT20,WT,WT
+AJ0119-Ca,AJ0119-C,GW,Guinea-Bissau,Antula,F,WT04,WT,WT
+AJ0119-Cb,AJ0119-C,GW,Guinea-Bissau,Antula,F,WT02,WT,WT
+AJ0128-Ca,AJ0128-C,GW,Guinea-Bissau,Safim,F,WT05,WT,WT
+AJ0128-Cb,AJ0128-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0129-Ca,AJ0129-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0129-Cb,AJ0129-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0130-Ca,AJ0130-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0130-Cb,AJ0130-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0131-Ca,AJ0131-C,GW,Guinea-Bissau,Safim,F,WT37,WT,WT
+AJ0131-Cb,AJ0131-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0132-Ca,AJ0132-C,GW,Guinea-Bissau,Safim,F,WT112,WT,WT
+AJ0132-Cb,AJ0132-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0133-Ca,AJ0133-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0133-Cb,AJ0133-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0134-Ca,AJ0134-C,GW,Guinea-Bissau,Safim,F,WT113,WT,WT
+AJ0134-Cb,AJ0134-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0135-Ca,AJ0135-C,GW,Guinea-Bissau,Safim,F,WT24,WT,WT
+AJ0135-Cb,AJ0135-C,GW,Guinea-Bissau,Safim,F,WT02,WT,WT
+AJ0136-Ca,AJ0136-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0136-Cb,AJ0136-C,GW,Guinea-Bissau,Safim,F,WT06,WT,WT
+AJ0137-Ca,AJ0137-C,GW,Guinea-Bissau,Safim,F,WT17,WT,WT
+AJ0137-Cb,AJ0137-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0138-Ca,AJ0138-C,GW,Guinea-Bissau,Safim,F,WT20,WT,WT
+AJ0138-Cb,AJ0138-C,GW,Guinea-Bissau,Safim,F,WT27,WT,WT
+AJ0139-Ca,AJ0139-C,GW,Guinea-Bissau,Safim,F,WT23,WT,WT
+AJ0139-Cb,AJ0139-C,GW,Guinea-Bissau,Safim,F,WT11,WT,WT
+AJ0140-Ca,AJ0140-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0140-Cb,AJ0140-C,GW,Guinea-Bissau,Safim,F,WT114,WT,WT
+AJ0141-Ca,AJ0141-C,GW,Guinea-Bissau,Safim,F,WT34,WT,WT
+AJ0141-Cb,AJ0141-C,GW,Guinea-Bissau,Safim,F,WT57,WT,WT
+AJ0142-Ca,AJ0142-C,GW,Guinea-Bissau,Safim,F,WT07,WT,WT
+AJ0142-Cb,AJ0142-C,GW,Guinea-Bissau,Safim,F,WT07,WT,WT
+AJ0143-Ca,AJ0143-C,GW,Guinea-Bissau,Safim,F,WT115,WT,WT
+AJ0143-Cb,AJ0143-C,GW,Guinea-Bissau,Safim,F,WT06,WT,WT
+AJ0144-Ca,AJ0144-C,GW,Guinea-Bissau,Safim,F,WT02,WT,WT
+AJ0144-Cb,AJ0144-C,GW,Guinea-Bissau,Safim,F,WT35,WT,WT
+AJ0145-Ca,AJ0145-C,GW,Guinea-Bissau,Safim,F,WT61,WT,WT
+AJ0145-Cb,AJ0145-C,GW,Guinea-Bissau,Safim,F,WT23,WT,WT
+AJ0146-Ca,AJ0146-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0146-Cb,AJ0146-C,GW,Guinea-Bissau,Safim,F,WT11,WT,WT
+AJ0147-Ca,AJ0147-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0147-Cb,AJ0147-C,GW,Guinea-Bissau,Safim,F,WT24,WT,WT
+AJ0148-Ca,AJ0148-C,GW,Guinea-Bissau,Safim,F,WT62,WT,WT
+AJ0148-Cb,AJ0148-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0149-Ca,AJ0149-C,GW,Guinea-Bissau,Safim,F,WT06,WT,WT
+AJ0149-Cb,AJ0149-C,GW,Guinea-Bissau,Safim,F,WT63,WT,WT
+AJ0150-Ca,AJ0150-C,GW,Guinea-Bissau,Safim,F,WT64,WT,WT
+AJ0150-Cb,AJ0150-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0151-Ca,AJ0151-C,GW,Guinea-Bissau,Safim,F,WT04,WT,WT
+AJ0151-Cb,AJ0151-C,GW,Guinea-Bissau,Safim,F,WT02,WT,WT
+AJ0152-Ca,AJ0152-C,GW,Guinea-Bissau,Safim,F,WT37,WT,WT
+AJ0152-Cb,AJ0152-C,GW,Guinea-Bissau,Safim,F,WT63,WT,WT
+AJ0153-Ca,AJ0153-C,GW,Guinea-Bissau,Safim,F,WT20,WT,WT
+AJ0153-Cb,AJ0153-C,GW,Guinea-Bissau,Safim,F,WT13,WT,WT
+AJ0154-Ca,AJ0154-C,GW,Guinea-Bissau,Safim,F,WT116,WT,WT
+AJ0154-Cb,AJ0154-C,GW,Guinea-Bissau,Safim,F,WT64,WT,WT
+AJ0155-Ca,AJ0155-C,GW,Guinea-Bissau,Safim,F,WT56,WT,WT
+AJ0155-Cb,AJ0155-C,GW,Guinea-Bissau,Safim,F,WT02,WT,WT
+AJ0156-Ca,AJ0156-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0156-Cb,AJ0156-C,GW,Guinea-Bissau,Safim,F,WT01,WT,WT
+AJ0157-Ca,AJ0157-C,GW,Guinea-Bissau,Safim,F,WT11,WT,WT
+AJ0157-Cb,AJ0157-C,GW,Guinea-Bissau,Safim,F,WT17,WT,WT
+AJ0158-Ca,AJ0158-C,GW,Guinea-Bissau,Safim,F,WT07,WT,WT
+AJ0158-Cb,AJ0158-C,GW,Guinea-Bissau,Safim,F,WT35,WT,WT
+AJ0159-Ca,AJ0159-C,GW,Guinea-Bissau,Safim,F,WT11,WT,WT
+AJ0159-Cb,AJ0159-C,GW,Guinea-Bissau,Safim,F,WT28,WT,WT
+AJ0161-Ca,AJ0161-C,GW,Guinea-Bissau,Safim,F,WT27,WT,WT
+AJ0161-Cb,AJ0161-C,GW,Guinea-Bissau,Safim,F,WT09,WT,WT
 AK0060-Ca,AK0060-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
-AK0060-Cb,AK0060-C,KE,Kenya,Kilifi-Junju,F,L2,WT,
+AK0060-Cb,AK0060-C,KE,Kenya,Kilifi-Junju,F,L2,WT,WT
 AK0062-Ca,AK0062-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0062-Cb,AK0062-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0065-Ca,AK0065-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0065-Cb,AK0065-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0065-Cb,AK0065-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0066-Ca,AK0066-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
 AK0066-Cb,AK0066-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0067-Ca,AK0067-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
@@ -1016,31 +1016,31 @@ AK0067-Cb,AK0067-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
 AK0068-Ca,AK0068-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0068-Cb,AK0068-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
 AK0069-Ca,AK0069-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0069-Cb,AK0069-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0069-Cb,AK0069-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0070-Ca,AK0070-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0070-Cb,AK0070-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0072-Ca,AK0072-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0072-Ca,AK0072-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0072-Cb,AK0072-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0073-Ca,AK0073-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0073-Cb,AK0073-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0073-Cb,AK0073-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0074-Ca,AK0074-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0074-Cb,AK0074-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0074-Cb,AK0074-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0075-Ca,AK0075-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
-AK0075-Cb,AK0075-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
-AK0076-Ca,AK0076-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
-AK0076-Cb,AK0076-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0075-Cb,AK0075-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
+AK0076-Ca,AK0076-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
+AK0076-Cb,AK0076-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0077-Ca,AK0077-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
-AK0077-Cb,AK0077-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0077-Cb,AK0077-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0078-Ca,AK0078-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0078-Cb,AK0078-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0079-Ca,AK0079-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
-AK0079-Cb,AK0079-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0079-Ca,AK0079-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
+AK0079-Cb,AK0079-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0080-Ca,AK0080-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0080-Cb,AK0080-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0080-Cb,AK0080-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0081-Ca,AK0081-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0081-Cb,AK0081-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0082-Ca,AK0082-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
-AK0082-Cb,AK0082-C,KE,Kenya,Kilifi-Mbogolo,F,WT03,WT,
+AK0082-Cb,AK0082-C,KE,Kenya,Kilifi-Mbogolo,F,WT03,WT,WT
 AK0085-Ca,AK0085-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0085-Cb,AK0085-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0086-Ca,AK0086-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
@@ -1067,15 +1067,15 @@ AK0096-Ca,AK0096-C,KE,Kenya,Kilifi-Junju,F,SX01,S3,S3
 AK0096-Cb,AK0096-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0098-Ca,AK0098-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0098-Cb,AK0098-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
-AK0099-Ca,AK0099-C,KE,Kenya,Kilifi-Junju,F,WT03,WT,
-AK0099-Cb,AK0099-C,KE,Kenya,Kilifi-Junju,F,L2,WT,
+AK0099-Ca,AK0099-C,KE,Kenya,Kilifi-Junju,F,WT03,WT,WT
+AK0099-Cb,AK0099-C,KE,Kenya,Kilifi-Junju,F,L2,WT,WT
 AK0100-Ca,AK0100-C,KE,Kenya,Kilifi-Junju,F,SX01,S3,S3
-AK0100-Cb,AK0100-C,KE,Kenya,Kilifi-Junju,F,WT03,WT,
+AK0100-Cb,AK0100-C,KE,Kenya,Kilifi-Junju,F,WT03,WT,WT
 AK0101-Ca,AK0101-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0101-Cb,AK0101-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0102-Ca,AK0102-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0102-Cb,AK0102-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
-AK0103-Ca,AK0103-C,KE,Kenya,Kilifi-Junju,F,LX03,WT,
+AK0103-Ca,AK0103-C,KE,Kenya,Kilifi-Junju,F,LX03,WT,WT
 AK0103-Cb,AK0103-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0104-Ca,AK0104-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0104-Cb,AK0104-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
@@ -1084,48 +1084,48 @@ AK0105-Cb,AK0105-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0106-Ca,AK0106-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0106-Cb,AK0106-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0107-Ca,AK0107-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
-AK0107-Cb,AK0107-C,KE,Kenya,Kilifi-Junju,F,L2,WT,
+AK0107-Cb,AK0107-C,KE,Kenya,Kilifi-Junju,F,L2,WT,WT
 AK0108-Ca,AK0108-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0108-Cb,AK0108-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
-AK0109-Ca,AK0109-C,KE,Kenya,Kilifi-Junju,F,WT03,WT,
-AK0109-Cb,AK0109-C,KE,Kenya,Kilifi-Junju,F,L2,WT,
+AK0109-Ca,AK0109-C,KE,Kenya,Kilifi-Junju,F,WT03,WT,WT
+AK0109-Cb,AK0109-C,KE,Kenya,Kilifi-Junju,F,L2,WT,WT
 AK0110-Ca,AK0110-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0110-Cb,AK0110-C,KE,Kenya,Kilifi-Junju,F,S3,S3,S3
 AK0116-Ca,AK0116-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
 AK0116-Cb,AK0116-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,S3,S3
-AK0117-Ca,AK0117-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,SX,
-AK0117-Cb,AK0117-C,KE,Kenya,Kilifi-Mbogolo,F,SX06,SX,
-AK0119-Ca,AK0119-C,KE,Kenya,Kilifi-Mbogolo,F,WT03,WT,
-AK0119-Cb,AK0119-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,
+AK0117-Ca,AK0117-C,KE,Kenya,Kilifi-Mbogolo,F,SX01,SX,WT
+AK0117-Cb,AK0117-C,KE,Kenya,Kilifi-Mbogolo,F,SX06,SX,WT
+AK0119-Ca,AK0119-C,KE,Kenya,Kilifi-Mbogolo,F,WT03,WT,WT
+AK0119-Cb,AK0119-C,KE,Kenya,Kilifi-Mbogolo,F,L2,WT,WT
 AK0127-Ca,AK0127-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AK0127-Cb,AK0127-C,KE,Kenya,Kilifi-Mbogolo,F,S3,S3,S3
 AN0007-Ca,AN0007-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0007-Cb,AN0007-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0008-Ca,AN0008-C,CMgam,Cameroon,Mayos,F,FX06,FX,
-AN0008-Cb,AN0008-C,CMgam,Cameroon,Mayos,F,WT65,WT,
+AN0008-Ca,AN0008-C,CMgam,Cameroon,Mayos,F,FX06,FX,WT
+AN0008-Cb,AN0008-C,CMgam,Cameroon,Mayos,F,WT65,WT,WT
 AN0009-Ca,AN0009-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0009-Cb,AN0009-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0009-Cb,AN0009-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0010-Ca,AN0010-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0010-Cb,AN0010-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0011-Ca,AN0011-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
-AN0011-Cb,AN0011-C,CMgam,Cameroon,Mayos,F,WT12,WT,
+AN0011-Cb,AN0011-C,CMgam,Cameroon,Mayos,F,WT12,WT,WT
 AN0012-Ca,AN0012-C,CMgam,Cameroon,Mayos,F,F3,F3,F3
-AN0012-Cb,AN0012-C,CMgam,Cameroon,Mayos,F,WT29,WT,
+AN0012-Cb,AN0012-C,CMgam,Cameroon,Mayos,F,WT29,WT,WT
 AN0013-Ca,AN0013-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0013-Cb,AN0013-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0014-Ca,AN0014-C,CMgam,Cameroon,Mayos,F,FX01,FX,
-AN0014-Cb,AN0014-C,CMgam,Cameroon,Mayos,F,WT30,WT,
-AN0015-Ca,AN0015-C,CMgam,Cameroon,Mayos,F,WT29,WT,
-AN0015-Cb,AN0015-C,CMgam,Cameroon,Mayos,F,WT09,WT,
-AN0016-Ca,AN0016-C,CMgam,Cameroon,Mayos,F,FX02,FX,
-AN0016-Cb,AN0016-C,CMgam,Cameroon,Mayos,F,WT14,WT,
+AN0014-Ca,AN0014-C,CMgam,Cameroon,Mayos,F,FX01,FX,WT
+AN0014-Cb,AN0014-C,CMgam,Cameroon,Mayos,F,WT30,WT,WT
+AN0015-Ca,AN0015-C,CMgam,Cameroon,Mayos,F,WT29,WT,WT
+AN0015-Cb,AN0015-C,CMgam,Cameroon,Mayos,F,WT09,WT,WT
+AN0016-Ca,AN0016-C,CMgam,Cameroon,Mayos,F,FX02,FX,WT
+AN0016-Cb,AN0016-C,CMgam,Cameroon,Mayos,F,WT14,WT,WT
 AN0017-Ca,AN0017-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0017-Cb,AN0017-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0018-Ca,AN0018-C,CMgam,Cameroon,Mayos,F,F3,F3,F4
 AN0018-Cb,AN0018-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0019-Ca,AN0019-C,CMgam,Cameroon,Mayos,F,F4,F4,F4
 AN0019-Cb,AN0019-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
-AN0020-Ca,AN0020-C,CMgam,Cameroon,Mayos,F,WT66,WT,
+AN0020-Ca,AN0020-C,CMgam,Cameroon,Mayos,F,WT66,WT,WT
 AN0020-Cb,AN0020-C,CMgam,Cameroon,Mayos,F,SX04,S5,S5
 AN0022-Ca,AN0022-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0022-Cb,AN0022-C,CMgam,Cameroon,Gado-Badzere,M,F3,F3,F4
@@ -1133,7 +1133,7 @@ AN0023-Ca,AN0023-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0023-Cb,AN0023-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0024-Ca,AN0024-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0024-Cb,AN0024-C,CMgam,Cameroon,Gado-Badzere,M,F4,F4,F4
-AN0025-Ca,AN0025-C,CMgam,Cameroon,Gado-Badzere,M,WT02,WT,
+AN0025-Ca,AN0025-C,CMgam,Cameroon,Gado-Badzere,M,WT02,WT,WT
 AN0025-Cb,AN0025-C,CMgam,Cameroon,Gado-Badzere,M,F3,F3,F3
 AN0026-Ca,AN0026-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0026-Cb,AN0026-C,CMgam,Cameroon,Gado-Badzere,M,F3,F3,F4
@@ -1146,13 +1146,13 @@ AN0029-Cb,AN0029-C,CMgam,Cameroon,Gado-Badzere,M,WT06,WT,F4
 AN0030-Ca,AN0030-C,CMgam,Cameroon,Gado-Badzere,M,S5,S5,S5
 AN0030-Cb,AN0030-C,CMgam,Cameroon,Gado-Badzere,M,S4,S4,S4
 AN0031-Ca,AN0031-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
-AN0031-Cb,AN0031-C,CMgam,Cameroon,Gado-Badzere,M,SX03,SX,
+AN0031-Cb,AN0031-C,CMgam,Cameroon,Gado-Badzere,M,SX03,SX,WT
 AN0032-Ca,AN0032-C,CMgam,Cameroon,Gado-Badzere,M,F3,F3,F3
 AN0032-Cb,AN0032-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0033-Ca,AN0033-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0033-Cb,AN0033-C,CMgam,Cameroon,Gado-Badzere,M,F4,F4,F4
-AN0034-Ca,AN0034-C,CMgam,Cameroon,Gado-Badzere,M,FX07,FX,
-AN0034-Cb,AN0034-C,CMgam,Cameroon,Gado-Badzere,M,WT67,WT,
+AN0034-Ca,AN0034-C,CMgam,Cameroon,Gado-Badzere,M,FX07,FX,WT
+AN0034-Cb,AN0034-C,CMgam,Cameroon,Gado-Badzere,M,WT67,WT,WT
 AN0035-Ca,AN0035-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0035-Cb,AN0035-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
 AN0036-Ca,AN0036-C,CMgam,Cameroon,Gado-Badzere,M,F5,F5,F5
@@ -1161,20 +1161,20 @@ AN0037-Ca,AN0037-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0037-Cb,AN0037-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0038-Ca,AN0038-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0038-Cb,AN0038-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
-AN0039-Ca,AN0039-C,CMgam,Cameroon,Gado-Badzere,F,WT68,WT,
+AN0039-Ca,AN0039-C,CMgam,Cameroon,Gado-Badzere,F,WT68,WT,WT
 AN0039-Cb,AN0039-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
-AN0040-Ca,AN0040-C,CMgam,Cameroon,Gado-Badzere,F,WT62,WT,
+AN0040-Ca,AN0040-C,CMgam,Cameroon,Gado-Badzere,F,WT62,WT,WT
 AN0040-Cb,AN0040-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
 AN0041-Ca,AN0041-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0041-Cb,AN0041-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
-AN0042-Ca,AN0042-C,CMgam,Cameroon,Gado-Badzere,F,WT117,WT,
-AN0042-Cb,AN0042-C,CMgam,Cameroon,Gado-Badzere,F,WT68,WT,
+AN0042-Ca,AN0042-C,CMgam,Cameroon,Gado-Badzere,F,WT117,WT,WT
+AN0042-Cb,AN0042-C,CMgam,Cameroon,Gado-Badzere,F,WT68,WT,WT
 AN0043-Ca,AN0043-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0043-Cb,AN0043-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
 AN0044-Ca,AN0044-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0044-Cb,AN0044-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
-AN0045-Ca,AN0045-C,CMgam,Cameroon,Gado-Badzere,F,WT118,WT,
-AN0045-Cb,AN0045-C,CMgam,Cameroon,Gado-Badzere,F,FX08,FX,
+AN0045-Ca,AN0045-C,CMgam,Cameroon,Gado-Badzere,F,WT118,WT,WT
+AN0045-Cb,AN0045-C,CMgam,Cameroon,Gado-Badzere,F,FX08,FX,WT
 AN0046-Ca,AN0046-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
 AN0046-Cb,AN0046-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0047-Ca,AN0047-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
@@ -1184,21 +1184,21 @@ AN0048-Cb,AN0048-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
 AN0049-Ca,AN0049-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0049-Cb,AN0049-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0050-Ca,AN0050-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
-AN0050-Cb,AN0050-C,CMgam,Cameroon,Gado-Badzere,F,WT16,WT,
-AN0051-Ca,AN0051-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
+AN0050-Cb,AN0050-C,CMgam,Cameroon,Gado-Badzere,F,WT16,WT,WT
+AN0051-Ca,AN0051-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
 AN0051-Cb,AN0051-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
 AN0053-Ca,AN0053-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0053-Cb,AN0053-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
 AN0054-Ca,AN0054-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0054-Cb,AN0054-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0055-Ca,AN0055-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
-AN0055-Cb,AN0055-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
+AN0055-Cb,AN0055-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
 AN0056-Ca,AN0056-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0056-Cb,AN0056-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
-AN0057-Ca,AN0057-C,CMgam,Cameroon,Gado-Badzere,F,WT08,WT,
-AN0057-Cb,AN0057-C,CMgam,Cameroon,Gado-Badzere,F,WT38,WT,
-AN0058-Ca,AN0058-C,CMgam,Cameroon,Gado-Badzere,F,FX09,FX,
-AN0058-Cb,AN0058-C,CMgam,Cameroon,Gado-Badzere,F,WT14,WT,
+AN0057-Ca,AN0057-C,CMgam,Cameroon,Gado-Badzere,F,WT08,WT,WT
+AN0057-Cb,AN0057-C,CMgam,Cameroon,Gado-Badzere,F,WT38,WT,WT
+AN0058-Ca,AN0058-C,CMgam,Cameroon,Gado-Badzere,F,FX09,FX,WT
+AN0058-Cb,AN0058-C,CMgam,Cameroon,Gado-Badzere,F,WT14,WT,WT
 AN0059-Ca,AN0059-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0059-Cb,AN0059-C,CMgam,Cameroon,Gado-Badzere,F,F2,F2,F2
 AN0060-Ca,AN0060-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
@@ -1207,150 +1207,150 @@ AN0061-Ca,AN0061-C,CMgam,Cameroon,Zembe-Borongo,F,F3,F3,F4
 AN0061-Cb,AN0061-C,CMgam,Cameroon,Zembe-Borongo,F,F4,F4,F4
 AN0062-Ca,AN0062-C,CMgam,Cameroon,Zembe-Borongo,F,S5,S5,S5
 AN0062-Cb,AN0062-C,CMgam,Cameroon,Zembe-Borongo,F,F3,F3,F3
-AN0063-Ca,AN0063-C,CMgam,Cameroon,Zembe-Borongo,F,WT119,WT,
-AN0063-Cb,AN0063-C,CMgam,Cameroon,Zembe-Borongo,F,WT39,WT,
+AN0063-Ca,AN0063-C,CMgam,Cameroon,Zembe-Borongo,F,WT119,WT,WT
+AN0063-Cb,AN0063-C,CMgam,Cameroon,Zembe-Borongo,F,WT39,WT,WT
 AN0064-Ca,AN0064-C,CMgam,Cameroon,Zembe-Borongo,F,WT06,WT,F4
 AN0064-Cb,AN0064-C,CMgam,Cameroon,Zembe-Borongo,F,F3,F3,F4
-AN0065-Ca,AN0065-C,CMgam,Cameroon,Zembe-Borongo,F,FX10,FX,
-AN0065-Cb,AN0065-C,CMgam,Cameroon,Zembe-Borongo,F,WT67,WT,
-AN0066-Ca,AN0066-C,CMgam,Cameroon,Zembe-Borongo,F,WT69,WT,
+AN0065-Ca,AN0065-C,CMgam,Cameroon,Zembe-Borongo,F,FX10,FX,WT
+AN0065-Cb,AN0065-C,CMgam,Cameroon,Zembe-Borongo,F,WT67,WT,WT
+AN0066-Ca,AN0066-C,CMgam,Cameroon,Zembe-Borongo,F,WT69,WT,WT
 AN0066-Cb,AN0066-C,CMgam,Cameroon,Zembe-Borongo,F,WT06,WT,F4
-AN0067-Ca,AN0067-C,CMgam,Cameroon,Zembe-Borongo,F,WT14,WT,
-AN0067-Cb,AN0067-C,CMgam,Cameroon,Zembe-Borongo,F,FX04,FX,
-AN0068-Ca,AN0068-C,CMgam,Cameroon,Zembe-Borongo,F,WT14,WT,
-AN0068-Cb,AN0068-C,CMgam,Cameroon,Zembe-Borongo,F,FX02,FX,
+AN0067-Ca,AN0067-C,CMgam,Cameroon,Zembe-Borongo,F,WT14,WT,WT
+AN0067-Cb,AN0067-C,CMgam,Cameroon,Zembe-Borongo,F,FX04,FX,WT
+AN0068-Ca,AN0068-C,CMgam,Cameroon,Zembe-Borongo,F,WT14,WT,WT
+AN0068-Cb,AN0068-C,CMgam,Cameroon,Zembe-Borongo,F,FX02,FX,WT
 AN0069-Ca,AN0069-C,CMgam,Cameroon,Zembe-Borongo,F,WT06,WT,F4
-AN0069-Cb,AN0069-C,CMgam,Cameroon,Zembe-Borongo,F,WT40,WT,
+AN0069-Cb,AN0069-C,CMgam,Cameroon,Zembe-Borongo,F,WT40,WT,WT
 AN0070-Ca,AN0070-C,CMgam,Cameroon,Zembe-Borongo,F,WT41,WT,F4
-AN0070-Cb,AN0070-C,CMgam,Cameroon,Zembe-Borongo,F,WT42,WT,
-AN0071-Ca,AN0071-C,CMgam,Cameroon,Zembe-Borongo,F,WT03,WT,
-AN0071-Cb,AN0071-C,CMgam,Cameroon,Zembe-Borongo,F,WT16,WT,
+AN0070-Cb,AN0070-C,CMgam,Cameroon,Zembe-Borongo,F,WT42,WT,WT
+AN0071-Ca,AN0071-C,CMgam,Cameroon,Zembe-Borongo,F,WT03,WT,WT
+AN0071-Cb,AN0071-C,CMgam,Cameroon,Zembe-Borongo,F,WT16,WT,WT
 AN0072-Ca,AN0072-C,CMgam,Cameroon,Zembe-Borongo,F,F5,F5,F5
 AN0072-Cb,AN0072-C,CMgam,Cameroon,Zembe-Borongo,F,S4,S4,S4
-AN0073-Ca,AN0073-C,CMgam,Cameroon,Zembe-Borongo,F,FX01,FX,
-AN0073-Cb,AN0073-C,CMgam,Cameroon,Zembe-Borongo,F,WT30,WT,
-AN0074-Ca,AN0074-C,CMgam,Cameroon,Zembe-Borongo,F,WT43,WT,
-AN0074-Cb,AN0074-C,CMgam,Cameroon,Zembe-Borongo,F,FX11,FX,
+AN0073-Ca,AN0073-C,CMgam,Cameroon,Zembe-Borongo,F,FX01,FX,WT
+AN0073-Cb,AN0073-C,CMgam,Cameroon,Zembe-Borongo,F,WT30,WT,WT
+AN0074-Ca,AN0074-C,CMgam,Cameroon,Zembe-Borongo,F,WT43,WT,WT
+AN0074-Cb,AN0074-C,CMgam,Cameroon,Zembe-Borongo,F,FX11,FX,WT
 AN0075-Ca,AN0075-C,CMgam,Cameroon,Zembe-Borongo,F,F1,F1,F1
 AN0075-Cb,AN0075-C,CMgam,Cameroon,Zembe-Borongo,F,F5,F5,F5
 AN0076-Ca,AN0076-C,CMgam,Cameroon,Zembe-Borongo,F,F3,F3,F3
-AN0076-Cb,AN0076-C,CMgam,Cameroon,Zembe-Borongo,F,WT44,WT,
-AN0077-Ca,AN0077-C,CMgam,Cameroon,Zembe-Borongo,F,WT120,WT,
-AN0077-Cb,AN0077-C,CMgam,Cameroon,Zembe-Borongo,F,WT19,WT,
-AN0079-Ca,AN0079-C,CMgam,Cameroon,Zembe-Borongo,F,WT70,WT,
-AN0079-Cb,AN0079-C,CMgam,Cameroon,Zembe-Borongo,F,WT45,WT,
-AN0080-Ca,AN0080-C,CMgam,Cameroon,Zembe-Borongo,F,F5,FX,
-AN0080-Cb,AN0080-C,CMgam,Cameroon,Zembe-Borongo,F,WT16,WT,
-AN0081-Ca,AN0081-C,CMgam,Cameroon,Zembe-Borongo,F,WT31,WT,
-AN0081-Cb,AN0081-C,CMgam,Cameroon,Zembe-Borongo,F,WT08,WT,
+AN0076-Cb,AN0076-C,CMgam,Cameroon,Zembe-Borongo,F,WT44,WT,WT
+AN0077-Ca,AN0077-C,CMgam,Cameroon,Zembe-Borongo,F,WT120,WT,WT
+AN0077-Cb,AN0077-C,CMgam,Cameroon,Zembe-Borongo,F,WT19,WT,WT
+AN0079-Ca,AN0079-C,CMgam,Cameroon,Zembe-Borongo,F,WT70,WT,WT
+AN0079-Cb,AN0079-C,CMgam,Cameroon,Zembe-Borongo,F,WT45,WT,WT
+AN0080-Ca,AN0080-C,CMgam,Cameroon,Zembe-Borongo,F,F5,FX,WT
+AN0080-Cb,AN0080-C,CMgam,Cameroon,Zembe-Borongo,F,WT16,WT,WT
+AN0081-Ca,AN0081-C,CMgam,Cameroon,Zembe-Borongo,F,WT31,WT,WT
+AN0081-Cb,AN0081-C,CMgam,Cameroon,Zembe-Borongo,F,WT08,WT,WT
 AN0082-Ca,AN0082-C,CMgam,Cameroon,Zembe-Borongo,F,F3,F3,F4
-AN0082-Cb,AN0082-C,CMgam,Cameroon,Zembe-Borongo,F,WT03,WT,
+AN0082-Cb,AN0082-C,CMgam,Cameroon,Zembe-Borongo,F,WT03,WT,WT
 AN0083-Ca,AN0083-C,CMgam,Cameroon,Zembe-Borongo,F,F5,F5,F5
 AN0083-Cb,AN0083-C,CMgam,Cameroon,Zembe-Borongo,F,WT43,WT,F5
-AN0084-Ca,AN0084-C,CMgam,Cameroon,Zembe-Borongo,F,WT02,WT,
-AN0084-Cb,AN0084-C,CMgam,Cameroon,Zembe-Borongo,F,WT121,WT,
+AN0084-Ca,AN0084-C,CMgam,Cameroon,Zembe-Borongo,F,WT02,WT,WT
+AN0084-Cb,AN0084-C,CMgam,Cameroon,Zembe-Borongo,F,WT121,WT,WT
 AN0085-Ca,AN0085-C,CMgam,Cameroon,Gado-Badzere,F,F1,F1,F1
 AN0085-Cb,AN0085-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
-AN0086-Ca,AN0086-C,CMgam,Cameroon,Gado-Badzere,F,WT14,WT,
-AN0086-Cb,AN0086-C,CMgam,Cameroon,Gado-Badzere,F,FX02,FX,
-AN0087-Ca,AN0087-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
-AN0087-Cb,AN0087-C,CMgam,Cameroon,Gado-Badzere,F,WT71,WT,
+AN0086-Ca,AN0086-C,CMgam,Cameroon,Gado-Badzere,F,WT14,WT,WT
+AN0086-Cb,AN0086-C,CMgam,Cameroon,Gado-Badzere,F,FX02,FX,WT
+AN0087-Ca,AN0087-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
+AN0087-Cb,AN0087-C,CMgam,Cameroon,Gado-Badzere,F,WT71,WT,WT
 AN0088-Ca,AN0088-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0088-Cb,AN0088-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
 AN0089-Ca,AN0089-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
 AN0089-Cb,AN0089-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
 AN0090-Ca,AN0090-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
-AN0090-Cb,AN0090-C,CMgam,Cameroon,Gado-Badzere,F,WT31,WT,
+AN0090-Cb,AN0090-C,CMgam,Cameroon,Gado-Badzere,F,WT31,WT,WT
 AN0091-Ca,AN0091-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
 AN0091-Cb,AN0091-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
 AN0092-Ca,AN0092-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0092-Cb,AN0092-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
 AN0093-Ca,AN0093-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
 AN0093-Cb,AN0093-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
-AN0094-Ca,AN0094-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
-AN0094-Cb,AN0094-C,CMgam,Cameroon,Gado-Badzere,F,WT61,WT,
+AN0094-Ca,AN0094-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
+AN0094-Cb,AN0094-C,CMgam,Cameroon,Gado-Badzere,F,WT61,WT,WT
 AN0095-Ca,AN0095-C,CMgam,Cameroon,Gado-Badzere,F,SX07,SX,F5
 AN0095-Cb,AN0095-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0096-Ca,AN0096-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
 AN0096-Cb,AN0096-C,CMgam,Cameroon,Gado-Badzere,F,S2,S2,S2
 AN0097-Ca,AN0097-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
-AN0097-Cb,AN0097-C,CMgam,Cameroon,Gado-Badzere,F,WT40,WT,
+AN0097-Cb,AN0097-C,CMgam,Cameroon,Gado-Badzere,F,WT40,WT,WT
 AN0098-Ca,AN0098-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0098-Cb,AN0098-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
-AN0099-Ca,AN0099-C,CMgam,Cameroon,Gado-Badzere,F,WT14,WT,
-AN0099-Cb,AN0099-C,CMgam,Cameroon,Gado-Badzere,F,FX12,FX,
-AN0100-Ca,AN0100-C,CMgam,Cameroon,Gado-Badzere,F,WT40,WT,
+AN0099-Ca,AN0099-C,CMgam,Cameroon,Gado-Badzere,F,WT14,WT,WT
+AN0099-Cb,AN0099-C,CMgam,Cameroon,Gado-Badzere,F,FX12,FX,WT
+AN0100-Ca,AN0100-C,CMgam,Cameroon,Gado-Badzere,F,WT40,WT,WT
 AN0100-Cb,AN0100-C,CMgam,Cameroon,Gado-Badzere,F,F2,F2,F2
 AN0101-Ca,AN0101-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0101-Cb,AN0101-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0102-Ca,AN0102-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
-AN0102-Cb,AN0102-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
+AN0102-Cb,AN0102-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
 AN0103-Ca,AN0103-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
 AN0103-Cb,AN0103-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
-AN0104-Ca,AN0104-C,CMgam,Cameroon,Gado-Badzere,F,FX13,FX,
-AN0104-Cb,AN0104-C,CMgam,Cameroon,Gado-Badzere,F,WT65,WT,
-AN0105-Ca,AN0105-C,CMgam,Cameroon,Gado-Badzere,F,F5,FX,
-AN0105-Cb,AN0105-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
+AN0104-Ca,AN0104-C,CMgam,Cameroon,Gado-Badzere,F,FX13,FX,WT
+AN0104-Cb,AN0104-C,CMgam,Cameroon,Gado-Badzere,F,WT65,WT,WT
+AN0105-Ca,AN0105-C,CMgam,Cameroon,Gado-Badzere,F,F5,FX,WT
+AN0105-Cb,AN0105-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
 AN0106-Ca,AN0106-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0106-Cb,AN0106-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
 AN0107-Ca,AN0107-C,CMgam,Cameroon,Gado-Badzere,F,S4,S4,S4
 AN0107-Cb,AN0107-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
-AN0108-Ca,AN0108-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
+AN0108-Ca,AN0108-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
 AN0108-Cb,AN0108-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
 AN0109-Ca,AN0109-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0109-Cb,AN0109-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
 AN0111-Ca,AN0111-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0111-Cb,AN0111-C,CMgam,Cameroon,Gado-Badzere,F,F4,F4,F4
-AN0112-Ca,AN0112-C,CMgam,Cameroon,Gado-Badzere,F,WT16,WT,
-AN0112-Cb,AN0112-C,CMgam,Cameroon,Gado-Badzere,F,WT09,WT,
-AN0113-Ca,AN0113-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
+AN0112-Ca,AN0112-C,CMgam,Cameroon,Gado-Badzere,F,WT16,WT,WT
+AN0112-Cb,AN0112-C,CMgam,Cameroon,Gado-Badzere,F,WT09,WT,WT
+AN0113-Ca,AN0113-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
 AN0113-Cb,AN0113-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0114-Ca,AN0114-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0114-Cb,AN0114-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
-AN0115-Ca,AN0115-C,CMgam,Cameroon,Gado-Badzere,F,WT38,WT,
-AN0115-Cb,AN0115-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,
-AN0117-Ca,AN0117-C,CMgam,Cameroon,Gado-Badzere,F,FX01,FX,
-AN0117-Cb,AN0117-C,CMgam,Cameroon,Gado-Badzere,F,WT30,WT,
+AN0115-Ca,AN0115-C,CMgam,Cameroon,Gado-Badzere,F,WT38,WT,WT
+AN0115-Cb,AN0115-C,CMgam,Cameroon,Gado-Badzere,F,WT02,WT,WT
+AN0117-Ca,AN0117-C,CMgam,Cameroon,Gado-Badzere,F,FX01,FX,WT
+AN0117-Cb,AN0117-C,CMgam,Cameroon,Gado-Badzere,F,WT30,WT,WT
 AN0118-Ca,AN0118-C,CMgam,Cameroon,Gado-Badzere,F,F5,F5,F5
 AN0118-Cb,AN0118-C,CMgam,Cameroon,Gado-Badzere,F,S5,S5,S5
-AN0119-Ca,AN0119-C,CMgam,Cameroon,Gado-Badzere,F,WT45,WT,
+AN0119-Ca,AN0119-C,CMgam,Cameroon,Gado-Badzere,F,WT45,WT,WT
 AN0119-Cb,AN0119-C,CMgam,Cameroon,Gado-Badzere,F,F2,F2,F2
 AN0120-Ca,AN0120-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F4
-AN0120-Cb,AN0120-C,CMgam,Cameroon,Gado-Badzere,F,WT03,WT,
+AN0120-Cb,AN0120-C,CMgam,Cameroon,Gado-Badzere,F,WT03,WT,WT
 AN0121-Ca,AN0121-C,CMgam,Cameroon,Gado-Badzere,F,F3,F3,F3
-AN0121-Cb,AN0121-C,CMgam,Cameroon,Gado-Badzere,F,WT72,WT,
+AN0121-Cb,AN0121-C,CMgam,Cameroon,Gado-Badzere,F,WT72,WT,WT
 AN0122-Ca,AN0122-C,CMgam,Cameroon,Mayos,M,S5,S5,S5
 AN0122-Cb,AN0122-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
 AN0123-Ca,AN0123-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
-AN0123-Cb,AN0123-C,CMgam,Cameroon,Mayos,M,WT02,WT,
+AN0123-Cb,AN0123-C,CMgam,Cameroon,Mayos,M,WT02,WT,WT
 AN0124-Ca,AN0124-C,CMgam,Cameroon,Mayos,M,F1,F1,F1
 AN0124-Cb,AN0124-C,CMgam,Cameroon,Mayos,M,F4,F4,F4
-AN0125-Ca,AN0125-C,CMgam,Cameroon,Mayos,M,WT12,WT,
+AN0125-Ca,AN0125-C,CMgam,Cameroon,Mayos,M,WT12,WT,WT
 AN0125-Cb,AN0125-C,CMgam,Cameroon,Mayos,M,F3,F3,F3
-AN0126-Ca,AN0126-C,CMgam,Cameroon,Mayos,M,WT12,WT,
-AN0126-Cb,AN0126-C,CMgam,Cameroon,Mayos,M,WT08,WT,
+AN0126-Ca,AN0126-C,CMgam,Cameroon,Mayos,M,WT12,WT,WT
+AN0126-Cb,AN0126-C,CMgam,Cameroon,Mayos,M,WT08,WT,WT
 AN0127-Ca,AN0127-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
 AN0127-Cb,AN0127-C,CMgam,Cameroon,Mayos,M,F4,F4,F4
 AN0128-Ca,AN0128-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
 AN0128-Cb,AN0128-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
-AN0129-Ca,AN0129-C,CMgam,Cameroon,Mayos,M,WT73,WT,
+AN0129-Ca,AN0129-C,CMgam,Cameroon,Mayos,M,WT73,WT,WT
 AN0129-Cb,AN0129-C,CMgam,Cameroon,Mayos,M,F4,F4,F4
 AN0130-Ca,AN0130-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
 AN0130-Cb,AN0130-C,CMgam,Cameroon,Mayos,M,S5,S5,S5
 AN0131-Ca,AN0131-C,CMgam,Cameroon,Mayos,M,S4,S4,S4
 AN0131-Cb,AN0131-C,CMgam,Cameroon,Mayos,M,F2,F2,F2
-AN0132-Ca,AN0132-C,CMgam,Cameroon,Mayos,M,WT14,WT,
-AN0132-Cb,AN0132-C,CMgam,Cameroon,Mayos,M,FX02,FX,
-AN0134-Ca,AN0134-C,CMgam,Cameroon,Mayos,M,WT30,WT,
-AN0134-Cb,AN0134-C,CMgam,Cameroon,Mayos,M,FX01,FX,
-AN0135-Ca,AN0135-C,CMgam,Cameroon,Mayos,M,WT02,WT,
-AN0135-Cb,AN0135-C,CMgam,Cameroon,Mayos,M,WT02,WT,
-AN0136-Ca,AN0136-C,CMgam,Cameroon,Mayos,M,WT06,WT,
+AN0132-Ca,AN0132-C,CMgam,Cameroon,Mayos,M,WT14,WT,WT
+AN0132-Cb,AN0132-C,CMgam,Cameroon,Mayos,M,FX02,FX,WT
+AN0134-Ca,AN0134-C,CMgam,Cameroon,Mayos,M,WT30,WT,WT
+AN0134-Cb,AN0134-C,CMgam,Cameroon,Mayos,M,FX01,FX,WT
+AN0135-Ca,AN0135-C,CMgam,Cameroon,Mayos,M,WT02,WT,WT
+AN0135-Cb,AN0135-C,CMgam,Cameroon,Mayos,M,WT02,WT,WT
+AN0136-Ca,AN0136-C,CMgam,Cameroon,Mayos,M,WT06,WT,WT
 AN0136-Cb,AN0136-C,CMgam,Cameroon,Mayos,M,F5,F5,F5
-AN0137-Ca,AN0137-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0137-Ca,AN0137-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0137-Cb,AN0137-C,CMgam,Cameroon,Mayos,F,F4,F4,F4
 AN0138-Ca,AN0138-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0138-Cb,AN0138-C,CMgam,Cameroon,Mayos,F,WT74,WT,
+AN0138-Cb,AN0138-C,CMgam,Cameroon,Mayos,F,WT74,WT,WT
 AN0139-Ca,AN0139-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0139-Cb,AN0139-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0140-Ca,AN0140-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
@@ -1361,144 +1361,144 @@ AN0142-Ca,AN0142-C,CMgam,Cameroon,Mayos,F,F3,F3,F4
 AN0142-Cb,AN0142-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0143-Ca,AN0143-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0143-Cb,AN0143-C,CMgam,Cameroon,Mayos,F,WT06,WT,F4
-AN0144-Ca,AN0144-C,CMgam,Cameroon,Mayos,F,WT06,WT,
+AN0144-Ca,AN0144-C,CMgam,Cameroon,Mayos,F,WT06,WT,WT
 AN0144-Cb,AN0144-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0147-Ca,AN0147-C,CMgam,Cameroon,Mayos,F,WT73,WT,
-AN0147-Cb,AN0147-C,CMgam,Cameroon,Mayos,F,WT69,WT,
-AN0149-Ca,AN0149-C,CMgam,Cameroon,Mayos,F,WT02,WT,
-AN0149-Cb,AN0149-C,CMgam,Cameroon,Mayos,F,F5,FX,
+AN0147-Ca,AN0147-C,CMgam,Cameroon,Mayos,F,WT73,WT,WT
+AN0147-Cb,AN0147-C,CMgam,Cameroon,Mayos,F,WT69,WT,WT
+AN0149-Ca,AN0149-C,CMgam,Cameroon,Mayos,F,WT02,WT,WT
+AN0149-Cb,AN0149-C,CMgam,Cameroon,Mayos,F,F5,FX,WT
 AN0151-Ca,AN0151-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0151-Cb,AN0151-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0152-Ca,AN0152-C,CMgam,Cameroon,Mayos,F,WT12,WT,
+AN0152-Ca,AN0152-C,CMgam,Cameroon,Mayos,F,WT12,WT,WT
 AN0152-Cb,AN0152-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0153-Ca,AN0153-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0153-Cb,AN0153-C,CMgam,Cameroon,Mayos,F,WT39,WT,
-AN0154-Ca,AN0154-C,CMgam,Cameroon,Mayos,F,WT12,WT,
-AN0154-Cb,AN0154-C,CMgam,Cameroon,Mayos,F,WT75,WT,
+AN0153-Cb,AN0153-C,CMgam,Cameroon,Mayos,F,WT39,WT,WT
+AN0154-Ca,AN0154-C,CMgam,Cameroon,Mayos,F,WT12,WT,WT
+AN0154-Cb,AN0154-C,CMgam,Cameroon,Mayos,F,WT75,WT,WT
 AN0155-Ca,AN0155-C,CMgam,Cameroon,Mayos,F,S2,S2,S2
 AN0155-Cb,AN0155-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0156-Ca,AN0156-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0156-Cb,AN0156-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0157-Ca,AN0157-C,CMgam,Cameroon,Mayos,F,WT122,WT,
+AN0157-Ca,AN0157-C,CMgam,Cameroon,Mayos,F,WT122,WT,WT
 AN0157-Cb,AN0157-C,CMgam,Cameroon,Mayos,F,FX14,F5,F5
 AN0158-Ca,AN0158-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
-AN0158-Cb,AN0158-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0158-Cb,AN0158-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0159-Ca,AN0159-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0159-Cb,AN0159-C,CMgam,Cameroon,Mayos,F,WT46,WT,
+AN0159-Cb,AN0159-C,CMgam,Cameroon,Mayos,F,WT46,WT,WT
 AN0160-Ca,AN0160-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0160-Cb,AN0160-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0162-Ca,AN0162-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
-AN0162-Cb,AN0162-C,CMgam,Cameroon,Mayos,F,WT29,WT,
+AN0162-Cb,AN0162-C,CMgam,Cameroon,Mayos,F,WT29,WT,WT
 AN0163-Ca,AN0163-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0163-Cb,AN0163-C,CMgam,Cameroon,Mayos,F,F3,F3,F3
 AN0164-Ca,AN0164-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0164-Cb,AN0164-C,CMgam,Cameroon,Mayos,F,F2,F2,F2
 AN0165-Ca,AN0165-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0165-Cb,AN0165-C,CMgam,Cameroon,Mayos,F,F2,F2,F2
-AN0166-Ca,AN0166-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0166-Ca,AN0166-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0166-Cb,AN0166-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
-AN0167-Ca,AN0167-C,CMgam,Cameroon,Mayos,F,WT07,WT,
+AN0167-Ca,AN0167-C,CMgam,Cameroon,Mayos,F,WT07,WT,WT
 AN0167-Cb,AN0167-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0168-Ca,AN0168-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0168-Cb,AN0168-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0169-Ca,AN0169-C,CMgam,Cameroon,Mayos,F,SX04,S5,S5
-AN0169-Cb,AN0169-C,CMgam,Cameroon,Mayos,F,WT66,WT,
-AN0170-Ca,AN0170-C,CMgam,Cameroon,Mayos,F,SX03,SX,
-AN0170-Cb,AN0170-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0169-Cb,AN0169-C,CMgam,Cameroon,Mayos,F,WT66,WT,WT
+AN0170-Ca,AN0170-C,CMgam,Cameroon,Mayos,F,SX03,SX,WT
+AN0170-Cb,AN0170-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0171-Ca,AN0171-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0171-Cb,AN0171-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0172-Ca,AN0172-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0172-Ca,AN0172-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0172-Cb,AN0172-C,CMgam,Cameroon,Mayos,F,F3,F3,F3
 AN0173-Ca,AN0173-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0173-Cb,AN0173-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0174-Ca,AN0174-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0174-Cb,AN0174-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0174-Cb,AN0174-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0175-Ca,AN0175-C,CMgam,Cameroon,Mayos,F,S2,S2,S2
-AN0175-Cb,AN0175-C,CMgam,Cameroon,Mayos,F,WT09,WT,
+AN0175-Cb,AN0175-C,CMgam,Cameroon,Mayos,F,WT09,WT,WT
 AN0176-Ca,AN0176-C,CMgam,Cameroon,Mayos,F,F2,F2,F2
-AN0176-Cb,AN0176-C,CMgam,Cameroon,Mayos,F,WT09,WT,
+AN0176-Cb,AN0176-C,CMgam,Cameroon,Mayos,F,WT09,WT,WT
 AN0177-Ca,AN0177-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0177-Cb,AN0177-C,CMgam,Cameroon,Mayos,F,WT07,WT,
+AN0177-Cb,AN0177-C,CMgam,Cameroon,Mayos,F,WT07,WT,WT
 AN0178-Ca,AN0178-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0178-Cb,AN0178-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0179-Ca,AN0179-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0179-Cb,AN0179-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0180-Ca,AN0180-C,CMgam,Cameroon,Mayos,F,WT12,WT,
+AN0180-Ca,AN0180-C,CMgam,Cameroon,Mayos,F,WT12,WT,WT
 AN0180-Cb,AN0180-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0181-Ca,AN0181-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0181-Cb,AN0181-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0181-Cb,AN0181-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0182-Ca,AN0182-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0182-Cb,AN0182-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0183-Ca,AN0183-C,CMgam,Cameroon,Mayos,F,WT08,WT,
-AN0183-Cb,AN0183-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0183-Ca,AN0183-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
+AN0183-Cb,AN0183-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0184-Ca,AN0184-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0184-Cb,AN0184-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
-AN0185-Ca,AN0185-C,CMgam,Cameroon,Mayos,F,WT12,WT,
-AN0185-Cb,AN0185-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0185-Ca,AN0185-C,CMgam,Cameroon,Mayos,F,WT12,WT,WT
+AN0185-Cb,AN0185-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0186-Ca,AN0186-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
-AN0186-Cb,AN0186-C,CMgam,Cameroon,Mayos,F,WT29,WT,
+AN0186-Cb,AN0186-C,CMgam,Cameroon,Mayos,F,WT29,WT,WT
 AN0187-Ca,AN0187-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0187-Cb,AN0187-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0188-Ca,AN0188-C,CMgam,Cameroon,Mayos,F,WT12,WT,
+AN0188-Ca,AN0188-C,CMgam,Cameroon,Mayos,F,WT12,WT,WT
 AN0188-Cb,AN0188-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0189-Ca,AN0189-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0189-Cb,AN0189-C,CMgam,Cameroon,Mayos,F,WT74,WT,
-AN0190-Ca,AN0190-C,CMgam,Cameroon,Mayos,F,FX15,FX,
-AN0190-Cb,AN0190-C,CMgam,Cameroon,Mayos,F,WT123,WT,
-AN0191-Ca,AN0191-C,CMgam,Cameroon,Mayos,F,WT06,WT,
-AN0191-Cb,AN0191-C,CMgam,Cameroon,Mayos,F,FX16,FX,
+AN0189-Cb,AN0189-C,CMgam,Cameroon,Mayos,F,WT74,WT,WT
+AN0190-Ca,AN0190-C,CMgam,Cameroon,Mayos,F,FX15,FX,WT
+AN0190-Cb,AN0190-C,CMgam,Cameroon,Mayos,F,WT123,WT,WT
+AN0191-Ca,AN0191-C,CMgam,Cameroon,Mayos,F,WT06,WT,WT
+AN0191-Cb,AN0191-C,CMgam,Cameroon,Mayos,F,FX16,FX,WT
 AN0192-Ca,AN0192-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0192-Cb,AN0192-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0193-Ca,AN0193-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0193-Cb,AN0193-C,CMgam,Cameroon,Mayos,F,WT75,WT,
-AN0194-Ca,AN0194-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0193-Cb,AN0193-C,CMgam,Cameroon,Mayos,F,WT75,WT,WT
+AN0194-Ca,AN0194-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0194-Cb,AN0194-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0196-Ca,AN0196-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0196-Cb,AN0196-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0197-Ca,AN0197-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0197-Cb,AN0197-C,CMgam,Cameroon,Mayos,F,WT08,WT,
-AN0198-Ca,AN0198-C,CMgam,Cameroon,Mayos,F,WT02,WT,
-AN0198-Cb,AN0198-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0197-Cb,AN0197-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
+AN0198-Ca,AN0198-C,CMgam,Cameroon,Mayos,F,WT02,WT,WT
+AN0198-Cb,AN0198-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0199-Ca,AN0199-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0199-Cb,AN0199-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0200-Ca,AN0200-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0200-Cb,AN0200-C,CMgam,Cameroon,Mayos,F,F4,F4,F4
 AN0201-Ca,AN0201-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0201-Cb,AN0201-C,CMgam,Cameroon,Mayos,F,F2,F2,F2
-AN0202-Ca,AN0202-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0202-Ca,AN0202-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0202-Cb,AN0202-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0203-Ca,AN0203-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0203-Cb,AN0203-C,CMgam,Cameroon,Mayos,F,WT09,WT,
+AN0203-Cb,AN0203-C,CMgam,Cameroon,Mayos,F,WT09,WT,WT
 AN0204-Ca,AN0204-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0204-Cb,AN0204-C,CMgam,Cameroon,Mayos,F,WT46,WT,
-AN0205-Ca,AN0205-C,CMgam,Cameroon,Mayos,F,FX17,FX,
-AN0205-Cb,AN0205-C,CMgam,Cameroon,Mayos,F,WT70,WT,
-AN0206-Ca,AN0206-C,CMgam,Cameroon,Mayos,F,WT19,WT,
-AN0206-Cb,AN0206-C,CMgam,Cameroon,Mayos,F,WT02,WT,
+AN0204-Cb,AN0204-C,CMgam,Cameroon,Mayos,F,WT46,WT,WT
+AN0205-Ca,AN0205-C,CMgam,Cameroon,Mayos,F,FX17,FX,WT
+AN0205-Cb,AN0205-C,CMgam,Cameroon,Mayos,F,WT70,WT,WT
+AN0206-Ca,AN0206-C,CMgam,Cameroon,Mayos,F,WT19,WT,WT
+AN0206-Cb,AN0206-C,CMgam,Cameroon,Mayos,F,WT02,WT,WT
 AN0207-Ca,AN0207-C,CMgam,Cameroon,Mayos,F,F1,F1,F1
 AN0207-Cb,AN0207-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0208-Ca,AN0208-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
-AN0208-Cb,AN0208-C,CMgam,Cameroon,Mayos,F,WT03,WT,
+AN0208-Cb,AN0208-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
 AN0209-Ca,AN0209-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0209-Cb,AN0209-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0210-Ca,AN0210-C,CMgam,Cameroon,Mayos,F,F3,F3,F3
-AN0210-Cb,AN0210-C,CMgam,Cameroon,Mayos,F,WT124,WT,
+AN0210-Cb,AN0210-C,CMgam,Cameroon,Mayos,F,WT124,WT,WT
 AN0212-Ca,AN0212-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0212-Cb,AN0212-C,CMgam,Cameroon,Mayos,F,WT08,WT,
+AN0212-Cb,AN0212-C,CMgam,Cameroon,Mayos,F,WT08,WT,WT
 AN0213-Ca,AN0213-C,CMgam,Cameroon,Mayos,F,F3,F3,F3
-AN0213-Cb,AN0213-C,CMgam,Cameroon,Mayos,F,WT125,WT,
+AN0213-Cb,AN0213-C,CMgam,Cameroon,Mayos,F,WT125,WT,WT
 AN0214-Ca,AN0214-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0214-Cb,AN0214-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0215-Ca,AN0215-C,CMgam,Cameroon,Mayos,F,S5,S5,S5
 AN0215-Cb,AN0215-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0217-Ca,AN0217-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0217-Cb,AN0217-C,CMgam,Cameroon,Mayos,F,WT03,WT,
-AN0218-Ca,AN0218-C,CMgam,Cameroon,Mayos,F,WT09,WT,
+AN0217-Cb,AN0217-C,CMgam,Cameroon,Mayos,F,WT03,WT,WT
+AN0218-Ca,AN0218-C,CMgam,Cameroon,Mayos,F,WT09,WT,WT
 AN0218-Cb,AN0218-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0219-Ca,AN0219-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0219-Cb,AN0219-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
-AN0220-Ca,AN0220-C,CMgam,Cameroon,Mayos,F,FX18,FX,
-AN0220-Cb,AN0220-C,CMgam,Cameroon,Mayos,F,WT126,WT,
+AN0220-Ca,AN0220-C,CMgam,Cameroon,Mayos,F,FX18,FX,WT
+AN0220-Cb,AN0220-C,CMgam,Cameroon,Mayos,F,WT126,WT,WT
 AN0221-Ca,AN0221-C,CMgam,Cameroon,Mayos,F,S4,S4,S4
 AN0221-Cb,AN0221-C,CMgam,Cameroon,Mayos,F,F5,F5,F5
 AN0222-Ca,AN0222-C,CMgam,Cameroon,Daiguene,M,F1,F1,F1
@@ -1506,7 +1506,7 @@ AN0222-Cb,AN0222-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
 AN0223-Ca,AN0223-C,CMgam,Cameroon,Daiguene,M,S5,S5,S5
 AN0223-Cb,AN0223-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
 AN0224-Ca,AN0224-C,CMgam,Cameroon,Daiguene,M,F3,F3,F3
-AN0224-Cb,AN0224-C,CMgam,Cameroon,Daiguene,M,WT47,WT,
+AN0224-Cb,AN0224-C,CMgam,Cameroon,Daiguene,M,WT47,WT,WT
 AN0225-Ca,AN0225-C,CMgam,Cameroon,Daiguene,M,F1,F1,F1
 AN0225-Cb,AN0225-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
 AN0226-Ca,AN0226-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
@@ -1521,26 +1521,26 @@ AN0230-Ca,AN0230-C,CMgam,Cameroon,Daiguene,M,S5,S5,S5
 AN0230-Cb,AN0230-C,CMgam,Cameroon,Daiguene,M,S4,S4,S4
 AN0231-Ca,AN0231-C,CMgam,Cameroon,Daiguene,M,F1,F1,F1
 AN0231-Cb,AN0231-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
-AN0232-Ca,AN0232-C,CMgam,Cameroon,Daiguene,M,WT02,WT,
+AN0232-Ca,AN0232-C,CMgam,Cameroon,Daiguene,M,WT02,WT,WT
 AN0232-Cb,AN0232-C,CMgam,Cameroon,Daiguene,M,S5,SX,S5
 AN0233-Ca,AN0233-C,CMgam,Cameroon,Daiguene,M,F1,F1,F1
 AN0233-Cb,AN0233-C,CMgam,Cameroon,Daiguene,M,F4,F4,F4
 AN0234-Ca,AN0234-C,CMgam,Cameroon,Daiguene,M,S4,S4,S4
-AN0234-Cb,AN0234-C,CMgam,Cameroon,Daiguene,M,WT02,WT,
+AN0234-Cb,AN0234-C,CMgam,Cameroon,Daiguene,M,WT02,WT,WT
 AN0235-Ca,AN0235-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
 AN0235-Cb,AN0235-C,CMgam,Cameroon,Daiguene,M,S5,S5,S5
 AN0236-Ca,AN0236-C,CMgam,Cameroon,Daiguene,M,F5,F5,F5
 AN0236-Cb,AN0236-C,CMgam,Cameroon,Daiguene,M,WT06,WT,F4
-AN0237-Ca,AN0237-C,CMgam,Cameroon,Daiguene,F,WT127,WT,
-AN0237-Cb,AN0237-C,CMgam,Cameroon,Daiguene,F,WT128,WT,
-AN0238-Ca,AN0238-C,CMgam,Cameroon,Daiguene,F,WT39,WT,
+AN0237-Ca,AN0237-C,CMgam,Cameroon,Daiguene,F,WT127,WT,WT
+AN0237-Cb,AN0237-C,CMgam,Cameroon,Daiguene,F,WT128,WT,WT
+AN0238-Ca,AN0238-C,CMgam,Cameroon,Daiguene,F,WT39,WT,WT
 AN0238-Cb,AN0238-C,CMgam,Cameroon,Daiguene,F,S5,S5,S5
-AN0239-Ca,AN0239-C,CMgam,Cameroon,Daiguene,F,WT08,WT,
+AN0239-Ca,AN0239-C,CMgam,Cameroon,Daiguene,F,WT08,WT,WT
 AN0239-Cb,AN0239-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0240-Ca,AN0240-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0240-Cb,AN0240-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0241-Ca,AN0241-C,CMgam,Cameroon,Daiguene,F,WT46,WT,
-AN0241-Cb,AN0241-C,CMgam,Cameroon,Daiguene,F,WT16,WT,
+AN0241-Ca,AN0241-C,CMgam,Cameroon,Daiguene,F,WT46,WT,WT
+AN0241-Cb,AN0241-C,CMgam,Cameroon,Daiguene,F,WT16,WT,WT
 AN0242-Ca,AN0242-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0242-Cb,AN0242-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0243-Ca,AN0243-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
@@ -1556,27 +1556,27 @@ AN0247-Cb,AN0247-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0248-Ca,AN0248-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0248-Cb,AN0248-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0250-Ca,AN0250-C,CMgam,Cameroon,Daiguene,F,WT41,WT,F4
-AN0250-Cb,AN0250-C,CMgam,Cameroon,Daiguene,F,WT42,WT,
-AN0251-Ca,AN0251-C,CMgam,Cameroon,Daiguene,F,WT38,WT,
+AN0250-Cb,AN0250-C,CMgam,Cameroon,Daiguene,F,WT42,WT,WT
+AN0251-Ca,AN0251-C,CMgam,Cameroon,Daiguene,F,WT38,WT,WT
 AN0251-Cb,AN0251-C,CMgam,Cameroon,Daiguene,F,F2,F2,F2
 AN0252-Ca,AN0252-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0252-Cb,AN0252-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0253-Ca,AN0253-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
-AN0253-Cb,AN0253-C,CMgam,Cameroon,Daiguene,F,WT76,WT,
+AN0253-Cb,AN0253-C,CMgam,Cameroon,Daiguene,F,WT76,WT,WT
 AN0254-Ca,AN0254-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0254-Cb,AN0254-C,CMgam,Cameroon,Daiguene,F,S4,S4,S4
-AN0255-Ca,AN0255-C,CMgam,Cameroon,Daiguene,F,WT03,WT,
-AN0255-Cb,AN0255-C,CMgam,Cameroon,Daiguene,F,WT06,WT,
+AN0255-Ca,AN0255-C,CMgam,Cameroon,Daiguene,F,WT03,WT,WT
+AN0255-Cb,AN0255-C,CMgam,Cameroon,Daiguene,F,WT06,WT,WT
 AN0256-Ca,AN0256-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0256-Cb,AN0256-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0258-Ca,AN0258-C,CMgam,Cameroon,Daiguene,F,WT07,WT,
+AN0258-Ca,AN0258-C,CMgam,Cameroon,Daiguene,F,WT07,WT,WT
 AN0258-Cb,AN0258-C,CMgam,Cameroon,Daiguene,F,S4,S4,S4
 AN0259-Ca,AN0259-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0259-Cb,AN0259-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0260-Ca,AN0260-C,CMgam,Cameroon,Daiguene,F,F2,FX,F2
-AN0260-Cb,AN0260-C,CMgam,Cameroon,Daiguene,F,WT76,WT,
-AN0261-Ca,AN0261-C,CMgam,Cameroon,Daiguene,F,WT129,WT,
-AN0261-Cb,AN0261-C,CMgam,Cameroon,Daiguene,F,FX19,FX,
+AN0260-Cb,AN0260-C,CMgam,Cameroon,Daiguene,F,WT76,WT,WT
+AN0261-Ca,AN0261-C,CMgam,Cameroon,Daiguene,F,WT129,WT,WT
+AN0261-Cb,AN0261-C,CMgam,Cameroon,Daiguene,F,FX19,FX,WT
 AN0262-Ca,AN0262-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0262-Cb,AN0262-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0263-Ca,AN0263-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
@@ -1586,9 +1586,9 @@ AN0264-Cb,AN0264-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0265-Ca,AN0265-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0265-Cb,AN0265-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0266-Ca,AN0266-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
-AN0266-Cb,AN0266-C,CMgam,Cameroon,Daiguene,F,SX03,SX,
-AN0267-Ca,AN0267-C,CMgam,Cameroon,Daiguene,F,WT130,WT,
-AN0267-Cb,AN0267-C,CMgam,Cameroon,Daiguene,F,F5,FX,
+AN0266-Cb,AN0266-C,CMgam,Cameroon,Daiguene,F,SX03,SX,WT
+AN0267-Ca,AN0267-C,CMgam,Cameroon,Daiguene,F,WT130,WT,WT
+AN0267-Cb,AN0267-C,CMgam,Cameroon,Daiguene,F,F5,FX,WT
 AN0268-Ca,AN0268-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0268-Cb,AN0268-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0269-Ca,AN0269-C,CMgam,Cameroon,Daiguene,F,S4,S4,S4
@@ -1597,46 +1597,46 @@ AN0270-Ca,AN0270-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0270-Cb,AN0270-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0271-Ca,AN0271-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0271-Cb,AN0271-C,CMgam,Cameroon,Daiguene,F,FX20,FX,F5
-AN0272-Ca,AN0272-C,CMgam,Cameroon,Daiguene,F,WT02,WT,
-AN0272-Cb,AN0272-C,CMgam,Cameroon,Daiguene,F,WT72,WT,
+AN0272-Ca,AN0272-C,CMgam,Cameroon,Daiguene,F,WT02,WT,WT
+AN0272-Cb,AN0272-C,CMgam,Cameroon,Daiguene,F,WT72,WT,WT
 AN0275-Ca,AN0275-C,CMgam,Cameroon,Daiguene,F,S5,S5,S5
 AN0275-Cb,AN0275-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0276-Ca,AN0276-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0276-Cb,AN0276-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0277-Ca,AN0277-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0277-Cb,AN0277-C,CMgam,Cameroon,Daiguene,F,S4,S4,S4
-AN0278-Ca,AN0278-C,CMgam,Cameroon,Daiguene,F,WT18,WT,
-AN0278-Cb,AN0278-C,CMgam,Cameroon,Daiguene,F,F5,FX,
-AN0279-Ca,AN0279-C,CMgam,Cameroon,Daiguene,F,WT02,WT,
-AN0279-Cb,AN0279-C,CMgam,Cameroon,Daiguene,F,WT06,WT,
-AN0280-Ca,AN0280-C,CMgam,Cameroon,Daiguene,F,WT07,WT,
-AN0280-Cb,AN0280-C,CMgam,Cameroon,Daiguene,F,WT02,WT,
-AN0281-Ca,AN0281-C,CMgam,Cameroon,Daiguene,F,WT02,WT,
-AN0281-Cb,AN0281-C,CMgam,Cameroon,Daiguene,F,WT131,WT,
-AN0282-Ca,AN0282-C,CMgam,Cameroon,Daiguene,F,WT03,WT,
-AN0282-Cb,AN0282-C,CMgam,Cameroon,Daiguene,F,WT31,WT,
+AN0278-Ca,AN0278-C,CMgam,Cameroon,Daiguene,F,WT18,WT,WT
+AN0278-Cb,AN0278-C,CMgam,Cameroon,Daiguene,F,F5,FX,WT
+AN0279-Ca,AN0279-C,CMgam,Cameroon,Daiguene,F,WT02,WT,WT
+AN0279-Cb,AN0279-C,CMgam,Cameroon,Daiguene,F,WT06,WT,WT
+AN0280-Ca,AN0280-C,CMgam,Cameroon,Daiguene,F,WT07,WT,WT
+AN0280-Cb,AN0280-C,CMgam,Cameroon,Daiguene,F,WT02,WT,WT
+AN0281-Ca,AN0281-C,CMgam,Cameroon,Daiguene,F,WT02,WT,WT
+AN0281-Cb,AN0281-C,CMgam,Cameroon,Daiguene,F,WT131,WT,WT
+AN0282-Ca,AN0282-C,CMgam,Cameroon,Daiguene,F,WT03,WT,WT
+AN0282-Cb,AN0282-C,CMgam,Cameroon,Daiguene,F,WT31,WT,WT
 AN0283-Ca,AN0283-C,CMgam,Cameroon,Daiguene,F,F2,F2,F2
 AN0283-Cb,AN0283-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0284-Ca,AN0284-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0284-Cb,AN0284-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0285-Ca,AN0285-C,CMgam,Cameroon,Daiguene,F,FX21,FX,
-AN0285-Cb,AN0285-C,CMgam,Cameroon,Daiguene,F,WT132,WT,
+AN0285-Ca,AN0285-C,CMgam,Cameroon,Daiguene,F,FX21,FX,WT
+AN0285-Cb,AN0285-C,CMgam,Cameroon,Daiguene,F,WT132,WT,WT
 AN0286-Ca,AN0286-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0286-Cb,AN0286-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0287-Ca,AN0287-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0287-Cb,AN0287-C,CMgam,Cameroon,Daiguene,F,WT07,WT,
-AN0288-Ca,AN0288-C,CMgam,Cameroon,Daiguene,F,WT133,WT,
-AN0288-Cb,AN0288-C,CMgam,Cameroon,Daiguene,F,F2,FX,
+AN0287-Cb,AN0287-C,CMgam,Cameroon,Daiguene,F,WT07,WT,WT
+AN0288-Ca,AN0288-C,CMgam,Cameroon,Daiguene,F,WT133,WT,WT
+AN0288-Cb,AN0288-C,CMgam,Cameroon,Daiguene,F,F2,FX,WT
 AN0289-Ca,AN0289-C,CMgam,Cameroon,Daiguene,F,SX08,SX,S4
-AN0289-Cb,AN0289-C,CMgam,Cameroon,Daiguene,F,WT134,WT,
-AN0290-Ca,AN0290-C,CMgam,Cameroon,Daiguene,F,WT08,WT,
-AN0290-Cb,AN0290-C,CMgam,Cameroon,Daiguene,F,WT09,WT,
-AN0291-Ca,AN0291-C,CMgam,Cameroon,Daiguene,F,WT71,WT,
-AN0291-Cb,AN0291-C,CMgam,Cameroon,Daiguene,F,WT45,WT,
+AN0289-Cb,AN0289-C,CMgam,Cameroon,Daiguene,F,WT134,WT,WT
+AN0290-Ca,AN0290-C,CMgam,Cameroon,Daiguene,F,WT08,WT,WT
+AN0290-Cb,AN0290-C,CMgam,Cameroon,Daiguene,F,WT09,WT,WT
+AN0291-Ca,AN0291-C,CMgam,Cameroon,Daiguene,F,WT71,WT,WT
+AN0291-Cb,AN0291-C,CMgam,Cameroon,Daiguene,F,WT45,WT,WT
 AN0292-Ca,AN0292-C,CMgam,Cameroon,Daiguene,F,S5,S5,S5
 AN0292-Cb,AN0292-C,CMgam,Cameroon,Daiguene,F,WT06,WT,F4
-AN0293-Ca,AN0293-C,CMgam,Cameroon,Daiguene,F,WT135,WT,
-AN0293-Cb,AN0293-C,CMgam,Cameroon,Daiguene,F,WT136,WT,
+AN0293-Ca,AN0293-C,CMgam,Cameroon,Daiguene,F,WT135,WT,WT
+AN0293-Cb,AN0293-C,CMgam,Cameroon,Daiguene,F,WT136,WT,WT
 AN0294-Ca,AN0294-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0294-Cb,AN0294-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0295-Ca,AN0295-C,CMgam,Cameroon,Daiguene,F,S4,S4,S4
@@ -1659,22 +1659,22 @@ AN0303-Ca,AN0303-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0303-Cb,AN0303-C,CMgam,Cameroon,Daiguene,F,F4,F4,F4
 AN0304-Ca,AN0304-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0304-Cb,AN0304-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0305-Ca,AN0305-C,CMgam,Cameroon,Daiguene,F,FX22,FX,
-AN0305-Cb,AN0305-C,CMgam,Cameroon,Daiguene,F,WT43,WT,
+AN0305-Ca,AN0305-C,CMgam,Cameroon,Daiguene,F,FX22,FX,WT
+AN0305-Cb,AN0305-C,CMgam,Cameroon,Daiguene,F,WT43,WT,WT
 AN0306-Ca,AN0306-C,CMgam,Cameroon,Daiguene,F,S5,S5,S5
-AN0306-Cb,AN0306-C,CMgam,Cameroon,Daiguene,F,WT24,WT,
+AN0306-Cb,AN0306-C,CMgam,Cameroon,Daiguene,F,WT24,WT,WT
 AN0307-Ca,AN0307-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0307-Cb,AN0307-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
-AN0308-Ca,AN0308-C,CMgam,Cameroon,Daiguene,F,WT137,WT,
-AN0308-Cb,AN0308-C,CMgam,Cameroon,Daiguene,F,FX23,FX,
-AN0309-Ca,AN0309-C,CMgam,Cameroon,Daiguene,F,WT08,WT,
-AN0309-Cb,AN0309-C,CMgam,Cameroon,Daiguene,F,WT31,WT,
+AN0308-Ca,AN0308-C,CMgam,Cameroon,Daiguene,F,WT137,WT,WT
+AN0308-Cb,AN0308-C,CMgam,Cameroon,Daiguene,F,FX23,FX,WT
+AN0309-Ca,AN0309-C,CMgam,Cameroon,Daiguene,F,WT08,WT,WT
+AN0309-Cb,AN0309-C,CMgam,Cameroon,Daiguene,F,WT31,WT,WT
 AN0310-Ca,AN0310-C,CMgam,Cameroon,Daiguene,F,F3,F3,F3
 AN0310-Cb,AN0310-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0311-Ca,AN0311-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0311-Cb,AN0311-C,CMgam,Cameroon,Daiguene,F,F4,F4,F4
 AN0312-Ca,AN0312-C,CMgam,Cameroon,Daiguene,F,S2,S2,S2
-AN0312-Cb,AN0312-C,CMgam,Cameroon,Daiguene,F,WT19,WT,
+AN0312-Cb,AN0312-C,CMgam,Cameroon,Daiguene,F,WT19,WT,WT
 AN0313-Ca,AN0313-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0313-Cb,AN0313-C,CMgam,Cameroon,Daiguene,F,F4,F4,F4
 AN0314-Ca,AN0314-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
@@ -1686,81 +1686,81 @@ AN0316-Cb,AN0316-C,CMgam,Cameroon,Daiguene,F,S5,S5,S5
 AN0317-Ca,AN0317-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0317-Cb,AN0317-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
 AN0318-Ca,AN0318-C,CMgam,Cameroon,Daiguene,F,S4,S4,S4
-AN0318-Cb,AN0318-C,CMgam,Cameroon,Daiguene,F,WT47,WT,
+AN0318-Cb,AN0318-C,CMgam,Cameroon,Daiguene,F,WT47,WT,WT
 AN0319-Ca,AN0319-C,CMgam,Cameroon,Daiguene,F,F1,F1,F1
 AN0319-Cb,AN0319-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0320-Ca,AN0320-C,CMgam,Cameroon,Daiguene,F,FX04,FX,
-AN0320-Cb,AN0320-C,CMgam,Cameroon,Daiguene,F,WT14,WT,
+AN0320-Ca,AN0320-C,CMgam,Cameroon,Daiguene,F,FX04,FX,WT
+AN0320-Cb,AN0320-C,CMgam,Cameroon,Daiguene,F,WT14,WT,WT
 AN0321-Ca,AN0321-C,CMgam,Cameroon,Daiguene,F,F5,F5,F5
-AN0321-Cb,AN0321-C,CMgam,Cameroon,Daiguene,F,WT09,WT,
-AP0002-Ca,AP0002-C,FRgam,France,Mayotte,F,WT77,WT,
-AP0002-Cb,AP0002-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0005-Ca,AP0005-C,FRgam,France,Mayotte,F,WT21,WT,
-AP0005-Cb,AP0005-C,FRgam,France,Mayotte,F,WT48,WT,
-AP0006-Ca,AP0006-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0006-Cb,AP0006-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0007-Ca,AP0007-C,FRgam,France,Mayotte,F,WT48,WT,
-AP0007-Cb,AP0007-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0008-Ca,AP0008-C,FRgam,France,Mayotte,F,WT18,WT,
-AP0008-Cb,AP0008-C,FRgam,France,Mayotte,F,WT18,WT,
-AP0009-Ca,AP0009-C,FRgam,France,Mayotte,M,WT48,WT,
-AP0009-Cb,AP0009-C,FRgam,France,Mayotte,M,WT21,WT,
-AP0010-Ca,AP0010-C,FRgam,France,Mayotte,M,WT18,WT,
-AP0010-Cb,AP0010-C,FRgam,France,Mayotte,M,WT02,WT,
-AP0011-Ca,AP0011-C,FRgam,France,Mayotte,M,WT32,WT,
-AP0011-Cb,AP0011-C,FRgam,France,Mayotte,M,WT32,WT,
-AP0014-Ca,AP0014-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0014-Cb,AP0014-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0017-Ca,AP0017-C,FRgam,France,Mayotte,F,WT18,WT,
-AP0017-Cb,AP0017-C,FRgam,France,Mayotte,F,WT32,WT,
-AP0018-Ca,AP0018-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0018-Cb,AP0018-C,FRgam,France,Mayotte,M,WT77,WT,
-AP0019-Ca,AP0019-C,FRgam,France,Mayotte,M,WT21,WT,
-AP0019-Cb,AP0019-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0020-Ca,AP0020-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0020-Cb,AP0020-C,FRgam,France,Mayotte,M,WT02,WT,
-AP0021-Ca,AP0021-C,FRgam,France,Mayotte,F,WT21,WT,
-AP0021-Cb,AP0021-C,FRgam,France,Mayotte,F,WT02,WT,
-AP0022-Ca,AP0022-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0022-Cb,AP0022-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0023-Ca,AP0023-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0023-Cb,AP0023-C,FRgam,France,Mayotte,F,WT18,WT,
-AP0024-Ca,AP0024-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0024-Cb,AP0024-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0025-Ca,AP0025-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0025-Cb,AP0025-C,FRgam,France,Mayotte,M,WT02,WT,
-AP0030-Ca,AP0030-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0030-Cb,AP0030-C,FRgam,France,Mayotte,F,WT32,WT,
-AP0031-Ca,AP0031-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0031-Cb,AP0031-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0032-Ca,AP0032-C,FRgam,France,Mayotte,M,WT21,WT,
-AP0032-Cb,AP0032-C,FRgam,France,Mayotte,M,WT18,WT,
-AP0033-Ca,AP0033-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0033-Cb,AP0033-C,FRgam,France,Mayotte,F,WT05,WT,
-AP0034-Ca,AP0034-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0034-Cb,AP0034-C,FRgam,France,Mayotte,M,WT47,WT,
-AP0035-Ca,AP0035-C,FRgam,France,Mayotte,M,WT05,WT,
-AP0035-Cb,AP0035-C,FRgam,France,Mayotte,M,WT21,WT,
+AN0321-Cb,AN0321-C,CMgam,Cameroon,Daiguene,F,WT09,WT,WT
+AP0002-Ca,AP0002-C,FRgam,France,Mayotte,F,WT77,WT,WT
+AP0002-Cb,AP0002-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0005-Ca,AP0005-C,FRgam,France,Mayotte,F,WT21,WT,WT
+AP0005-Cb,AP0005-C,FRgam,France,Mayotte,F,WT48,WT,WT
+AP0006-Ca,AP0006-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0006-Cb,AP0006-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0007-Ca,AP0007-C,FRgam,France,Mayotte,F,WT48,WT,WT
+AP0007-Cb,AP0007-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0008-Ca,AP0008-C,FRgam,France,Mayotte,F,WT18,WT,WT
+AP0008-Cb,AP0008-C,FRgam,France,Mayotte,F,WT18,WT,WT
+AP0009-Ca,AP0009-C,FRgam,France,Mayotte,M,WT48,WT,WT
+AP0009-Cb,AP0009-C,FRgam,France,Mayotte,M,WT21,WT,WT
+AP0010-Ca,AP0010-C,FRgam,France,Mayotte,M,WT18,WT,WT
+AP0010-Cb,AP0010-C,FRgam,France,Mayotte,M,WT02,WT,WT
+AP0011-Ca,AP0011-C,FRgam,France,Mayotte,M,WT32,WT,WT
+AP0011-Cb,AP0011-C,FRgam,France,Mayotte,M,WT32,WT,WT
+AP0014-Ca,AP0014-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0014-Cb,AP0014-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0017-Ca,AP0017-C,FRgam,France,Mayotte,F,WT18,WT,WT
+AP0017-Cb,AP0017-C,FRgam,France,Mayotte,F,WT32,WT,WT
+AP0018-Ca,AP0018-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0018-Cb,AP0018-C,FRgam,France,Mayotte,M,WT77,WT,WT
+AP0019-Ca,AP0019-C,FRgam,France,Mayotte,M,WT21,WT,WT
+AP0019-Cb,AP0019-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0020-Ca,AP0020-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0020-Cb,AP0020-C,FRgam,France,Mayotte,M,WT02,WT,WT
+AP0021-Ca,AP0021-C,FRgam,France,Mayotte,F,WT21,WT,WT
+AP0021-Cb,AP0021-C,FRgam,France,Mayotte,F,WT02,WT,WT
+AP0022-Ca,AP0022-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0022-Cb,AP0022-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0023-Ca,AP0023-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0023-Cb,AP0023-C,FRgam,France,Mayotte,F,WT18,WT,WT
+AP0024-Ca,AP0024-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0024-Cb,AP0024-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0025-Ca,AP0025-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0025-Cb,AP0025-C,FRgam,France,Mayotte,M,WT02,WT,WT
+AP0030-Ca,AP0030-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0030-Cb,AP0030-C,FRgam,France,Mayotte,F,WT32,WT,WT
+AP0031-Ca,AP0031-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0031-Cb,AP0031-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0032-Ca,AP0032-C,FRgam,France,Mayotte,M,WT21,WT,WT
+AP0032-Cb,AP0032-C,FRgam,France,Mayotte,M,WT18,WT,WT
+AP0033-Ca,AP0033-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0033-Cb,AP0033-C,FRgam,France,Mayotte,F,WT05,WT,WT
+AP0034-Ca,AP0034-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0034-Cb,AP0034-C,FRgam,France,Mayotte,M,WT47,WT,WT
+AP0035-Ca,AP0035-C,FRgam,France,Mayotte,M,WT05,WT,WT
+AP0035-Cb,AP0035-C,FRgam,France,Mayotte,M,WT21,WT,WT
 AQ0001-Ca,AQ0001-C,GQgam,Equatorial Guinea,Bioko,F,WT78,WT,S2
-AQ0001-Cb,AQ0001-C,GQgam,Equatorial Guinea,Bioko,F,WT44,WT,
-AQ0002-Ca,AQ0002-C,GQgam,Equatorial Guinea,Bioko,F,WT138,WT,
-AQ0002-Cb,AQ0002-C,GQgam,Equatorial Guinea,Bioko,F,WT79,WT,
-AQ0004-Ca,AQ0004-C,GQgam,Equatorial Guinea,Bioko,F,WT44,WT,
-AQ0004-Cb,AQ0004-C,GQgam,Equatorial Guinea,Bioko,F,WT03,WT,
-AQ0005-Ca,AQ0005-C,GQgam,Equatorial Guinea,Bioko,F,WT139,WT,
-AQ0005-Cb,AQ0005-C,GQgam,Equatorial Guinea,Bioko,F,WT140,WT,
+AQ0001-Cb,AQ0001-C,GQgam,Equatorial Guinea,Bioko,F,WT44,WT,WT
+AQ0002-Ca,AQ0002-C,GQgam,Equatorial Guinea,Bioko,F,WT138,WT,WT
+AQ0002-Cb,AQ0002-C,GQgam,Equatorial Guinea,Bioko,F,WT79,WT,WT
+AQ0004-Ca,AQ0004-C,GQgam,Equatorial Guinea,Bioko,F,WT44,WT,WT
+AQ0004-Cb,AQ0004-C,GQgam,Equatorial Guinea,Bioko,F,WT03,WT,WT
+AQ0005-Ca,AQ0005-C,GQgam,Equatorial Guinea,Bioko,F,WT139,WT,WT
+AQ0005-Cb,AQ0005-C,GQgam,Equatorial Guinea,Bioko,F,WT140,WT,WT
 AQ0011-Ca,AQ0011-C,GQgam,Equatorial Guinea,Bioko,F,WT41,WT,F4
-AQ0011-Cb,AQ0011-C,GQgam,Equatorial Guinea,Bioko,F,WT42,WT,
-AQ0012-Ca,AQ0012-C,GQgam,Equatorial Guinea,Bioko,F,WT141,WT,
-AQ0012-Cb,AQ0012-C,GQgam,Equatorial Guinea,Bioko,F,WT16,WT,
-AQ0013-Ca,AQ0013-C,GQgam,Equatorial Guinea,Bioko,F,WT07,WT,
+AQ0011-Cb,AQ0011-C,GQgam,Equatorial Guinea,Bioko,F,WT42,WT,WT
+AQ0012-Ca,AQ0012-C,GQgam,Equatorial Guinea,Bioko,F,WT141,WT,WT
+AQ0012-Cb,AQ0012-C,GQgam,Equatorial Guinea,Bioko,F,WT16,WT,WT
+AQ0013-Ca,AQ0013-C,GQgam,Equatorial Guinea,Bioko,F,WT07,WT,WT
 AQ0013-Cb,AQ0013-C,GQgam,Equatorial Guinea,Bioko,F,WT78,WT,S2
-AQ0014-Ca,AQ0014-C,GQgam,Equatorial Guinea,Bioko,F,WT02,WT,
-AQ0014-Cb,AQ0014-C,GQgam,Equatorial Guinea,Bioko,F,WT09,WT,
-AQ0015-Ca,AQ0015-C,GQgam,Equatorial Guinea,Bioko,F,WT142,WT,
-AQ0015-Cb,AQ0015-C,GQgam,Equatorial Guinea,Bioko,F,WT79,WT,
-AR0001-Ca,AR0001-C,AOcol,Angola,Luanda,F,FX24,FX,
-AR0001-Cb,AR0001-C,AOcol,Angola,Luanda,F,WT143,WT,
+AQ0014-Ca,AQ0014-C,GQgam,Equatorial Guinea,Bioko,F,WT02,WT,WT
+AQ0014-Cb,AQ0014-C,GQgam,Equatorial Guinea,Bioko,F,WT09,WT,WT
+AQ0015-Ca,AQ0015-C,GQgam,Equatorial Guinea,Bioko,F,WT142,WT,WT
+AQ0015-Cb,AQ0015-C,GQgam,Equatorial Guinea,Bioko,F,WT79,WT,WT
+AR0001-Ca,AR0001-C,AOcol,Angola,Luanda,F,FX24,FX,WT
+AR0001-Cb,AR0001-C,AOcol,Angola,Luanda,F,WT143,WT,WT
 AR0007-Ca,AR0007-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0007-Cb,AR0007-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0008-Ca,AR0008-C,AOcol,Angola,Luanda,F,F1,F1,F1
@@ -1771,10 +1771,10 @@ AR0010-Ca,AR0010-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0010-Cb,AR0010-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0011-Ca,AR0011-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0011-Cb,AR0011-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0012-Ca,AR0012-C,AOcol,Angola,Luanda,F,FX25,FX,
-AR0012-Cb,AR0012-C,AOcol,Angola,Luanda,F,WT144,WT,
-AR0013-Ca,AR0013-C,AOcol,Angola,Luanda,F,WT145,WT,
-AR0013-Cb,AR0013-C,AOcol,Angola,Luanda,F,FX26,FX,
+AR0012-Ca,AR0012-C,AOcol,Angola,Luanda,F,FX25,FX,WT
+AR0012-Cb,AR0012-C,AOcol,Angola,Luanda,F,WT144,WT,WT
+AR0013-Ca,AR0013-C,AOcol,Angola,Luanda,F,WT145,WT,WT
+AR0013-Cb,AR0013-C,AOcol,Angola,Luanda,F,FX26,FX,WT
 AR0014-Ca,AR0014-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0014-Cb,AR0014-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0015-Ca,AR0015-C,AOcol,Angola,Luanda,F,F1,F1,F1
@@ -1795,20 +1795,20 @@ AR0022-Ca,AR0022-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0022-Cb,AR0022-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0023-Ca,AR0023-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0023-Cb,AR0023-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0024-Ca,AR0024-C,AOcol,Angola,Luanda,F,WT80,WT,
-AR0024-Cb,AR0024-C,AOcol,Angola,Luanda,F,WT146,WT,
-AR0026-Ca,AR0026-C,AOcol,Angola,Luanda,F,WT147,WT,
-AR0026-Cb,AR0026-C,AOcol,Angola,Luanda,F,FX27,FX,
-AR0027-Ca,AR0027-C,AOcol,Angola,Luanda,F,FX28,FX,
-AR0027-Cb,AR0027-C,AOcol,Angola,Luanda,F,WT148,WT,
-AR0034-Ca,AR0034-C,AOcol,Angola,Luanda,F,WT149,WT,
-AR0034-Cb,AR0034-C,AOcol,Angola,Luanda,F,FX29,FX,
+AR0024-Ca,AR0024-C,AOcol,Angola,Luanda,F,WT80,WT,WT
+AR0024-Cb,AR0024-C,AOcol,Angola,Luanda,F,WT146,WT,WT
+AR0026-Ca,AR0026-C,AOcol,Angola,Luanda,F,WT147,WT,WT
+AR0026-Cb,AR0026-C,AOcol,Angola,Luanda,F,FX27,FX,WT
+AR0027-Ca,AR0027-C,AOcol,Angola,Luanda,F,FX28,FX,WT
+AR0027-Cb,AR0027-C,AOcol,Angola,Luanda,F,WT148,WT,WT
+AR0034-Ca,AR0034-C,AOcol,Angola,Luanda,F,WT149,WT,WT
+AR0034-Cb,AR0034-C,AOcol,Angola,Luanda,F,FX29,FX,WT
 AR0035-Ca,AR0035-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0035-Cb,AR0035-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0036-Ca,AR0036-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0036-Cb,AR0036-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0038-Ca,AR0038-C,AOcol,Angola,Luanda,F,FX30,FX,
-AR0038-Cb,AR0038-C,AOcol,Angola,Luanda,F,WT150,WT,
+AR0038-Ca,AR0038-C,AOcol,Angola,Luanda,F,FX30,FX,WT
+AR0038-Cb,AR0038-C,AOcol,Angola,Luanda,F,WT150,WT,WT
 AR0040-Ca,AR0040-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0040-Cb,AR0040-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0042-Ca,AR0042-C,AOcol,Angola,Luanda,F,F1,F1,F1
@@ -1833,8 +1833,8 @@ AR0051-Ca,AR0051-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0051-Cb,AR0051-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0052-Ca,AR0052-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0052-Cb,AR0052-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0053-Ca,AR0053-C,AOcol,Angola,Luanda,F,WT151,WT,
-AR0053-Cb,AR0053-C,AOcol,Angola,Luanda,F,FX31,FX,
+AR0053-Ca,AR0053-C,AOcol,Angola,Luanda,F,WT151,WT,WT
+AR0053-Cb,AR0053-C,AOcol,Angola,Luanda,F,FX31,FX,WT
 AR0054-Ca,AR0054-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0054-Cb,AR0054-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0057-Ca,AR0057-C,AOcol,Angola,Luanda,F,F1,F1,F1
@@ -1845,8 +1845,8 @@ AR0060-Ca,AR0060-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0060-Cb,AR0060-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0061-Ca,AR0061-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0061-Cb,AR0061-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0062-Ca,AR0062-C,AOcol,Angola,Luanda,F,WT152,WT,
-AR0062-Cb,AR0062-C,AOcol,Angola,Luanda,F,FX32,FX,
+AR0062-Ca,AR0062-C,AOcol,Angola,Luanda,F,WT152,WT,WT
+AR0062-Cb,AR0062-C,AOcol,Angola,Luanda,F,FX32,FX,WT
 AR0063-Ca,AR0063-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0063-Cb,AR0063-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0064-Ca,AR0064-C,AOcol,Angola,Luanda,F,F1,F1,F1
@@ -1859,42 +1859,42 @@ AR0069-Ca,AR0069-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0069-Cb,AR0069-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0070-Ca,AR0070-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0070-Cb,AR0070-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0071-Ca,AR0071-C,AOcol,Angola,Luanda,F,WT153,WT,
-AR0071-Cb,AR0071-C,AOcol,Angola,Luanda,F,FX33,FX,
+AR0071-Ca,AR0071-C,AOcol,Angola,Luanda,F,WT153,WT,WT
+AR0071-Cb,AR0071-C,AOcol,Angola,Luanda,F,FX33,FX,WT
 AR0072-Ca,AR0072-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0072-Cb,AR0072-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0073-Ca,AR0073-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0073-Cb,AR0073-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0074-Ca,AR0074-C,AOcol,Angola,Luanda,F,FX34,FX,
-AR0074-Cb,AR0074-C,AOcol,Angola,Luanda,F,WT154,WT,
-AR0075-Ca,AR0075-C,AOcol,Angola,Luanda,F,WT155,WT,
-AR0075-Cb,AR0075-C,AOcol,Angola,Luanda,F,FX35,FX,
-AR0076-Ca,AR0076-C,AOcol,Angola,Luanda,F,WT156,WT,
-AR0076-Cb,AR0076-C,AOcol,Angola,Luanda,F,FX36,FX,
-AR0077-Ca,AR0077-C,AOcol,Angola,Luanda,F,WT81,WT,
-AR0077-Cb,AR0077-C,AOcol,Angola,Luanda,F,WT81,WT,
+AR0074-Ca,AR0074-C,AOcol,Angola,Luanda,F,FX34,FX,WT
+AR0074-Cb,AR0074-C,AOcol,Angola,Luanda,F,WT154,WT,WT
+AR0075-Ca,AR0075-C,AOcol,Angola,Luanda,F,WT155,WT,WT
+AR0075-Cb,AR0075-C,AOcol,Angola,Luanda,F,FX35,FX,WT
+AR0076-Ca,AR0076-C,AOcol,Angola,Luanda,F,WT156,WT,WT
+AR0076-Cb,AR0076-C,AOcol,Angola,Luanda,F,FX36,FX,WT
+AR0077-Ca,AR0077-C,AOcol,Angola,Luanda,F,WT81,WT,WT
+AR0077-Cb,AR0077-C,AOcol,Angola,Luanda,F,WT81,WT,WT
 AR0078-Ca,AR0078-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0078-Cb,AR0078-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0079-Ca,AR0079-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0079-Cb,AR0079-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0080-Ca,AR0080-C,AOcol,Angola,Luanda,F,FX37,FX,
-AR0080-Cb,AR0080-C,AOcol,Angola,Luanda,F,WT157,WT,
+AR0080-Ca,AR0080-C,AOcol,Angola,Luanda,F,FX37,FX,WT
+AR0080-Cb,AR0080-C,AOcol,Angola,Luanda,F,WT157,WT,WT
 AR0081-Ca,AR0081-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0081-Cb,AR0081-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0082-Ca,AR0082-C,AOcol,Angola,Luanda,F,WT158,WT,
+AR0082-Ca,AR0082-C,AOcol,Angola,Luanda,F,WT158,WT,WT
 AR0082-Cb,AR0082-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0083-Ca,AR0083-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0083-Cb,AR0083-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0084-Ca,AR0084-C,AOcol,Angola,Luanda,F,WT159,WT,
-AR0084-Cb,AR0084-C,AOcol,Angola,Luanda,F,WT80,WT,
-AR0085-Ca,AR0085-C,AOcol,Angola,Luanda,F,WT160,WT,
-AR0085-Cb,AR0085-C,AOcol,Angola,Luanda,F,FX38,FX,
+AR0084-Ca,AR0084-C,AOcol,Angola,Luanda,F,WT159,WT,WT
+AR0084-Cb,AR0084-C,AOcol,Angola,Luanda,F,WT80,WT,WT
+AR0085-Ca,AR0085-C,AOcol,Angola,Luanda,F,WT160,WT,WT
+AR0085-Cb,AR0085-C,AOcol,Angola,Luanda,F,FX38,FX,WT
 AR0086-Ca,AR0086-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0086-Cb,AR0086-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0087-Ca,AR0087-C,AOcol,Angola,Luanda,F,WT161,WT,
-AR0087-Cb,AR0087-C,AOcol,Angola,Luanda,F,FX39,FX,
-AR0088-Ca,AR0088-C,AOcol,Angola,Luanda,F,FX40,FX,
-AR0088-Cb,AR0088-C,AOcol,Angola,Luanda,F,WT162,WT,
+AR0087-Ca,AR0087-C,AOcol,Angola,Luanda,F,WT161,WT,WT
+AR0087-Cb,AR0087-C,AOcol,Angola,Luanda,F,FX39,FX,WT
+AR0088-Ca,AR0088-C,AOcol,Angola,Luanda,F,FX40,FX,WT
+AR0088-Cb,AR0088-C,AOcol,Angola,Luanda,F,WT162,WT,WT
 AR0089-Ca,AR0089-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0089-Cb,AR0089-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0090-Ca,AR0090-C,AOcol,Angola,Luanda,F,F1,F1,F1
@@ -1912,9 +1912,9 @@ AR0097-Cb,AR0097-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0098-Ca,AR0098-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0098-Cb,AR0098-C,AOcol,Angola,Luanda,F,F1,F1,F1
 AR0099-Ca,AR0099-C,AOcol,Angola,Luanda,F,F1,F1,F1
-AR0099-Cb,AR0099-C,AOcol,Angola,Luanda,F,FX41,FX,
-AR0100-Ca,AR0100-C,AOcol,Angola,Luanda,F,WT163,WT,
-AR0100-Cb,AR0100-C,AOcol,Angola,Luanda,F,FX42,FX,
+AR0099-Cb,AR0099-C,AOcol,Angola,Luanda,F,FX41,FX,WT
+AR0100-Ca,AR0100-C,AOcol,Angola,Luanda,F,WT163,WT,WT
+AR0100-Cb,AR0100-C,AOcol,Angola,Luanda,F,FX42,FX,WT
 AS0001-Ca,AS0001-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0001-Cb,AS0001-C,GAgam,Gabon,Libreville,F,F5,F5,F5
 AS0002-Ca,AS0002-C,GAgam,Gabon,Libreville,F,S2,S2,S2
@@ -1936,7 +1936,7 @@ AS0009-Cb,AS0009-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0010-Ca,AS0010-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0010-Cb,AS0010-C,GAgam,Gabon,Libreville,F,F4,F4,F4
 AS0011-Ca,AS0011-C,GAgam,Gabon,Libreville,F,F5,F5,F5
-AS0011-Cb,AS0011-C,GAgam,Gabon,Libreville,F,SX09,SX,
+AS0011-Cb,AS0011-C,GAgam,Gabon,Libreville,F,SX09,SX,WT
 AS0012-Ca,AS0012-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0012-Cb,AS0012-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0013-Ca,AS0013-C,GAgam,Gabon,Libreville,F,S2,S2,S2
@@ -1999,7 +1999,7 @@ AS0045-Ca,AS0045-C,GAgam,Gabon,Libreville,F,F5,F5,F5
 AS0045-Cb,AS0045-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0046-Ca,AS0046-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0046-Cb,AS0046-C,GAgam,Gabon,Libreville,F,S2,S2,S2
-AS0047-Ca,AS0047-C,GAgam,Gabon,Libreville,F,SX10,SX,
+AS0047-Ca,AS0047-C,GAgam,Gabon,Libreville,F,SX10,SX,WT
 AS0047-Cb,AS0047-C,GAgam,Gabon,Libreville,F,F5,F5,F5
 AS0048-Ca,AS0048-C,GAgam,Gabon,Libreville,F,S2,S2,S2
 AS0048-Cb,AS0048-C,GAgam,Gabon,Libreville,F,F4,F4,F4
@@ -2125,8 +2125,8 @@ AV0038-Ca,AV0038-C,GNcol,Guinea,Koundara,F,F1,F1,F1
 AV0038-Cb,AV0038-C,GNcol,Guinea,Koundara,F,F1,F1,F1
 AV0039-Ca,AV0039-C,GNgam,Guinea,Koundara,F,F1,F1,F1
 AV0039-Cb,AV0039-C,GNgam,Guinea,Koundara,F,F1,F1,F1
-AV0040-Ca,AV0040-C,GNcol,Guinea,Koundara,F,F1,FX,
-AV0040-Cb,AV0040-C,GNcol,Guinea,Koundara,F,L1,WT,
+AV0040-Ca,AV0040-C,GNcol,Guinea,Koundara,F,F1,FX,WT
+AV0040-Cb,AV0040-C,GNcol,Guinea,Koundara,F,L1,WT,WT
 AV0041-Ca,AV0041-C,GNgam,Guinea,Koundara,F,F1,F1,F1
 AV0041-Cb,AV0041-C,GNgam,Guinea,Koundara,F,F1,F1,F1
 AV0042-Ca,AV0042-C,GNcol,Guinea,Koundara,F,F1,F1,F1
@@ -2142,8 +2142,8 @@ AV0046-Cb,AV0046-C,GNcol,Guinea,Koundara,F,F1,F1,F1
 AV0047-Ca,AV0047-C,GNgam,Guinea,Koundara,F,F1,F1,F1
 AV0047-Cb,AV0047-C,GNgam,Guinea,Koundara,F,F1,F1,F1
 AY0006-Ca,AY0006-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0006-Cb,AY0006-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
-AY0007-Ca,AY0007-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0006-Cb,AY0006-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
+AY0007-Ca,AY0007-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0007-Cb,AY0007-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0010-Ca,AY0010-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0010-Cb,AY0010-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2167,7 +2167,7 @@ AY0020-Ca,AY0020-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0020-Cb,AY0020-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0021-Ca,AY0021-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0021-Cb,AY0021-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0023-Ca,AY0023-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0023-Ca,AY0023-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0023-Cb,AY0023-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0024-Ca,AY0024-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0024-Cb,AY0024-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2181,7 +2181,7 @@ AY0029-Ca,AY0029-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0029-Cb,AY0029-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0031-Ca,AY0031-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0031-Cb,AY0031-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0032-Ca,AY0032-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0032-Ca,AY0032-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0032-Cb,AY0032-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0033-Ca,AY0033-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0033-Cb,AY0033-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2194,16 +2194,16 @@ AY0036-Cb,AY0036-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0038-Ca,AY0038-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0038-Cb,AY0038-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0039-Ca,AY0039-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0039-Cb,AY0039-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
-AY0040-Ca,AY0040-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,
-AY0040-Cb,AY0040-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,
+AY0039-Cb,AY0039-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
+AY0040-Ca,AY0040-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,WT
+AY0040-Cb,AY0040-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,WT
 AY0041-Ca,AY0041-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0041-Cb,AY0041-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0042-Ca,AY0042-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0042-Cb,AY0042-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0043-Ca,AY0043-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0043-Cb,AY0043-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0045-Ca,AY0045-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0045-Ca,AY0045-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0045-Cb,AY0045-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0046-Ca,AY0046-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0046-Cb,AY0046-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2211,8 +2211,8 @@ AY0047-Ca,AY0047-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0047-Cb,AY0047-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0048-Ca,AY0048-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0048-Cb,AY0048-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0049-Ca,AY0049-C,CIcol,Cote d'Ivoire,Tiassale,F,FX44,FX,
-AY0049-Cb,AY0049-C,CIcol,Cote d'Ivoire,Tiassale,F,LX04,WT,
+AY0049-Ca,AY0049-C,CIcol,Cote d'Ivoire,Tiassale,F,FX44,FX,WT
+AY0049-Cb,AY0049-C,CIcol,Cote d'Ivoire,Tiassale,F,LX04,WT,WT
 AY0050-Ca,AY0050-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0050-Cb,AY0050-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0052-Ca,AY0052-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2226,12 +2226,12 @@ AY0055-Cb,AY0055-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0056-Ca,AY0056-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0056-Cb,AY0056-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0057-Ca,AY0057-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0057-Cb,AY0057-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0057-Cb,AY0057-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0058-Ca,AY0058-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0058-Cb,AY0058-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0059-Ca,AY0059-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0059-Cb,AY0059-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0060-Ca,AY0060-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0060-Ca,AY0060-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0060-Cb,AY0060-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0061-Ca,AY0061-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0061-Cb,AY0061-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2240,11 +2240,11 @@ AY0062-Cb,AY0062-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0063-Ca,AY0063-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0063-Cb,AY0063-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0064-Ca,AY0064-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0064-Cb,AY0064-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
-AY0065-Ca,AY0065-C,CIcol,Cote d'Ivoire,Tiassale,F,LX05,WT,
+AY0064-Cb,AY0064-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
+AY0065-Ca,AY0065-C,CIcol,Cote d'Ivoire,Tiassale,F,LX05,WT,WT
 AY0065-Cb,AY0065-C,CIcol,Cote d'Ivoire,Tiassale,F,FX45,F1,F1
-AY0066-Ca,AY0066-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,
-AY0066-Cb,AY0066-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,
+AY0066-Ca,AY0066-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,WT
+AY0066-Cb,AY0066-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,FX,WT
 AY0067-Ca,AY0067-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0067-Cb,AY0067-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0068-Ca,AY0068-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
@@ -2281,5 +2281,5 @@ AY0089-Ca,AY0089-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0089-Cb,AY0089-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0090-Ca,AY0090-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
 AY0090-Cb,AY0090-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
-AY0091-Ca,AY0091-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,
+AY0091-Ca,AY0091-C,CIcol,Cote d'Ivoire,Tiassale,F,L1,WT,WT
 AY0091-Cb,AY0091-C,CIcol,Cote d'Ivoire,Tiassale,F,F1,F1,F1
