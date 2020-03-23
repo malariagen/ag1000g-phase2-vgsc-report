@@ -342,52 +342,6 @@
       \field{title}{Global vector control response 2017-2030.}
       \field{year}{2017}
     \endentry
-    \entry{Davies2007a}{article}{}
-      \name{author}{4}{}{%
-        {{hash=e6fb85109b4024ef6fbab46cc85c5184}{%
-           family={Davies},
-           familyi={D\bibinitperiod},
-           given={T.\bibnamedelimi G.E.},
-           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=b0aefd815960a2366723c0818752ad66}{%
-           family={Field},
-           familyi={F\bibinitperiod},
-           given={L.\bibnamedelimi M.},
-           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=37922979ef33a786a7b5501a47edca6c}{%
-           family={Usherwood},
-           familyi={U\bibinitperiod},
-           given={P.\bibnamedelimi N.R.},
-           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=d2dc99772f18b92b166850dc7ecc9f93}{%
-           family={Williamson},
-           familyi={W\bibinitperiod},
-           given={M.\bibnamedelimi S.},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{2fe652a836dd24e1a6463509ac703939}
-      \strng{fullhash}{741f1955b471261011cf661032d2ffd8}
-      \strng{bibnamehash}{2fe652a836dd24e1a6463509ac703939}
-      \strng{authorbibnamehash}{2fe652a836dd24e1a6463509ac703939}
-      \strng{authornamehash}{2fe652a836dd24e1a6463509ac703939}
-      \strng{authorfullhash}{741f1955b471261011cf661032d2ffd8}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{09621075}
-      \field{journaltitle}{Insect Molecular Biology}
-      \field{number}{3}
-      \field{title}{{A comparative study of voltage-gated sodium channels in the Insecta: Implications for pyrethroid resistance in Anopheline and other Neopteran species}}
-      \field{volume}{16}
-      \field{year}{2007}
-      \field{pages}{361\bibrangedash 375}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1111/j.1365-2583.2007.00733.x
-      \endverb
-      \keyw{Knock-down resistance (kdr),Malaria,Mosquito,Pyrethroids,Voltage-gated sodium channel}
-    \endentry
     \entry{Dong2014}{article}{}
       \name{author}{8}{}{%
         {{hash=aab4100788716d2011f801c2b33dcff6}{%
@@ -454,6 +408,52 @@
       \endverb
       \keyw{Alternative splicing,Knockdown resistance,Pyrethroid receptor sites,Pyrethroids,RNA editing,Sodium channel}
     \endentry
+    \entry{Davies2007a}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e6fb85109b4024ef6fbab46cc85c5184}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={T.\bibnamedelimi G.E.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b0aefd815960a2366723c0818752ad66}{%
+           family={Field},
+           familyi={F\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=37922979ef33a786a7b5501a47edca6c}{%
+           family={Usherwood},
+           familyi={U\bibinitperiod},
+           given={P.\bibnamedelimi N.R.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d2dc99772f18b92b166850dc7ecc9f93}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2fe652a836dd24e1a6463509ac703939}
+      \strng{fullhash}{741f1955b471261011cf661032d2ffd8}
+      \strng{bibnamehash}{2fe652a836dd24e1a6463509ac703939}
+      \strng{authorbibnamehash}{2fe652a836dd24e1a6463509ac703939}
+      \strng{authornamehash}{2fe652a836dd24e1a6463509ac703939}
+      \strng{authorfullhash}{741f1955b471261011cf661032d2ffd8}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09621075}
+      \field{journaltitle}{Insect Molecular Biology}
+      \field{number}{3}
+      \field{title}{{A comparative study of voltage-gated sodium channels in the Insecta: Implications for pyrethroid resistance in Anopheline and other Neopteran species}}
+      \field{volume}{16}
+      \field{year}{2007}
+      \field{pages}{361\bibrangedash 375}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/j.1365-2583.2007.00733.x
+      \endverb
+      \keyw{Knock-down resistance (kdr),Malaria,Mosquito,Pyrethroids,Voltage-gated sodium channel}
+    \endentry
     \entry{Martinez-Torres1998}{article}{}
       \name{author}{9}{}{%
         {{hash=1e251b2f17d56b16dba5c4048bb9579c}{%
@@ -508,8 +508,8 @@
       \strng{authorbibnamehash}{04a73f7a2a71b41a5f9ff53285178cc6}
       \strng{authornamehash}{04a73f7a2a71b41a5f9ff53285178cc6}
       \strng{authorfullhash}{4955d4fe4a1dd05cd9719ab052200599}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{09621075}
@@ -5836,8 +5836,8 @@
       \strng{authorbibnamehash}{9b9d46665701888d0f2ba61fc81fc36f}
       \strng{authornamehash}{9b9d46665701888d0f2ba61fc81fc36f}
       \strng{authorfullhash}{5c3955f9805d65115ca8b81166a6a848}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1756-3305}
@@ -5898,8 +5898,8 @@
       \strng{authorbibnamehash}{1f0497753d143c64a9f239bdd4161bbe}
       \strng{authornamehash}{1f0497753d143c64a9f239bdd4161bbe}
       \strng{authorfullhash}{1ef487048b01aa92c7fe79d6bccef451}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{09621075}
@@ -5944,8 +5944,8 @@
       \strng{authorbibnamehash}{c0e7c4b4157b7bd0f4f4d44ca98ee470}
       \strng{authornamehash}{c0e7c4b4157b7bd0f4f4d44ca98ee470}
       \strng{authorfullhash}{50f1d02d12b0b58efccb33d4e27166b8}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00268925}
@@ -6004,8 +6004,8 @@
       \strng{authorbibnamehash}{9032b3e616303999d5cf7a7af99fa4a0}
       \strng{authornamehash}{9032b3e616303999d5cf7a7af99fa4a0}
       \strng{authorfullhash}{f75cf108416a2e3942fdc8f9a6529014}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1091-6490}
@@ -6056,8 +6056,8 @@
       \strng{authorbibnamehash}{709f5f2ea9214ae252db0a550fdff8d5}
       \strng{authornamehash}{709f5f2ea9214ae252db0a550fdff8d5}
       \strng{authorfullhash}{1638fda1ca8a9ea5560d8a330aa9bb98}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1521-6543}
@@ -6102,8 +6102,8 @@
       \strng{authorbibnamehash}{2c9046965b4869a6a45b871377fe2f0b}
       \strng{authornamehash}{2c9046965b4869a6a45b871377fe2f0b}
       \strng{authorfullhash}{2c9046965b4869a6a45b871377fe2f0b}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprinttype}{arXiv}
@@ -6737,6 +6737,80 @@
       \verb http://www.pnas.org/content/early/2015/01/02/1418892112
       \endverb
     \endentry
+    \entry{clarkson2019genome}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=b92fcca2a16dd0a1bca9388bb63c5575}{%
+           family={Clarkson},
+           familyi={C\bibinitperiod},
+           given={Chris\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=34038453375ed6021c829d8bf04a4161}{%
+           family={Miles},
+           familyi={M\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod}}}%
+        {{hash=54cc2836e3f7abb5f6e8f11d77591c95}{%
+           family={Harding},
+           familyi={H\bibinitperiod},
+           given={Nicholas\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7dce995ac737c91dd2410679c5a13631}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=67e80a412d33293b89a27c96c5956643}{%
+           family={Battey},
+           familyi={B\bibinitperiod},
+           given={CJ},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f4b8c099fc912b9d2892bce1b68afc30}{%
+           family={Amaya-Romero},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Jorge\bibnamedelima Edouardo},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=8239a0e202340a30c5f3c404cc64a1e9}{%
+           family={Cano},
+           familyi={C\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5d30b8d2966868ecf663d6bd5d155bed}{%
+           family={Diabate},
+           familyi={D\bibinitperiod},
+           given={Abdoulaye},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4a42576ca240d58f8f07412322af0ee9}{%
+           family={Constant},
+           familyi={C\bibinitperiod},
+           given={Edi},
+           giveni={E\bibinitperiod}}}%
+        {{hash=67a523ebebb5f6d5adebd513a6e5dd5c}{%
+           family={Nwakanma},
+           familyi={N\bibinitperiod},
+           given={Davis\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{d2c16add85e07896700226a773fc0f11}
+      \strng{fullhash}{138825d4bb9f950506e9b8fd181a709b}
+      \strng{bibnamehash}{d2c16add85e07896700226a773fc0f11}
+      \strng{authorbibnamehash}{d2c16add85e07896700226a773fc0f11}
+      \strng{authornamehash}{d2c16add85e07896700226a773fc0f11}
+      \strng{authorfullhash}{138825d4bb9f950506e9b8fd181a709b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Genome variation and population structure among 1,142 mosquitoes of the African malaria vector species Anopheles gambiae and Anopheles coluzzii}
+      \field{year}{2019}
+      \field{pages}{864314}
+      \range{pages}{1}
+    \endentry
     \entry{Ag1000gConsortium2017}{article}{}
       \name{author}{1}{}{%
         {{hash=9b1b3e0927619f0226b2ff9c3c2da60b}{%
@@ -6763,57 +6837,6 @@
       \field{year}{2017}
       \field{pages}{96\bibrangedash 100}
       \range{pages}{5}
-    \endentry
-    \entry{Wang2015}{article}{}
-      \name{author}{6}{}{%
-        {{hash=9a75ee293f2555f40976345739087998}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=c7112311b08f64a0b73541facf5d178b}{%
-           family={Nomura},
-           familyi={N\bibinitperiod},
-           given={Y},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=95afa5bc0488f1c916157ba828abd6c6}{%
-           family={Du},
-           familyi={D\bibinitperiod},
-           given={Y},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=9bdd3bee35083c76851291b7b36bb25a}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={N},
-           giveni={N\bibinitperiod}}}%
-        {{hash=dcc0f9b940bf413bfb16b66271c3ab7e}{%
-           family={Zhorov},
-           familyi={Z\bibinitperiod},
-           given={B\bibnamedelima S},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=fa101617c0a135fc6e64d763644a4c4f}{%
-           family={Dong},
-           familyi={D\bibinitperiod},
-           given={K},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
-      \strng{fullhash}{b73aa8c562d5c17ee1dbf2ba258b0b49}
-      \strng{bibnamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
-      \strng{authorbibnamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
-      \strng{authornamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
-      \strng{authorfullhash}{b73aa8c562d5c17ee1dbf2ba258b0b49}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Molecular Pharmacology}
-      \field{number}{3}
-      \field{title}{A mutation in the intracellular loop III/IV of mosquito sodium channel synergizes the effect of mutations in helix IIS6 on pyrethroid resistance}
-      \field{volume}{87}
-      \field{year}{2015}
-      \field{pages}{421\bibrangedash 429}
-      \range{pages}{9}
     \endentry
     \entry{Sonoda2008}{article}{}
       \name{author}{4}{}{%
@@ -6860,6 +6883,109 @@
       \verb 10.1002/arch.20246
       \endverb
       \keyw{Diamondback moth,Plutella xylostella,Pyrethroid,Sodium channel}
+    \endentry
+    \entry{Shen2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2cc0d229ae3cc7252949bd9eab3f849d}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Huaizong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f623cc51d03ac4acc7aba477043a270b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=939c324803bd5fc7c6664a19800e9720}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Xiaojing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=086ea2c01352de542c08c7236506e679}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhangqiang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e520ebe82672efaa2067b1d7adf5ba8b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b9eed8ea5de4c0658864d2219be9233b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Nieng},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AAAS}%
+      }
+      \strng{namehash}{9c96085d51991de61c19bbbb3c97a749}
+      \strng{fullhash}{fa1cded8d46769467a0bf514f8c16d0f}
+      \strng{bibnamehash}{9c96085d51991de61c19bbbb3c97a749}
+      \strng{authorbibnamehash}{9c96085d51991de61c19bbbb3c97a749}
+      \strng{authornamehash}{9c96085d51991de61c19bbbb3c97a749}
+      \strng{authorfullhash}{fa1cded8d46769467a0bf514f8c16d0f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{title}{Structure of a eukaryotic voltage-gated sodium channel at near-atomic resolution}
+      \field{year}{2017}
+      \field{pages}{eaal4326}
+      \range{pages}{-1}
+    \endentry
+    \entry{Wang2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9a75ee293f2555f40976345739087998}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c7112311b08f64a0b73541facf5d178b}{%
+           family={Nomura},
+           familyi={N\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=95afa5bc0488f1c916157ba828abd6c6}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9bdd3bee35083c76851291b7b36bb25a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dcc0f9b940bf413bfb16b66271c3ab7e}{%
+           family={Zhorov},
+           familyi={Z\bibinitperiod},
+           given={B\bibnamedelima S},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=fa101617c0a135fc6e64d763644a4c4f}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
+      \strng{fullhash}{b73aa8c562d5c17ee1dbf2ba258b0b49}
+      \strng{bibnamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
+      \strng{authorbibnamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
+      \strng{authornamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
+      \strng{authorfullhash}{b73aa8c562d5c17ee1dbf2ba258b0b49}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Pharmacology}
+      \field{number}{3}
+      \field{title}{A mutation in the intracellular loop III/IV of mosquito sodium channel synergizes the effect of mutations in helix IIS6 on pyrethroid resistance}
+      \field{volume}{87}
+      \field{year}{2015}
+      \field{pages}{421\bibrangedash 429}
+      \range{pages}{9}
     \endentry
     \entry{Du2013}{article}{}
       \name{author}{8}{}{%
@@ -6964,8 +7090,8 @@
       \strng{authorbibnamehash}{f358f149cf6ea8f06242bd85bad7b0be}
       \strng{authornamehash}{f358f149cf6ea8f06242bd85bad7b0be}
       \strng{authorfullhash}{5e7078b85d5326259bb7759ec63ba05d}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{10806059}
@@ -7004,8 +7130,8 @@
       \strng{authorbibnamehash}{4f9e39c9ddd82890c547c754a834f1b3}
       \strng{authornamehash}{4f9e39c9ddd82890c547c754a834f1b3}
       \strng{authorfullhash}{4f9e39c9ddd82890c547c754a834f1b3}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0737-4038}
@@ -7164,8 +7290,8 @@
       \strng{authorbibnamehash}{24becee908d4af72c9fd6b119b8dd875}
       \strng{authornamehash}{24becee908d4af72c9fd6b119b8dd875}
       \strng{authorfullhash}{24becee908d4af72c9fd6b119b8dd875}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Malaria journal}
@@ -7233,8 +7359,8 @@
       \strng{authorbibnamehash}{2f42c6b1e5f74ea945e79dbd5cef1143}
       \strng{authornamehash}{2f42c6b1e5f74ea945e79dbd5cef1143}
       \strng{authorfullhash}{453be563228b77bbb38a17f569be288c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLoS One}
@@ -7455,8 +7581,8 @@
       \strng{authorbibnamehash}{2fb1156cdab8d7769b5d77f6b68ecc20}
       \strng{authornamehash}{2fb1156cdab8d7769b5d77f6b68ecc20}
       \strng{authorfullhash}{ccc19b6b1b83a3a5ca7a0110c5502990}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Parasites \& vectors}
@@ -7531,8 +7657,8 @@
       \strng{authorbibnamehash}{93fa714480c06a8fbfc96ac6ab679e5c}
       \strng{authornamehash}{93fa714480c06a8fbfc96ac6ab679e5c}
       \strng{authorfullhash}{5a65d9a3d09815fc0b1d5a3656a0dcf8}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Parasites \& vectors}
@@ -7542,6 +7668,323 @@
       \field{year}{2018}
       \field{pages}{4}
       \range{pages}{1}
+    \endentry
+    \entry{Du2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d4605d9c9182ca3efc2b964c0ca86ec4}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Yuzhe},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c3d6e969193d9ddb4fedc3eed0187ca4}{%
+           family={Nomura},
+           familyi={N\bibinitperiod},
+           given={Yoshiko},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=84cee3c87e420eb1362114aaee68907d}{%
+           family={Zhorov},
+           familyi={Z\bibinitperiod},
+           given={Boris\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=aab4100788716d2011f801c2b33dcff6}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Ke},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f4908667e1131510f149496dff17356}
+      \strng{fullhash}{c7128e5d6f549f4b35c86b65503fb3e8}
+      \strng{bibnamehash}{9f4908667e1131510f149496dff17356}
+      \strng{authorbibnamehash}{9f4908667e1131510f149496dff17356}
+      \strng{authornamehash}{9f4908667e1131510f149496dff17356}
+      \strng{authorfullhash}{c7128e5d6f549f4b35c86b65503fb3e8}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Voltage-gated sodium channels are the primary target of pyrethroid insecticides. Although it is well known that specific mutations in insect sodium channels confer knockdown resistance (kdr) to pyrethroids, the atomic mechanisms of pyrethroid-sodium channel interactions are not clearly understood. Previously, computer modeling and mutational analysis predicted two pyrethroid receptors, pyrethroid receptor site 1 ({PyR}1) (initial) and pyrethroid receptor site 2 ({PyR}2), located in the domain interfaces {II}/{III} and I/{II}, respectively. The models differ in ligand orientation and the number of transmembrane helices involved. In this study, we elaborated a revised {PyR}1 model of the mosquito sodium channel. Computational docking in the Kv1.2-based open channel model yielded a complex in which a pyrethroid (deltamethrin) binds between the linker helix {IIL}45 and transmembrane helices {IIS}5, {IIS}6, and {IIIS}6 with its dibromoethenyl and diphenylether moieties oriented in the intra- and extracellular directions, respectively. The {PyR}2 and revised {PyR}1 models explained recently discovered kdr mutations and predicted new deltamethrin-channel contacts. Further model-driven mutagenesis identified seven new pyrethroid-sensing residues, three in the revised {PyR}1 and four in {PyR}2. Our data support the following conclusions: 1) each pyrethroid receptor is formed by a linker-helix L45 and three transmembrane helices (S5 and two S6s); 2) {IIS}6 contains four residues that contribute to {PyR}1 and another four to {PyR}2; 3) seven pairs of pyrethroid-sensing residues are located in symmetric positions within {PyR}1 and {PyR}2; and 4) pyrethroids bind to {PyR}1 and {PyR}2 in similar orientations, penetrating deeply into the respective domain interfaces. Our study elaborates the dual pyrethroid-receptor sites concept and provides a structural background for rational development of new insecticides.}
+      \field{issn}{1521-0111}
+      \field{journaltitle}{Molecular Pharmacology}
+      \field{month}{8}
+      \field{number}{2}
+      \field{shortjournal}{Mol. Pharmacol.}
+      \field{title}{Rotational Symmetry of Two Pyrethroid Receptor Sites in the Mosquito Sodium Channel}
+      \field{volume}{88}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{273\bibrangedash 280}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1124/mol.115.098707
+      \endverb
+      \verb{file}
+      \verb Du_et_al_2015_Rotational_Symmetry_of_Two_Pyrethroid_Receptor_Sites_in_the_Mosquito_Sodium.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Du_et_al_2015_Rotational_Symmetry_of_Two_Pyrethroid_Receptor_Sites_in_the_Mosquito_Sodium.pdf:application/pdf
+      \endverb
+      \keyw{Animals,Binding Sites,Crystallography,X-Ray,Culicidae,Insect Proteins,Models,Molecular,Molecular Docking Simulation,Mutation,{NAV}1.1 Voltage-Gated Sodium Channel,Nitriles,Protein Structure,Secondary,Pyrethrins,Receptors,Neurotransmitter}
+    \endentry
+    \entry{Vais2000}{article}{}
+      \name{author}{7}{}{%
+        {{hash=4491dc1cbf25748337aa0ccddf7b93f4}{%
+           family={Vais},
+           familyi={V\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=330686ff37e6a22f4d5163d498ec1e08}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={M\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f6bd1b911b2d2184de324ac2f67c6c0c}{%
+           family={Goodson},
+           familyi={G\bibinitperiod},
+           given={S\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b4a6d17ae8e4e9aacd3aeb2d5ae7f393}{%
+           family={Devonshire},
+           familyi={D\bibinitperiod},
+           given={A\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9abbc6127a8ee31be39a1b0b25fed7f5}{%
+           family={Warmke},
+           familyi={W\bibinitperiod},
+           given={J\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=02ca38cbb4231ffc5407a604e9a2fe24}{%
+           family={Usherwood},
+           familyi={U\bibinitperiod},
+           given={P\bibnamedelima N},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=4ae1beb4ebe59916b81d72746bd787df}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{86cdf95ac0e91fcd8cdf3381b3b5b80d}
+      \strng{fullhash}{c4bdd01ad22b02a002515c33e065b90e}
+      \strng{bibnamehash}{86cdf95ac0e91fcd8cdf3381b3b5b80d}
+      \strng{authorbibnamehash}{86cdf95ac0e91fcd8cdf3381b3b5b80d}
+      \strng{authornamehash}{86cdf95ac0e91fcd8cdf3381b3b5b80d}
+      \strng{authorfullhash}{c4bdd01ad22b02a002515c33e065b90e}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{kdr and super-kdr are mutations in houseflies and other insects that confer 30- and 500-fold resistance to the pyrethroid deltamethrin. They correspond to single (L1014F) and double (L1014F+M918T) mutations in segment {IIS}6 and linker {II}(S4-S5) of Na channels. We expressed Drosophila para Na channels with and without these mutations and characterized their modification by deltamethrin. All wild-type channels can be modified by {<}10 {nM} deltamethrin, but high affinity binding requires channel opening: (a) modification is promoted more by trains of brief depolarizations than by a single long depolarization, (b) the voltage dependence of modification parallels that of channel opening, and (c) modification is promoted by toxin {II} from Anemonia sulcata, which slows inactivation. The mutations reduce channel opening by enhancing closed-state inactivation. In addition, these mutations reduce the affinity for open channels by 20- and 100-fold, respectively. Deltamethrin inhibits channel closing and the mutations reduce the time that channels remain open once drug has bound. The super-kdr mutations effectively reduce the number of deltamethrin binding sites per channel from two to one. Thus, the mutations reduce both the potency and efficacy of insecticide action.}
+      \field{issn}{0022-1295}
+      \field{journaltitle}{The Journal of general physiology}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{J. Gen. Physiol.}
+      \field{title}{Activation of Drosophila sodium channels promotes modification by deltamethrin. Reductions in affinity caused by knock-down resistance mutations}
+      \field{volume}{115}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{305\bibrangedash 318}
+      \range{pages}{14}
+      \verb{file}
+      \verb Vais_et_al_2000_Activation_of_Drosophila_sodium_channels_promotes_modification_by_deltamethrin.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Vais_et_al_2000_Activation_of_Drosophila_sodium_channels_promotes_modification_by_deltamethrin.pdf:application/pdf
+      \endverb
+      \keyw{Animals,Drosophila melanogaster,Insecticide Resistance,Insecticides,Ion Channel Gating,Membrane Potentials,Mutagenesis,Nitriles,Oocytes,Plasmids,Pyrethrins,Sodium Channels,Xenopus laevis}
+    \endentry
+    \entry{Capes2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=dee7da5f729ee6c2218959caa31261f3}{%
+           family={Capes},
+           familyi={C\bibinitperiod},
+           given={Deborah\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=31bfc07ee99e7dba4f0f275fa2a6010b}{%
+           family={Goldschen-Ohm},
+           familyi={G\bibinithyphendelim O\bibinitperiod},
+           given={Marcel\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5bf0bb47d5b74e87084938b242df7317}{%
+           family={Arcisio-Miranda},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Manoel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=efbe22b8549b1799e5e737dc8fccc276}{%
+           family={Bezanilla},
+           familyi={B\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3cbdcfd77789ccfa0985e27a0782f9dd}{%
+           family={Chanda},
+           familyi={C\bibinitperiod},
+           given={Baron},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbe56dd0e18c023cb331e0f4cfbf4c36}
+      \strng{fullhash}{f9fb2f983f64fdedd61f2481610fbb59}
+      \strng{bibnamehash}{bbe56dd0e18c023cb331e0f4cfbf4c36}
+      \strng{authorbibnamehash}{bbe56dd0e18c023cb331e0f4cfbf4c36}
+      \strng{authornamehash}{bbe56dd0e18c023cb331e0f4cfbf4c36}
+      \strng{authorfullhash}{f9fb2f983f64fdedd61f2481610fbb59}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Voltage-gated sodium channels are critical for the generation and propagation of electrical signals in most excitable cells. Activation of Na(+) channels initiates an action potential, and fast inactivation facilitates repolarization of the membrane by the outward K(+) current. Fast inactivation is also the main determinant of the refractory period between successive electrical impulses. Although the voltage sensor of domain {IV} ({DIV}) has been implicated in fast inactivation, it remains unclear whether the activation of {DIV} alone is sufficient for fast inactivation to occur. Here, we functionally neutralize each specific voltage sensor by mutating several critical arginines in the S4 segment to glutamines. We assess the individual role of each voltage-sensing domain in the voltage dependence and kinetics of fast inactivation upon its specific inhibition. We show that movement of the {DIV} voltage sensor is the rate-limiting step for both development and recovery from fast inactivation. Our data suggest that activation of the {DIV} voltage sensor alone is sufficient for fast inactivation to occur, and that activation of {DIV} before channel opening is the molecular mechanism for closed-state inactivation. We propose a kinetic model of sodium channel gating that can account for our major findings over a wide voltage range by postulating that {DIV} movement is both necessary and sufficient for fast inactivation.}
+      \field{issn}{1540-7748}
+      \field{journaltitle}{The Journal of General Physiology}
+      \field{month}{8}
+      \field{number}{2}
+      \field{shortjournal}{J. Gen. Physiol.}
+      \field{title}{Domain {IV} voltage-sensor movement is both sufficient and rate limiting for fast inactivation in sodium channels}
+      \field{volume}{142}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{101\bibrangedash 112}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1085/jgp.201310998
+      \endverb
+      \verb{file}
+      \verb Capes et al_2013_Domain IV voltage-sensor movement is both sufficient and rate limiting for fast.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Capes et al_2013_Domain IV voltage-sensor movement is both sufficient and rate limiting for fast.pdf:application/pdf
+      \endverb
+      \keyw{Action Potentials,Amino Acid Sequence,Animals,Ion Channel Gating,Membrane Potentials,Molecular Sequence Data,Mutation,Protein Structure,Tertiary,Rats,Voltage-Gated Sodium Channels,Xenopus}
+    \endentry
+    \entry{Sula2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=afcc1ed6f6adebea7483c3aebaf02443}{%
+           family={Sula},
+           familyi={S\bibinitperiod},
+           given={Altin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b393dd9ef15796470c1923617e9f8d4d}{%
+           family={Booker},
+           familyi={B\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=437025886560c0865cf9e18800578ec5}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Leo\bibnamedelimb C.\bibnamedelimi T.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=25b9b7b2e9b942ee555bfc9e8e89eb55}{%
+           family={Naylor},
+           familyi={N\bibinitperiod},
+           given={Claire\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4ac3ab1aea0f3bfa8104ec3e6d23cf7a}{%
+           family={{DeCaen}},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=da27aeefd512a5ba199b6ede56a23ffb}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{36c456da2d173da40ad67f44580a82b8}
+      \strng{fullhash}{bdbccea9053a6755ce606d719e46c5fe}
+      \strng{bibnamehash}{36c456da2d173da40ad67f44580a82b8}
+      \strng{authorbibnamehash}{36c456da2d173da40ad67f44580a82b8}
+      \strng{authornamehash}{36c456da2d173da40ad67f44580a82b8}
+      \strng{authorfullhash}{bdbccea9053a6755ce606d719e46c5fe}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Voltage-gated sodium channels (Navs) play essential roles in excitable tissues, with their activation and opening resulting in the initial phase of the action potential. The cycling of Navs through open, closed and inactivated states, and their closely choreographed relationships with the activities of other ion channels lead to exquisite control of intracellular ion concentrations in both prokaryotes and eukaryotes. Here we present the 2.45\x{2009}\r{A} resolution crystal structure of the complete {NavMs} prokaryotic sodium channel in a fully open conformation. A canonical activated conformation of the voltage sensor S4 helix, an open selectivity filter leading to an open activation gate at the intracellular membrane surface and the intracellular C-terminal domain are visible in the structure. It includes a heretofore unseen interaction motif between W77 of S3, the S4-S5 interdomain linker, and the C-terminus, which is associated with regulation of opening and closing of the intracellular gate.}
+      \field{day}{16}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{month}{2}
+      \field{shortjournal}{Nat Commun}
+      \field{title}{The complete structure of an activated open sodium channel}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{14205}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms14205
+      \endverb
+      \verb{file}
+      \verb Sula_et_al_2017_The_complete_structure_of_an_activated_open_sodium_channel.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Sula_et_al_2017_The_complete_structure_of_an_activated_open_sodium_channel.pdf:application/pdf;Sula_et_al_2017_The_complete_structure_of_an_activated_open_sodium_channel.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Sula_et_al_2017_The_complete_structure_of_an_activated_open_sodium_channel.pdf:application/pdf;Sula_et_al_2017_The_complete_structure_of_an_activated_open_sodium_channel.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Sula_et_al_2017_The_complete_structure_of_an_activated_open_sodium_channel.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Usherwood2007}{article}{}
+      \name{author}{9}{}{%
+        {{hash=0572294971f9a31c2cdf55149fe17c13}{%
+           family={Usherwood},
+           familyi={U\bibinitperiod},
+           given={P\bibnamedelima N\bibnamedelima R},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c535081cabb5d7d5364a5b4086d518cf}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={T\bibnamedelima G\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7c7d01c7cede2ecb06c98d56afb8d3df}{%
+           family={Mellor},
+           familyi={M\bibinitperiod},
+           given={I\bibnamedelima R},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0cfc9d92ca1dbab2c75b6178114e7a60}{%
+           family={O'Reilly},
+           familyi={O\bibinitperiod},
+           given={A\bibnamedelima O},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=9c69f18fb9e2e4ee268c76d9a7ea5118}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4491dc1cbf25748337aa0ccddf7b93f4}{%
+           family={Vais},
+           familyi={V\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=493acfd066ef57f537b48f03884b404a}{%
+           family={Khambay},
+           familyi={K\bibinitperiod},
+           given={B\bibnamedelima P\bibnamedelima S},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5f217cae7d2c087ccf88b3c06573e80e}{%
+           family={Field},
+           familyi={F\bibinitperiod},
+           given={L\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=330686ff37e6a22f4d5163d498ec1e08}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={M\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae640c28e5bc12a0d24c51036f90e7ff}
+      \strng{fullhash}{bf743fa1212adda7ba2095076ae52682}
+      \strng{bibnamehash}{ae640c28e5bc12a0d24c51036f90e7ff}
+      \strng{authorbibnamehash}{ae640c28e5bc12a0d24c51036f90e7ff}
+      \strng{authornamehash}{ae640c28e5bc12a0d24c51036f90e7ff}
+      \strng{authorfullhash}{bf743fa1212adda7ba2095076ae52682}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mutations in the {DIIS}4-S5 linker and {DIIS}5 have identified hotspots of pyrethroid and {DDT} interaction with the Drosophila para sodium channel. Wild-type and mutant channels were expressed in Xenopus oocytes and subjected to voltage-clamp analysis. Substitutions L914I, M918T, L925I, T929I and C933A decreased deltamethrin potency, M918T, L925I and T929I decreased permethrin potency and T929I, L925I and I936V decreased fenfluthrin potency. {DDT} potency was unaffected by M918T, but abolished by T929I and reduced by L925I, L932F and I936V, suggesting that {DIIS}5 contains at least part of the {DDT} binding domain. The data support a computer model of pyrethroid and {DDT} binding.}
+      \field{day}{27}
+      \field{issn}{0014-5793}
+      \field{journaltitle}{{FEBS} letters}
+      \field{month}{11}
+      \field{number}{28}
+      \field{shortjournal}{{FEBS} Lett.}
+      \field{title}{Mutations in {DIIS}5 and the {DIIS}4-S5 linker of Drosophila melanogaster sodium channel define binding domains for pyrethroids and {DDT}}
+      \field{volume}{581}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{5485\bibrangedash 5492}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.febslet.2007.10.057
+      \endverb
+      \verb{file}
+      \verb Usherwood_et_al_2007_Mutations_in_DIIS5_and_the_DIIS4-S5_linker_of_Drosophila_melanogaster_sodium.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Usherwood_et_al_2007_Mutations_in_DIIS5_and_the_DIIS4-S5_linker_of_Drosophila_melanogaster_sodium.pdf:application/pdf
+      \endverb
+      \keyw{Animals,{DDT},Drosophila melanogaster,Electrophysiology,Models,Molecular,Molecular Sequence Data,Molecular Structure,Mutation,Patch-Clamp Techniques,Protein Binding,Pyrethrins,Sequence Alignment,Sodium Channels,Xenopus laevis}
     \endentry
     \entry{Kilianski2015}{article}{}
       \name{author}{8}{}{%
@@ -7592,8 +8035,8 @@
       \strng{authorbibnamehash}{364ed39dc7379739b5a11d8b54bc4704}
       \strng{authornamehash}{364ed39dc7379739b5a11d8b54bc4704}
       \strng{authorfullhash}{ebbfc06cf2f91d77fb9dd4d7cc86ba1b}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2047-217X}
@@ -7677,8 +8120,8 @@
       \strng{authorbibnamehash}{cb343fd604e13d9542da5e437fffbecb}
       \strng{authornamehash}{cb343fd604e13d9542da5e437fffbecb}
       \strng{authorfullhash}{c9400c091444ac4b9e173df5e5f0456d}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BioRxiv}
@@ -8315,8 +8758,8 @@
       \strng{authorbibnamehash}{653a0fc1dbe940d45bdfd9fb0d1a221b}
       \strng{authornamehash}{653a0fc1dbe940d45bdfd9fb0d1a221b}
       \strng{authorfullhash}{b5b869628a13527763d8976f3a3804e5}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0036-8075}
@@ -8433,8 +8876,8 @@
       \strng{authorbibnamehash}{fd3a237985b25af72b9eecc8e208064c}
       \strng{authornamehash}{fd3a237985b25af72b9eecc8e208064c}
       \strng{authorfullhash}{fd3a237985b25af72b9eecc8e208064c}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{15371719}
@@ -8484,8 +8927,8 @@
       \strng{authorbibnamehash}{87ede363a849a5748da497c6e0710466}
       \strng{authornamehash}{87ede363a849a5748da497c6e0710466}
       \strng{authorfullhash}{d2df6271ee29f7ece685e4dc9703cd06}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00029297}
@@ -8519,8 +8962,8 @@
       \strng{authorbibnamehash}{f6d0cc30b01c91d9207a25feb8a379eb}
       \strng{authornamehash}{f6d0cc30b01c91d9207a25feb8a379eb}
       \strng{authorfullhash}{f6d0cc30b01c91d9207a25feb8a379eb}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{13674803}
@@ -8549,8 +8992,8 @@
       \strng{authorbibnamehash}{ae194dd1924b95c2aa1630285620be35}
       \strng{authornamehash}{ae194dd1924b95c2aa1630285620be35}
       \strng{authorfullhash}{ae194dd1924b95c2aa1630285620be35}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0016-6731}
@@ -8587,8 +9030,8 @@
       \strng{authorbibnamehash}{f879319039670d3ed780ccc32cc06374}
       \strng{authornamehash}{f879319039670d3ed780ccc32cc06374}
       \strng{authorfullhash}{f879319039670d3ed780ccc32cc06374}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{scikit-allel: A Python package for exploring and analysing genetic variation data}}
@@ -8692,8 +9135,8 @@
       \strng{authorbibnamehash}{7f03c9665977d16cca3f7d744a8a06df}
       \strng{authornamehash}{7f03c9665977d16cca3f7d744a8a06df}
       \strng{authorfullhash}{81371d66ce2cfb28d217f955948ace55}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Machine Learning Research}
@@ -8703,7 +9146,250 @@
       \field{pages}{2825\bibrangedash 2830}
       \range{pages}{6}
     \endentry
+    \entry{Sievers2011}{article}{}
+      \name{author}{12}{}{%
+        {{hash=86a9ae721afbd6db405f9a443ac6d9d0}{%
+           family={Sievers},
+           familyi={S\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b13d35f61f5914e56210b3a5cee8f71c}{%
+           family={Wilm},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a4f27396b192095098ea37cf7d53b98e}{%
+           family={Dineen},
+           familyi={D\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=29b36b7257bef501577171214ae75caf}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={Toby\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a3d994590c9604186b331efb599fdc25}{%
+           family={Karplus},
+           familyi={K\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=be9ac21f05ac579cb64c12ee4dd40c35}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Weizhong},
+           giveni={W\bibinitperiod}}}%
+        {{hash=17a3cab6e1f118259eff98d86f83696c}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=08097ef506e037dfa0527b5d625ec5c8}{%
+           family={{McWilliam}},
+           familyi={M\bibinitperiod},
+           given={Hamish},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c1cc9ecaf1bd7b3af9ddd33ea982cede}{%
+           family={Remmert},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e67661e270ffc979f77600b3904f2e9c}{%
+           family={S\"{o}ding},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6a9419838e34dea2e439db58f60b25fc}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Julie\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=75e1660f84ac397bd074e0efcbbf9b49}{%
+           family={Higgins},
+           familyi={H\bibinitperiod},
+           given={Desmond\bibnamedelima G},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4c1d3c3e657719a6c91416f8cef7a41}
+      \strng{fullhash}{9e2ec6a9717c5d623ca68f535e0a64a4}
+      \strng{bibnamehash}{b4c1d3c3e657719a6c91416f8cef7a41}
+      \strng{authorbibnamehash}{b4c1d3c3e657719a6c91416f8cef7a41}
+      \strng{authornamehash}{b4c1d3c3e657719a6c91416f8cef7a41}
+      \strng{authorfullhash}{9e2ec6a9717c5d623ca68f535e0a64a4}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1744-4292}
+      \field{journaltitle}{Molecular systems biology}
+      \field{shortjournal}{Mol. Syst. Biol.}
+      \field{title}{Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{539}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/msb.2011.75
+      \endverb
+    \endentry
+    \entry{Eswar2007}{article}{}
+      \name{author}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{%
+           family={Eswar},
+           familyi={E\bibinitperiod},
+           given={Narayanan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{%
+           family={Marti-Renom},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Marc\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{%
+           family={Madhusudhan},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{%
+           family={Eramian},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Min-Yi},
+           giveni={M\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{%
+           family={Pieper},
+           familyi={P\bibinitperiod},
+           given={Ursula},
+           giveni={U\bibinitperiod}}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{%
+           family={Sali},
+           familyi={S\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \strng{bibnamehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{authorbibnamehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{authornamehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{authorfullhash}{7a068769b56299e2a5067882575d7f68}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program {MODELLER} and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis ({TvLDH}) is described as an example. The download and installation of the {MODELLER} software is also described.}
+      \field{issn}{1934-3663}
+      \field{journaltitle}{Current Protocols in Protein Science / Editorial Board, John E. Coligan ... [et Al.]}
+      \field{month}{11}
+      \field{shortjournal}{Curr Protoc Protein Sci}
+      \field{title}{Comparative protein structure modeling using {MODELLER}}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2012}
+      \field{volume}{Chapter 2}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{Unit 2.9}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/0471140864.ps0209s50
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/18429317
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/18429317
+      \endverb
+      \keyw{Models,Molecular,Protein Conformation,Internet,L-Lactate Dehydrogenase,Trichomonas vaginalis}
+    \endentry
+    \entry{Willard2003}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b8662b1721606993b67fd76587892279}{%
+           family={Willard},
+           familyi={W\bibinitperiod},
+           given={Leigh},
+           giveni={L\bibinitperiod}}}%
+        {{hash=03e2ea030ab243c2494ada57a30f43f9}{%
+           family={Ranjan},
+           familyi={R\bibinitperiod},
+           given={Anuj},
+           giveni={A\bibinitperiod}}}%
+        {{hash=227f85755bf7f7e451464e4df5814bf3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Haiyan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=aa3f6a3fd219773997f5f762431b9782}{%
+           family={Monzavi},
+           familyi={M\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e105b6212b9e564480778c9745878103}{%
+           family={Boyko},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=310d196b3dad97d05638f03862e5b8fe}{%
+           family={Sykes},
+           familyi={S\bibinitperiod},
+           given={Brian\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d579591acc70fe0e1d3256489de57b16}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{31fde709badfb8fbe9b0f677440c2d43}
+      \strng{fullhash}{e367bcc4cdc1263d9f0b7dd889dfc50f}
+      \strng{bibnamehash}{31fde709badfb8fbe9b0f677440c2d43}
+      \strng{authorbibnamehash}{31fde709badfb8fbe9b0f677440c2d43}
+      \strng{authornamehash}{31fde709badfb8fbe9b0f677440c2d43}
+      \strng{authorfullhash}{e367bcc4cdc1263d9f0b7dd889dfc50f}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{VADAR} (Volume Area Dihedral Angle Reporter) is a comprehensive web server for quantitative protein structure evaluation. It accepts Protein Data Bank ({PDB}) formatted files or {PDB} accession numbers as input and calculates, identifies, graphs, reports and/or evaluates a large number ({>}30) of key structural parameters both for individual residues and for the entire protein. These include excluded volume, accessible surface area, backbone and side chain dihedral angles, secondary structure, hydrogen bonding partners, hydrogen bond energies, steric quality, solvation free energy as well as local and overall fold quality. These derived parameters can be used to rapidly identify both general and residue-specific problems within newly determined protein structures. The {VADAR} web server is freely accessible at http://redpoll.pharmacy.ualberta.ca/vadar.}
+      \field{day}{1}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{7}
+      \field{number}{13}
+      \field{shorttitle}{{VADAR}}
+      \field{title}{{VADAR}: a web server for quantitative evaluation of protein structure quality}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2011}
+      \field{volume}{31}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3316\bibrangedash 3319}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1093/nar/gkg565
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\Andrias O'Reilly\\Zotero\\storage\\TBW6GEKU\\3316.html:text/html;Willard_et_al_2003_VADAR.pdf:D\:\\OneDrive - Liverpool John Moores University\\Research\\Zotero\\Willard_et_al_2003_VADAR.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://nar.oxfordjournals.org/content/31/13/3316.abstract
+      \endverb
+      \verb{url}
+      \verb http://nar.oxfordjournals.org/content/31/13/3316.abstract
+      \endverb
+    \endentry
   \enddatalist
+  \missing{Yan2018}
 \endrefsection
 \endinput
 

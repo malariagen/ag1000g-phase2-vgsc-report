@@ -48,14 +48,16 @@ The genetic architecture of target-site resistance to pyrethroid insecticides in
 \author[1,*]{\small Chris S. Clarkson}
 \author[2,1,*]{\small Alistair Miles}
 \author[2]{\small Nicholas J. Harding}
-\author[3]{\small David Weetman}
+\author[3]{\small Andrias O. O'Reilly}
+\author[4]{\small David Weetman}
 \author[1,2]{\small Dominic Kwiatkowski}
-\author[3,1]{\small Martin Donnelly}
-\author[4]{\small The \emph{Anopheles gambiae} 1000 Genomes Consortium}
+\author[4,1]{\small Martin Donnelly}
+\author[5]{\small The \emph{Anopheles gambiae} 1000 Genomes Consortium}
 \affil[1]{\footnotesize Wellcome Sanger Institute, Hinxton, Cambridge CB10 1SA}
 \affil[2]{\footnotesize Big Data Institute, University of Oxford, Li Ka Shing Centre for Health Information and Discovery, Old Road Campus, Oxford OX3 7LF}
-\affil[3]{\footnotesize Liverpool School of Tropical Medicine, Pembroke Place, Liverpool L3 5QA}
-\affil[4]{\footnotesize https://www.malariagen.net/projects/ag1000g\#people}
+\affil[3]{\footnotesize Liverpool John Moores University, Brownlow Hill, Liverpool L3 5UG}
+\affil[4]{\footnotesize Liverpool School of Tropical Medicine, Pembroke Place, Liverpool L3 5QA}
+\affil[5]{\footnotesize https://www.malariagen.net/projects/ag1000g\#people}
 \affil[*]{\footnotesize These authors contributed equally}
 
 \begin{document}
@@ -73,7 +75,7 @@ Pyrethroids target the voltage-gated sodium channel (VGSC), an essential compone
 %
 Here we use Illumina whole-genome sequence data from phase 2 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) to provide a comprehensive account of genetic variation in the \emph{Vgsc} gene in mosquito populations from 13 African countries.
 %
-In addition to the three known \textit{kdr} resistance alleles, we describe 20 non-synonymous nucleotide substitutions at appreciable frequency in one or more populations that are previously unknown in \textit{Anopheles} mosquitoes.
+In addition to the three known \textit{kdr} resistance alleles, we describe 20 non-synonymous nucleotide substitutions at appreciable frequency in one or more populations that are previously unknown in \textit{Anopheles} mosquitoes and we mapped these variants on a molecular model of the protein.
 %
 Thirteen of these novel alleles were found to occur almost exclusively on haplotypes carrying the known \texttt{L995F} resistance allele (\texttt{L1014F} in \textit{Musca domesticus} codon numbering), and may enhance or compensate for the \texttt{L995F} resistance phenotype.
 %
@@ -105,7 +107,7 @@ Pyrethroid insecticides have been the cornerstone of malaria prevention in Afric
 %
 Pyrethroids are currently used in all insecticide-treated bed-nets (ITNs), and are widely used in indoor residual spraying (IRS) campaigns as well as in agriculture.
 %
-Pyrethroid resistance is widespread in malaria vector populations across Africa \cite{Hemingway2016}.
+Resistance to these insecticides is now widespread in malaria vector populations across Africa \cite{Hemingway2016}.
 %
 The World Health Organization (WHO) has published plans for insecticide resistance management (IRM), which emphasise the need for improvements in both our knowledge of the molecular mechanisms of resistance and our ability to monitor them in natural populations \cite{WorldHealthOrganization2012,world2017global}.
 %%
@@ -114,10 +116,14 @@ The World Health Organization (WHO) has published plans for insecticide resistan
 %%
 The voltage-gated sodium channel (VGSC) is the physiological target of pyrethroid insecticides, and is integral to the insect nervous system.
 %
-Pyrethroid molecules bind to sites within the protein channel and prevent normal nervous system function, causing paralysis (``knock-down'') and then death.
+The sodium channel protein consists of four homologous domains (DI-IV) each of which comprises six transmembrane segments (S1-S6) connected by intracellular and extracellular loops \cite{Dong2014}.
 %
-However, amino acid substitutions at key positions within the protein alter the interaction with insecticide molecules (target-site resistance), increasing the dose of insecticide required for knock-down (hence this type of resistance is also known as knock-down resistance or \textit{kdr}\cite{Davies2007a,Dong2014}.
+Pyrethroid molecules bind to this protein, stabilise the ion-conducting active state and thus disrupt normal nervous system function to produce paralysis (``knock-down'') and death.
 %
+However, amino acid substitutions at key positions within the protein alter the interaction with insecticide molecules (target-site resistance), increasing the dose of insecticide required for knock-down (hence this type of resistance is also known as knock-down resistance or \textit{kdr} \cite{Davies2007a,Dong2014}.
+%%
+
+%%
 In the African malaria vectors \textit{Anopheles gambiae} and \textit{An. coluzzii}, three substitutions have been found to cause pyrethroid resistance.
 %
 Two of these substitutions occur in codon 995\footnotemark, with \texttt{L995F} prevalent in West and Central Africa \cite{Martinez-Torres1998,Silva2014}, and \texttt{L995S} found in Central and East Africa \cite{Ranson2000,Silva2014}.\footnotetext{Codon numbering is given here relative to transcript \texttt{AGAP004707-RD} as defined in the AgamP4.12 gene-set annotations. A mapping of codon numbers from \texttt{AGAP004707-RD} to \emph{Musca domestica}, the system in which \textit{kdr} mutations were first described \cite{Williamson1996}, is given in Table \ref{table:variants_missense}.}
@@ -147,7 +153,7 @@ However, both \texttt{L995F} and \texttt{L995S} now have wide geographical distr
 %%
 
 %%
-Here we report an in-depth analysis of genetic variation in the \textit{Vgsc} gene, using whole-genome Illumina sequence data from phase 2 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) \cite{Ag1000gConsortium2017}@@REF-phase2.
+Here we report an in-depth analysis of genetic variation in the \textit{Vgsc} gene, using whole-genome Illumina sequence data from phase 2 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) \cite{clarkson2019genome}.
 %
 The Ag1000G phase 2 resource includes data on nucleotide variation in 1,142 wild-caught mosquitoes sampled from 13 countries, with representation of West, Central, Southern and East Africa, and of both \textit{An. gambiae} and \textit{An. coluzzii}.
 %
@@ -189,9 +195,9 @@ We reported 12 of these novel alleles in our overall analysis of the 765 samples
 
   \centering
 
-  \includegraphics[width=\linewidth]{artwork/model_labelled_V6.pdf}
+  \includegraphics[width=\linewidth]{artwork/model_labelled_V8_green-DIII-DIV.pdf}
 
-  \caption{\textbf{Voltage-gated sodium channel protein structure and non-synonymous variation}. The \textit{An. gambiae} voltage-gated sodium channel (AGAP004707-RD AgamP4.12) is shown as a transmembrane topology map (\textbf{a}) and as a homology model (\textbf{b}) in cartoon format coloured by domain. Variant positions are shown as red circles in the topology map and as red space-fill in the 3D model. Purple circles in the map show amino acids absent from the model due to the lack of modelled structure in this region.}
+  \caption{\textbf{Voltage-gated sodium channel protein structure and non-synonymous variation}. The \textit{An. gambiae} voltage-gated sodium channel (AGAP004707-RD AgamP4.12) is shown as a transmembrane topology map (\textbf{top}) and as a homology model (\textbf{bottom}) in cartoon format coloured by domain. Variant positions are shown as red circles in the topology map and as red space-fill in the 3D model. Purple circles in the map show amino acids absent from the model due to the lack of modelled structure in this region.}
 
   \label{fig:protein}
 
@@ -201,17 +207,19 @@ We reported 12 of these novel alleles in our overall analysis of the 765 samples
 
 %% protein model results - putting it here it allows us to reference it throughout results
 %%
-The 23 non-synonymous variants were incorporated into a transmembrane topology map allowing visualisation of amino acid substitions with regard to the \textit{Vgsc} protein structure (Figure \ref{fig:protein}).
+The 23 non-synonymous variants were located on a transmembrane topology map and on a 3-dimensional homology model of the \textit{Vgsc} protein. (Figure \ref{fig:protein}).
+ %
+The substitutions were found to be distributed throughout the channel, in all of the four internally homologous domains (DI-DIV), in S1, S5 and S6 membrane-spanning segments, in two of the intracellular loops connecting domains and in the C-terminal tail.
 %
-Substitutions were found throughout the protein, in all of the four internally homologous domains (DI-DIV), in S1, S5 and S6 membrane spanning segments, in intracellular connecting loops and in the carboxyl tail.
+The S5 and S6 segments that form the central ion-conducting pore of the channel carry five of seven segment substitutions including \texttt{V402} and \texttt{L995} which have been shown to produce insecticide resistance phenotypes \cite{Davies2007a, Dong2014, Martinez-Torres1998,Silva2014, Ranson2000}.
 %
-The S5 and S6 segments form the central ion channel of the protein and these carried five of seven segment substitutions including \texttt{V402} and \texttt{L995} which have been shown to produce insecticide resistance phenotypes \cite{Davies2007a, Dong2014, Martinez-Torres1998,Silva2014, Ranson2000}.
-%
-Intrcellular linkers, between domains, carry six substitutions, including the resistance conferring \texttt{N1570} \cite{Jones2012}.
+Seven substitutions are located on the DIII-DIV linker including the resistance conferring \texttt{N1570} \cite{Jones2012}. 
 %
 A further six substitutions are found concentrated in the protein's carboxyl tail, including the resistance associated \texttt{1874} \cite{Sonoda2008}. 
 %
-@@TODO - is the homology model useful on it's own or does the power come from comparisons between different substitutions. If the later, does this take place in the supplementary?
+The DIII-DIV linker and the C-terminus segment interact in the closed-state channel and substitutions are found throughout this intracellular subdomain.  
+%
+Finally, there are four novel substitutions located on the DI-DII intracellular linker but this region is missing from the model as it was not resolved in the cockroach Na\textsubscript{v}PaS structure \cite{Shen2017} used as the model template. 
 %%
 
 
@@ -352,7 +360,7 @@ However, the \texttt{L995F} allele is at higher frequency (85\%) in our Burkina 
 
 %% Other novel variants.
 %
-The remaining 4 novel alleles (two separate nucleotide substitutions causing \texttt{M490I}; \texttt{A1125V}; \texttt{V1254I}) did not occur in combination with any known resistance allele (Table \ref{table:variants_missense}).
+\textbf{FIX ME}	 Of the remaining our novel alleles, three (two separate nucleotide substitutions causing \texttt{M490I} and \texttt{Q697P} did not occur in combination with any known resistance allele, and  (Table \ref{table:variants_missense}).
 %
 All are private to a single population, and to our knowledge none have previously been found in other species \cite{Rinkevich2013, Dong2014}.
 %%
@@ -473,6 +481,7 @@ A possible explanation for this short region of divergence is that a gene conver
 
 %%
 %
+
 To investigate evidence for positive selection on non-synonymous alleles, we performed an analysis of extended haplotype homozygosity (EHH) \cite{Sabeti2002}.
 %
 Haplotypes under recent positive selection will have increased rapidly in frequency, thus have had less time to be broken down by recombination, and should on average have longer regions of haplotype homozygosity relative to wild-type haplotypes.
@@ -579,15 +588,11 @@ Further sampling and analysis will be required to investigate the timing of diff
 \subsection*{Resistance phenotypes for novel non-synonymous variants}
 
 %
-The sodium channel protein consists of four homologous domains (I-IV) each of which comprises six transmembrane segments (S1-S6) connected by intracellular and extracellular loops \cite{Dong2014}.
+The non-synonymous variants are distributed throughout the channel protein but can be considered in terms of three clusters: (i) the transmembrane domain, (ii) the DI-II intracellular linker and (iii) the DIII-DIV/C-terminal subdomain. 
 %
-Two pyrethroid binding sites have been predicted within the pore-forming modules of the protein, the first (PyR1) involving residues from transmembrane segments IIS5 and IIIS6 and the internal linker between IIS4 and IIS5 (IIL45) \cite{OReilly2006}, the second (PyR2) involving segments IS5, IS6, IIS6 and IL45 \cite{Du2013,Dong2014}.
+The pyrethroid binding site is located in the transmembrane domain between the IIS4-S5 linker and the IIS5, IIS6 and IIIS6 helices \cite{OReilly2006}. 
 %
-Many of the amino acid substitutions known to cause pyrethroid resistance in insects affect residues within one of these two pyrethroid binding sites, and thus can directly alter pyrethroid binding \cite{Dong2014}.
-%
-For example, the \texttt{L995F} and \texttt{L995S} substitutions occur in segment IIS6 and belong to binding site PyR2 \cite{Du2013}.
-%
-The \texttt{I1527T} substitution that we discovered in \textit{An. coluzzii} mosquitoes from Burkina Faso occurs in segment IIIS6 and is immediately adjacent to two pyrethroid-sensing residues in site PyR1 \cite{Dong2014}.
+The \texttt{I1527T} substitution that we discovered in \textit{An. coluzzii} mosquitoes from Burkina Faso occurs in segment IIIS6 and is immediately adjacent to two pyrethroid-sensing residues in this binding site \cite{Dong2014}.
 %
 It is thus plausible that pyrethroid binding could be altered by this substitution.
 %
@@ -597,37 +602,53 @@ We found the \texttt{I1527T} allele in tight linkage with two alleles causing a 
 %
 Substitutions in codon 402 have been found in multiple insect species and are by themselves sufficient to confer pyrethroid resistance \cite{Dong2014}.
 %
-Codon 402 is within segment IS6, immediately adjacent to a pyrethroid sensing residue in site PyR2.
-%
-The fact that we find \texttt{I1527T} and \texttt{V402L} in such tight mutual association is intriguing because (a) these two residues appear to affect different pyrethroid binding sites, and (b) haplotypes carrying \texttt{V402L} alone should also have been positively selected and thus be present in one or more populations.
+The fact that we find \texttt{I1527T} and \texttt{V402L} in such tight mutual association is intriguing because haplotypes carrying \texttt{V402L} alone should also have been positively selected and thus be present in one or more populations.
 %
 %%
 
 %%
 %
-A number of substitutions in segments of the protein that are not involved in either of the two pyrethroid binding sites have also been shown to confer pyrethroid resistance.
+The \texttt{V402} residue is located towards the middle of the IS6 helix. 
 %
-For example, the \texttt{N1570Y} substitution causes substantially enhanced pyrethroid resistance when combined with \texttt{L995F}, although codon 1570 occurs in the internal linker between domains III and IV (LIII/IV) \cite{Du2013}.
+The \texttt{L995F} and \texttt{L995S} substitutions occur at a similar position on the IIS6 helix. 
 %
-Computer modelling of the protein structure has suggested that substitutions in codon 1570 could allosterically alter site PyR2 and thus affect pyrethroid binding \cite{Du2013}.
+It was proposed these S6 substitutions confer resistance by allosterically modifying formation of the pyrethroid binding site \cite{OReilly2006}.
 %
-In addition to \texttt{N1570Y}, we found thirteen other substitutions at appreciable frequency occurring almost exclusively in association with \texttt{L995F} (Table \ref{table:variants_missense}; Figure \ref{fig:ld}).
+More recently the \texttt{L995} kdr residue was speculated to form part of a second pyrethroid binding site in the insect channel termed 'PyR2' \cite{Du2013, Du2015}.
 %
-Of these, two (\texttt{D466H}, \texttt{E1597G}) occurred in the larger internal linkers between protein domains, one (\texttt{R254K}) occurred within a smaller internal linker between domain subunits, two (\texttt{T791M}, \texttt{K1603T}) occurred within an outer (``voltage-sensing'') transmembrane segment, one (\texttt{A1746S}) occurred within an inner (``pore-forming'') transmembrane segment, and the remaining seven occurred in the internal carboxyl-terminal tail.
+A major functional effect of the \texttt{L995F} substitution is enhanced closed-state inactivation  \cite{Vais2000}. 
 %
-Thus there is no simple pattern regarding where these variants occur within the protein structure.
+This contributes to kdr resistance by reducing the number of channels that undergo activation, which is the functional state that pyrethroids bind to with highest affinity \cite{Vais2000}. 
 %
-Further work is required to confirm which of these substitutions affect pyrethroid resistance, and to determine whether they allosterically modify a pyrethroid binding site in a similar vein to \texttt{N1570Y}, or whether they provide some other benefit such as compensating for a deleterious effect of \texttt{L995F} on normal nervous system function.
+Fast inactivation involves movement of the DIV domain to form a receptor for the DIII-DIV linker fast inactivation particle containing the ‘MFM’ sequence motif (equivalent to the 'IFM' motif in mammals) \cite{Capes2013, Dong2014}. 
 %
-The novel \texttt{M490I} substitution, found on the Kenyan L2 haplotypic background potentially under selection, also occurs in an internal linker between protein domains (LI/II).
+Recent eukaryotic sodium channel structures reveal that the DIII-DIV linker is in complex with the C-terminal segment in the closed-state conformation but the DIII-DIV linker appears to dissociate and bind in close proximity in the DIV S6 helix upon transition to the inactivated state \cite{Shen2017, Yan2018}. 
 %
-However, \texttt{M490I} did not occur in association with \texttt{L995F} or any other non-synonymous substitutions.
+It seems that binding of the DIII-DIV linker pushes the DIV S6 helix forward to occlude the pore and produce the inactivated state \cite{Yan2018}.
 %
-It is plausible that substitutions outside of pyrethroid binding sites could independently confer an insecticide resistance phenotype, because there are several known examples in other insect species \cite{Dong2014}.
+We suggest that substitutions located on the DIII-DIV linker and C-terminal tail may perturb the conformation of this subdomain when it assembles in the closed-state channel and may subsequently affect capture or release of the DIII-DIV linker from this complex. 
 %
-Work in other species has also suggested that pyrethroid resistance substitutions could act, not by altering pyrethroid binding, but by altering the channel gating kinetics or the voltage-dependence of activation \cite{Dong2014}.
+The expected functional outcome would be altered channel inactivation, although whether inactivation is enhanced or diminished and if this compensates for a deleterious effect of \texttt{L995F} on channel function awaits elucidation. 
 %
-Thus there are a number of potential mechanisms by which a pyrethroid resistance phenotype can be obtained, and clearly much remains to be unravelled regarding the molecular biology of pyrethroid resistance in this gene.
+The \texttt{N1570Y} substitution on the DIII-DIV linker has been functionally characterised but inactivation kinetics in the mutant channel were found unaltered \cite{Wang2015}. 
+%
+Pyrethroid sensitivity was also unaffected by \texttt{N1570Y} although resistance was greatly enhanced in the \texttt{N1570Y} + \texttt{L995F} double mutant \cite{Wang2015}.
+%
+%%
+
+%%
+%
+The final cluster of novel variants is located on the DI-DII intracellular linker. 
+%
+This segment includes the novel \texttt{M490I} substitution that was found on the Kenyan L2 haplotypic background potentially under selection.
+%
+\texttt{M490I} did not occur in association with \texttt{L995F} or any other non-synonymous substitutions.
+%
+Although we were unable to model this region, we speculate that the DI-DII linker passes under the DII S4-S5 linker and these regions may interact, as was found for example in a bacterial sodium channel structure \cite{Sula2017}.
+%
+The structural effects of DI-DII substitutions may be altered interactions with the DII S4-S5 linker, the movement of which is critical for formation of the pyrethroid binding site \cite{OReilly2006, Usherwood2007}. 
+%
+Overall there are a number of potential mechanisms by which a pyrethroid resistance phenotype may arise, and clearly much remains to be unravelled regarding the molecular biology of pyrethroid resistance in this channel.
 %%
 
 
@@ -828,6 +849,25 @@ Decision tree classifiers were then constructed using scikit-learn version 0.19.
 %
 The classification accuracy of each tree was evaluated using stratified 5-fold cross-validation.
 %
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Homology modelling}
+
+%%
+%
+A homology model of the \textit{An. gambiae} voltage-gated sodium channel (AGAP004707-RD AgamP4.12) was generated using the 3.8 Å resolution structure of the \textit{Periplaneta americana} sodium channel Na\textsubscript{v}PaS structure (PDB code 5X0M)  \cite{Shen2017}. 
+%
+Sequences were aligned using Clustal Omega \cite{Sievers2011}. 
+%
+50 starting models were generated using MODELLER \cite{Eswar2007}. 
+%
+The internal scoring function of MODELLER was used to select 10 models, which were visually inspected and submitted to the VADAR webserver \cite{Willard2003} to assess stereochemistry in order to select the best final model. 
+%
+Figures were produced using PyMOL (DeLano Scientific, San Carlos, CA, USA).
+%
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
