@@ -485,7 +485,7 @@ To investigate evidence for positive selection on non-synonymous alleles, we per
 %
 Haplotypes under recent positive selection will have increased rapidly in frequency, thus have had less time to be broken down by recombination, and should on average have longer regions of haplotype homozygosity relative to wild-type haplotypes.
 %
-We defined a core region spanning \textit{Vgsc} codon 995 and an additional 6 kbp of flanking sequence, which was the minimum required to differentiate the haplotype groups identified via clustering and network analyses.
+@@CHECK - We defined a core region spanning \textit{Vgsc} codon 995 and an additional 6 kbp of flanking sequence, which was the minimum required to differentiate the haplotype groups identified via clustering and network analyses.
 %
 Within this core region, we found 18 distinct haplotypes at a frequency above 1\% within the cohort.
 %
@@ -617,13 +617,13 @@ More recently the \texttt{L995} kdr residue was speculated to form part of a sec
 %
 A major functional effect of the \texttt{L995F} substitution is enhanced closed-state inactivation  \cite{Vais2000}. 
 %
-This contributes to kdr resistance by reducing the number of channels that undergo activation, which is the functional state that pyrethroids bind to with highest affinity \cite{Vais2000}. 
+This contributes to \textit{kdr} resistance by reducing the number of channels that undergo activation, which is the functional state that pyrethroids bind to with highest affinity \cite{Vais2000}. 
 %
-Fast inactivation involves movement of the DIV domain to form a receptor for the DIII-DIV linker fast inactivation particle containing the ‘MFM’ sequence motif (equivalent to the 'IFM' motif in mammals) \cite{Capes2013, Dong2014}. 
+Fast inactivation involves movement of the DIV domain to form a receptor for the DIII-DIV linker fast inactivation particle containing the 'MFM' sequence motif (equivalent to the 'IFM' motif in mammals) \cite{Capes2013, Dong2014}. 
 %
-Recent eukaryotic sodium channel structures reveal that the DIII-DIV linker is in complex with the C-terminal segment in the closed-state conformation but the DIII-DIV linker appears to dissociate and bind in close proximity in the DIV S6 helix upon transition to the inactivated state \cite{Shen2017, Yan2018}. 
+Recent eukaryotic sodium channel structures reveal that the DIII-DIV linker is in complex with the C-terminal segment in the closed-state conformation but the DIII-DIV linker appears to dissociate and bind in close proximity in the DIV S6 helix upon transition to the inactivated state \cite{Shen2017, Yan2017}. 
 %
-It seems that binding of the DIII-DIV linker pushes the DIV S6 helix forward to occlude the pore and produce the inactivated state \cite{Yan2018}.
+It seems that binding of the DIII-DIV linker pushes the DIV S6 helix forward to occlude the pore and produce the inactivated state \cite{Yan2017}.
 %
 We suggest that substitutions located on the DIII-DIV linker and C-terminal tail may perturb the conformation of this subdomain when it assembles in the closed-state channel and may subsequently affect capture or release of the DIII-DIV linker from this complex. 
 %
@@ -643,11 +643,11 @@ This segment includes the novel \texttt{M490I} substitution that was found on th
 %
 \texttt{M490I} did not occur in association with \texttt{L995F} or any other non-synonymous substitutions.
 %
-Although we were unable to model this region, we speculate that the DI-DII linker passes under the DII S4-S5 linker and these regions may interact, as was found for example in a bacterial sodium channel structure \cite{Sula2017}.
+Although we were unable to model this region, we speculate that the DI-DII linker passes under the DII S4-S5 linker and these regions may interact, as was found in a bacterial sodium channel structure \cite{Sula2017}.
 %
 The structural effects of DI-DII substitutions may be altered interactions with the DII S4-S5 linker, the movement of which is critical for formation of the pyrethroid binding site \cite{OReilly2006, Usherwood2007}. 
 %
-Overall there are a number of potential mechanisms by which a pyrethroid resistance phenotype may arise, and clearly much remains to be unravelled regarding the molecular biology of pyrethroid resistance in this channel.
+Overall there are a number of potential mechanisms by which a pyrethroid resistance phenotypes may arise and topology modelling reveals how many of the non-synonymous variants we discover may be involved, though clearly much remains to be unravelled regarding the molecular biology of pyrethroid resistance in this channel.
 %%
 
 
@@ -740,7 +740,7 @@ If combined with a limited amount of whole-genome sequencing at sentinel sites, 
 \subsection*{Code}
 
 %
-All scripts and Jupyter Notebooks used to generate analyses, figures and tables are available from the GitHub repository \url{https://github.com/malariagen/agam-vgsc-report}.
+All scripts and Jupyter Notebooks used to generate analyses, figures and tables are available from the GitHub repository \url{https://github.com/malariagen/ag1000g-phase2-vgsc-report}.
 %%
 
 
@@ -748,9 +748,9 @@ All scripts and Jupyter Notebooks used to generate analyses, figures and tables 
 \subsection*{Data}
 
 %
-We used variant calls from the Ag1000G Phase 1 AR3 data release (\url{https://www.malariagen.net/data/ag1000g-phase1-ar3}) and phased haplotype data from the Ag1000G Phase 1 AR3.1 data release (\url{https://www.malariagen.net/data/ag1000g-phase1-ar3.1}).
+We used variant calls and phased haplotype data from the Ag1000G Phase 2 AR1 data release (\url{https://www.malariagen.net/data/ag1000g-phase-2-ar1}).
 %
-Variant calls from Ag1000G Phase 1 are also available from the European Nucleotide Archive (ENA; \url{http://www.ebi.ac.uk/ena}) under study PRJEB18691.
+Variant calls from Ag1000G Phase 2 are also available from the European Nucleotide Archive (ENA; \url{http://www.ebi.ac.uk/ena}) under study PRJEB36277.
 %%
 
 
@@ -758,11 +758,11 @@ Variant calls from Ag1000G Phase 1 are also available from the European Nucleoti
 \subsection*{Data collection and processing}
 
 %
-For detailed information on Ag1000G WGS sample collection, sequencing, variant calling, quality control and phasing, see \cite{Ag1000gConsortium2017}.
+For detailed information on Ag1000G WGS sample collection, sequencing, variant calling, quality control and phasing, see \cite{Ag1000gConsortium2017, clarkson2019genome}.
 %
-In brief, \emph{An. gambiae} and \emph{An. coluzzii} mosquitoes were collected from eight countries across Sub-Saharan Africa: Angola, Burkina Faso, Cameroon, Gabon, Guinea, Guinea Bissau, Kenya and Uganda.
+In brief, \emph{An. gambiae} and \emph{An. coluzzii} mosquitoes were collected from 33 sites in 13 countries across Sub-Saharan Africa: Angola, Bioko, Burkina Faso, Cameroon, C\^{o}te d'Ivoire, Gabon, The Gambia, Ghana, Guinea, Guinea Bissau, Kenya, Mayotte and Uganda.
 %
-From Angola just \emph{An. coluzzii} were sampled, Burkina Faso had samples of both \emph{An. gambiae} and \emph{An. coluzzii} and all other populations consisted of purely \emph{An. gambiae}, except for Kenya and Guinea Bissau where species status is uncertain \cite{Ag1000gConsortium2017}.
+From Angola and C\^{o}te d'Ivoire just \emph{An. coluzzii} were sampled, Burkina Faso, Ghana and Guinea had samples of both \emph{An. gambiae} and \emph{An. coluzzii} and all other populations consisted of purely \emph{An. gambiae}, except for The Gambia, Guinea Bissau and Kenya where species status is uncertain \cite{clarkson2019genome}.
 %
 Mosquitoes were individually whole genome sequenced on the Illumina HiSeq 2000 platform, generating 100bp paired-end reads.
 %
@@ -776,22 +776,22 @@ Quality control included removal of samples with mean coverage <= 14x and filter
 %
 The Ag1000G variant data was functionally annotated using the SnpEff v4.1b software \cite{Cingolani2012}.
 %
-Non-synonymous \emph{Vgsc} variants were identified as all variants in transcript AGAP004707-RA with a SnpEff annotation of ``missense''.
+Non-synonymous \emph{Vgsc} variants were identified as all variants in AgamP4.12 transcript AGAP004707-RD with a SnpEff annotation of ``missense''.
 %
 The \emph{Vgsc} gene is known to exhibit alternative splicing \cite{Davies2007a}, however at the time of writing the \textit{An. gambiae} gene annotations did not include the alternative transcripts reported by Davies et al.
 %
-We wrote a Python script to check for the presence of variants that are synonymous according to transcript AGAP004707-RA but non-synonymous according to one of the other transcripts present in the gene annotations or in the set reported by Davies et al.
+We wrote a Python script to check for the presence of variants that are synonymous according to transcript AGAP004707-RD but non-synonymous according to one of the other transcripts present in the gene annotations or in the set reported by Davies et al.
 %
 Supplementary Table 1 includes the predicted effect for all SNPs that are non-synonymous in one or more of these transcripts.
 %
-None of the variants that are non-synonymous in a transcript other than AGAP004707-RA were found to be above 5\% frequency in any population.
+None of the variants that are non-synonymous in a transcript other than AGAP004707-RD were found to be above 5\% frequency in any population.
 %
 %%
 
 %
 For ease of comparison with previous work on \emph{Vgsc}, pan Insecta, in Table \ref{table:variants_missense} and Supplementary Table 1 we report codon numbering for both \emph{An. gambiae} and \emph{Musca domestica} (the species in which the gene was first discovered).
 %
-The \emph{M. domestica Vgsc} sequence (EMBL accession X96668 \cite{Williamson1996}) was aligned with the \emph{An. gambiae} AGAP004707-RA sequence (AgamP4.4 gene-set) using the Mega v7 software package \cite{Kumar2016}.
+The \emph{M. domestica Vgsc} sequence (EMBL accession X96668 \cite{Williamson1996}) was aligned with the \emph{An. gambiae} AGAP004707-RD sequence (AgamP4.12 gene-set) using the Mega v7 software package \cite{Kumar2016}.
 %
 A map of equivalent codon numbers between the two species for the entire gene can be download from the MalariaGEN website (\url{https://www.malariagen.net/sites/default/files/content/blogs/domestica_gambiae_map.txt}).
 %%
@@ -801,10 +801,6 @@ Haplotypes for each chromosome of each sample were estimated (phased) using usin
 %
 The SHAPEIT2 algorithm is unable to phase multi-allelic positions, therefore the two multi-allelic non-synonymous SNPs within the \emph{Vgsc} gene, altering codons \texttt{V402} and \texttt{M490}, were phased onto the biallelic haplotype scaffold using MVNcall v1.0 \cite{Menelaou2013}.
 %
-Conservative filtering applied to the genome-wide callset had removed one of the three known insecticide resistance conferring kdr variants, \texttt{N1570Y} \cite{Jones2012}.
-%
-Manual inspection of the read alignment revealed that the SNP call could be confidently made, and it was added back into the data set and then also phased onto the haplotypes using MVNcall.
-%
 Lewontin's $D'$ \cite{Lewontin1964} was used to compute the linkage disequilibrium (LD) between all pairs of non-synonymous \emph{Vgsc} mutations.
 %%
 
@@ -813,7 +809,7 @@ Lewontin's $D'$ \cite{Lewontin1964} was used to compute the linkage disequilibri
 \subsection*{Haplotype networks}
 
 %
-Haplotype networks were constructed using the median-joining algorithm \cite{Bandelt1999} as implemented in a Python module available from \url{https://github.com/malariagen/agam-vgsc-report}.
+Haplotype networks were constructed using the median-joining algorithm \cite{Bandelt1999} as implemented in a Python module available from \url{https://github.com/malariagen/ag1000g-phase2-vgsc-report}.
 %
 Haplotypes carrying either \texttt{L995F} or \texttt{L995S} mutations were analysed with a maximum edge distance of two SNPs.
 %
@@ -833,7 +829,7 @@ This region was chosen as it was the smallest region sufficient to differentiate
 %
 Extended haplotype homozygosity (EHH) was computed for all core haplotypes as described in \cite{Sabeti2002} using scikit-allel version 1.1.9 \cite{Miles2016}, excluding non-synonymous and singleton SNPs.
 %
-Analyses of haplotype homozygosity in moving windows (Supplementary Figs. \ref{fig:mhh_f}, \ref{fig:mhh_s}) and pairwise haplotype sharing (Supplementary Figure \ref{fig:pspd}) were performed using custom Python code available from \url{https://github.com/malariagen/agam-vgsc-report}.
+Analyses of haplotype homozygosity in moving windows (Supplementary Figs. \ref{fig:mhh_f}, \ref{fig:mhh_s}) and pairwise haplotype sharing (Supplementary Figure \ref{fig:pspd}) were performed using custom Python code available from \url{https://github.com/malariagen/ag1000g-phase2-vgsc-report}.
 %
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -842,7 +838,7 @@ Analyses of haplotype homozygosity in moving windows (Supplementary Figs. \ref{f
 %%
 To explore the feasibility of indentifying a small subset of SNPs that would be sufficient to identify each of the genetic backgrounds carrying known or putative resistance alleles, we started with an input data set of all SNPs within the \textit{Vgsc} gene or in the flanking regions 20 kbp upstream and downstream of the gene.
 %
-Each of the 1530 haplotypes in the Ag1000G Phase 1 cohort was labelled according to which core haplotype it carried, combining all core haplotypes not carrying known or putative resistance alleles together as a single "wild-type" group.
+Each of the 2,284 haplotypes in the Ag1000G Phase 2 cohort was labelled according to which core haplotype it carried, combining all core haplotypes not carrying known or putative resistance alleles together as a single "wild-type" group.
 %
 Decision tree classifiers were then constructed using scikit-learn version 0.19.0 \cite{Pedregosa2011} for a range of maximum depths, repeating the tree construction process 10 times for each maximum depth with a different initial random state.
 %
@@ -855,7 +851,7 @@ The classification accuracy of each tree was evaluated using stratified 5-fold c
 
 %%
 %
-A homology model of the \textit{An. gambiae} voltage-gated sodium channel (AGAP004707-RD AgamP4.12) was generated using the 3.8 Å resolution structure of the \textit{Periplaneta americana} sodium channel Na\textsubscript{v}PaS structure (PDB code 5X0M)  \cite{Shen2017}. 
+A homology model of the \textit{An. gambiae} voltage-gated sodium channel (AGAP004707-RD AgamP4.12) was generated using the 3.8 \r{A} resolution structure of the \textit{Periplaneta americana} sodium channel Na\textsubscript{v}PaS structure (PDB code 5X0M)  \cite{Shen2017}. 
 %
 Sequences were aligned using Clustal Omega \cite{Sievers2011}. 
 %

@@ -7845,6 +7845,95 @@
       \endverb
       \keyw{Action Potentials,Amino Acid Sequence,Animals,Ion Channel Gating,Membrane Potentials,Molecular Sequence Data,Mutation,Protein Structure,Tertiary,Rats,Voltage-Gated Sodium Channels,Xenopus}
     \endentry
+    \entry{Yan2017}{article}{}
+      \name{author}{10}{}{%
+        {{hash=9c0a837adaf333905a22e40e9fd786c3}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f623cc51d03ac4acc7aba477043a270b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=90363e7455b37d0f07cd7e927b294868}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e520ebe82672efaa2067b1d7adf5ba8b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aa031f2f61e614d59d0c91d64f539fa7}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanyu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=68367e7ea259e07c43c5a277b3d107fa}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Gaoxingyu},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0ffbf7da53582dbc0a920a400eddc057}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2cc0d229ae3cc7252949bd9eab3f849d}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Huaizong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e9a43960d7c18765e11f82f439a43f30}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Jianlin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b9eed8ea5de4c0658864d2219be9233b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Nieng},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6b7e62c555234611d0c28463d67696f}
+      \strng{fullhash}{259fbe0f789077082f7583cfb59506b6}
+      \strng{bibnamehash}{c6b7e62c555234611d0c28463d67696f}
+      \strng{authorbibnamehash}{c6b7e62c555234611d0c28463d67696f}
+      \strng{authornamehash}{c6b7e62c555234611d0c28463d67696f}
+      \strng{authorfullhash}{259fbe0f789077082f7583cfb59506b6}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{issn}{0092-8674}
+      \field{journaltitle}{Cell}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shortjournal}{Cell}
+      \field{title}{Structure of the Nav1.4-B1 Complex from Electric Eel}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{volume}{170}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{470\bibrangedash 482.e11}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cell.2017.06.039
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0092867417307584
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0092867417307584
+      \endverb
+    \endentry
     \entry{Sula2017}{article}{}
       \name{author}{6}{}{%
         {{hash=afcc1ed6f6adebea7483c3aebaf02443}{%
@@ -9389,7 +9478,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Yan2018}
 \endrefsection
 \endinput
 

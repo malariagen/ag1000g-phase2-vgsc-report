@@ -2005,8 +2005,8 @@
     <bcf:citekey order="58">Capes2013</bcf:citekey>
     <bcf:citekey order="58">Dong2014</bcf:citekey>
     <bcf:citekey order="59">Shen2017</bcf:citekey>
-    <bcf:citekey order="59">Yan2018</bcf:citekey>
-    <bcf:citekey order="60">Yan2018</bcf:citekey>
+    <bcf:citekey order="59">Yan2017</bcf:citekey>
+    <bcf:citekey order="60">Yan2017</bcf:citekey>
     <bcf:citekey order="61">Wang2015</bcf:citekey>
     <bcf:citekey order="62">Wang2015</bcf:citekey>
     <bcf:citekey order="63">Sula2017</bcf:citekey>
@@ -2015,7 +2015,8 @@
     <bcf:citekey order="65">Kilianski2015</bcf:citekey>
     <bcf:citekey order="66">lucas2019high</bcf:citekey>
     <bcf:citekey order="67">Ag1000gConsortium2017</bcf:citekey>
-    <bcf:citekey order="68">Ag1000gConsortium2017</bcf:citekey>
+    <bcf:citekey order="67">clarkson2019genome</bcf:citekey>
+    <bcf:citekey order="68">clarkson2019genome</bcf:citekey>
     <bcf:citekey order="69">Holt2002</bcf:citekey>
     <bcf:citekey order="70">Cingolani2012</bcf:citekey>
     <bcf:citekey order="71">Davies2007a</bcf:citekey>
@@ -2024,17 +2025,16 @@
     <bcf:citekey order="74">Delaneau2013</bcf:citekey>
     <bcf:citekey order="75">Ag1000gConsortium2017</bcf:citekey>
     <bcf:citekey order="76">Menelaou2013</bcf:citekey>
-    <bcf:citekey order="77">Jones2012</bcf:citekey>
-    <bcf:citekey order="78">Lewontin1964</bcf:citekey>
-    <bcf:citekey order="79">Bandelt1999</bcf:citekey>
-    <bcf:citekey order="80">Cingolani2012</bcf:citekey>
-    <bcf:citekey order="81">Sabeti2002</bcf:citekey>
-    <bcf:citekey order="82">Miles2016</bcf:citekey>
-    <bcf:citekey order="83">Pedregosa2011</bcf:citekey>
-    <bcf:citekey order="84">Shen2017</bcf:citekey>
-    <bcf:citekey order="85">Sievers2011</bcf:citekey>
-    <bcf:citekey order="86">Eswar2007</bcf:citekey>
-    <bcf:citekey order="87">Willard2003</bcf:citekey>
+    <bcf:citekey order="77">Lewontin1964</bcf:citekey>
+    <bcf:citekey order="78">Bandelt1999</bcf:citekey>
+    <bcf:citekey order="79">Cingolani2012</bcf:citekey>
+    <bcf:citekey order="80">Sabeti2002</bcf:citekey>
+    <bcf:citekey order="81">Miles2016</bcf:citekey>
+    <bcf:citekey order="82">Pedregosa2011</bcf:citekey>
+    <bcf:citekey order="83">Shen2017</bcf:citekey>
+    <bcf:citekey order="84">Sievers2011</bcf:citekey>
+    <bcf:citekey order="85">Eswar2007</bcf:citekey>
+    <bcf:citekey order="86">Willard2003</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
