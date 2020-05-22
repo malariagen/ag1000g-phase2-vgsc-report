@@ -174,7 +174,7 @@ Finally, we explore ways in which variation data from Ag1000G can be used to des
 
 %% Paragraph 1
 %
-To identify variants with a potentially functional role in pyrethroid resistance, we extracted single nucleotide polymorphisms (SNPs) that alter the amino acid sequence of the VGSC protein, from the Ag1000G phase 2 data resource \cite{clarkson2019genome}.
+To identify variants with a potentially functional role in pyrethroid resistance, we extracted single nucleotide polymorphisms (SNPs) that alter the amino acid sequence of the VGSC protein from the Ag1000G phase 2 data resource \cite{clarkson2019genome}.
 %
 We then computed their allele frequencies among 16 mosquito populations defined by species and country of origin.
 %
@@ -182,7 +182,7 @@ Alleles that confer resistance are expected to increase in frequency under selec
 %
 The resulting list comprises 23 variant alleles, including the known \texttt{L995F}, \texttt{L995S} and \texttt{N1570Y} resistance alleles, and a further 20 alleles which prior to Ag1000G had not previously been described in anopheline mosquitoes.
 %
-We reported 12 of these novel alleles in our overall analysis of the 765 samples in the Ag1000G phase 1 data resource \cite{Ag1000gConsortium2017}, and we extend the analyses here to incorporate SNPs which alter codon 531, 697, 1507, 1603 and two tri-allelic SNPs affecting codons 402 and 490 in the 1,142 phase 2 samples.
+We reported 12 of these novel alleles in our overall analysis of the 765 samples in the Ag1000G phase 1 data resource \cite{Ag1000gConsortium2017}, and we extend the analyses here to incorporate SNPs which alter codon 531, 697, 1507, 1603 and two tri-allelic SNPs affecting codons 402 and 490.
 %%
 
 %% Figure - protein.
@@ -205,7 +205,7 @@ We reported 12 of these novel alleles in our overall analysis of the 765 samples
 %%
 The 23 non-synonymous variants were located on a transmembrane topology map and on a 3-dimensional homology model of the \textit{Vgsc} protein. (Figure \ref{fig:protein}).
  %
-The substitutions were found to be distributed throughout the channel, in all of the four internally homologous domains (DI-DIV), in S1, S5 and S6 membrane-spanning segments, in two of the intracellular loops connecting domains and in the C-terminal tail.
+The substitutions were found to be distributed throughout the channel, in all of the four internally homologous domains (DI-DIV), in S1, S5 and S6 membrane-spanning segments, in two of the intracellular loops connecting domains, and in the C-terminal tail.
 %
 The S5 and S6 segments that form the central ion-conducting pore of the channel carry six of the eight segment substitutions, including \texttt{V402} and \texttt{L995} which have been shown to produce insecticide resistance phenotypes \cite{Davies2007a, Dong2014, Martinez-Torres1998,Silva2014, Ranson2000}.
 %
@@ -215,14 +215,8 @@ A further six substitutions are found concentrated in the protein's carboxyl tai
 %
 The DIII-DIV linker and the C-terminus segment interact in the closed-state channel and substitutions are found throughout this intracellular subdomain.
 %
-Finally, there are four novel substitutions located on the DI-DII intracellular linker but this region is missing from the model as it was not resolved in the cockroach Na\textsubscript{v}PaS structure used as the model template \cite{Shen2017}.
+Finally, there are four novel substitutions located on the DI-DII intracellular linker, but this region is missing from the model as it was not resolved in the cockroach Na\textsubscript{v}PaS structure used as the model template \cite{Shen2017}.
 %%
-
-
-%% is the homology model useful on it's own or does the power come from comparisons between different substitutions. If the later, does this take place in the supplementary?
-
-
-
 
 
 %% Table 1 - Functional SNPs.
@@ -276,7 +270,7 @@ All variants are at 5\% frequency or above in one or more of the 16 Ag1000G phas
 
 
 %% L995F, L995S
-The two known resistance alleles affecting codon 995 had the highest overall allele frequencies within the Ag1000G phase 1 cohort (Table \ref{table:variants_missense}).
+The two known resistance alleles affecting codon 995 had the highest overall allele frequencies within the Ag1000G phase 2 cohort (Table \ref{table:variants_missense}).
 %
 The \texttt{L995F} allele was at high frequency in populations of both species from West, Central and Southern Africa.
 %
@@ -288,17 +282,17 @@ This included individuals with a heterozygous \texttt{L995F/S} genotype (50/297 
 %
 We calculated empirical p-values for these heterozygous genotype counts using the Dirichlet distribution and 1,000,000 Monte Carlo simulations.
 %
-In Cameroon p=0.410 of simulations found higher proportions of heterozygous genotypes, however in Gabon this dropped to p=0.005, hinting there may be a fitness advantage for mosquitoes carrying both alleles in some circumstances.
+In Cameroon p=0.410 of simulations found higher proportions of heterozygous genotypes, however in Gabon this dropped to p=0.005, suggesting there may be a fitness advantage for mosquitoes carrying both alleles in some circumstances.
 %
 
 
 %% N1570Y and other alleles linked to L995F
 %
-The \texttt{N1570Y} allele was present in Guinea, Burkina Faso (both species) and Cameroon.
+The \texttt{N1570Y} allele was present in Guinea \textit{An. gambiae}, Ghana \textit{An. gambiae}, Burkina Faso (both species) and Cameroon \textit{An. gambiae}.
 %
 This allele has been shown to substantially increase pyrethroid resistance when it occurs in combination with \texttt{L995F}, both in association tests of phenotyped field samples \cite{Jones2012} and functional tests using \textit{Xenopus} oocytes \cite{Wang2015}.
 %
-To study the patterns of association among non-synonymous variants, we used haplotypes from the Ag1000G phase 2 resource to compute the normalised coefficient  of linkage disequilibrium ($D'$) between all pairs of variant alleles (Figure \ref{fig:ld}).
+To study the patterns of association among non-synonymous variants, we used haplotypes from the Ag1000G phase 2 resource to compute the normalised coefficient of linkage disequilibrium ($D'$) between all pairs of variant alleles (Figure \ref{fig:ld}).
 %
 As expected, we found \texttt{N1570Y} in almost perfect linkage with \texttt{L995F}.
 %
@@ -316,7 +310,7 @@ Second, in contrast with \texttt{L995F}, we did not observe any high-frequency n
 %
 This contrast was clear when data on all variants within the gene were considered: for haplotypes carrying the \texttt{L995} allele, the ratio of non-synonymous to synonymous nucleotide diversity ($\pi_{N}/\pi_{S}$) was 20.04 times higher than haplotypes carrying the wild-type allele, but for those carrying \texttt{L995S} ($\pi_{N}/\pi_{S}$) was 0.5 times lower than haplotypes carrying the wild-type allele.
 %
-These results may indicate that \texttt{L995F} has substantially altered the selective regime for other amino acid positions within the protein, perhaps through relaxation of purifying selection.
+These results indicate that \texttt{L995F} has substantially altered the selective regime for other amino acid positions within the protein.
 %
 Secondary substitutions have occurred and risen in frequency, suggesting that they are providing some selective advantage in the presence of insecticide pressure.
 %%
@@ -340,7 +334,7 @@ Secondary substitutions have occurred and risen in frequency, suggesting that th
 
 %% I1527T and V402L.
 %
-A novel allele, \texttt{I1527T}, was present in \textit{An. coluzzii} from Burkina Faso at 13\% frequency.
+A novel allele, \texttt{I1527T}, was present in \textit{An. coluzzii} from Ghana, Burkina Faso, Cote d'Ivoire and Guinea.
 %
 Codon 1527 occurs within trans-membrane segment \texttt{IIIS6}, immediately adjacent to residues within a predicted binding site for pyrethroid molecules, thus it is plausible that \texttt{I1527T} could alter pyrethroid binding \cite{Du2013,Dong2014}.
 %
@@ -348,14 +342,13 @@ We also found that the two variant alleles affecting codon 402, both of which in
 %
 Substitutions in codon 402 have been found in a number of other insect species and shown experimentally to confer pyrethroid resistance \cite{Dong2014}.
 %
-Because of the limited geographical distribution of these alleles, we hypothesize that the \texttt{I1527T+V402L} combination could represent a pyrethroid resistance allele that arose in West African \textit{An. coluzzii} populations prior to \texttt{L995F}.
+The species and geographical distribution of the \texttt{I1527T+V402L} alleles suggest they arose in West African \textit{An. coluzzii} and had not spread to other regions or to \textit{An. gambiae} at the time of sampling.
 %
-However, the \texttt{L995F} allele is at higher frequency (85\%) in our Burkina Faso \textit{An. coluzzii} population, and is known to be increasing in frequency \cite{Toe2014}.
+The \texttt{I1527T} allele was present at lower frequency than \texttt{L995F} in all of the West African \textit{An. coluzzii} populations.
 %
-Therefore, \texttt{L995F} may provide a stronger resistance phenotype or be less deleterious in the absence of pyrethroids \cite{brito2013}, and could be replacing \texttt{I1527T+V402L}.
+\texttt{L995F} is known to have increased in frequency in West African \textit{An. coluzzii} \cite{Toe2014} and thus could be replacing \texttt{I1527T+V402L} in these populations.
 %
-The four remaining novel alleles, \texttt{Q697P}, \texttt{G531V} and two separate nucleotide substitutions causing \texttt{M490I}, did not occur in combination with any known resistance allele and were private to a single population (except a single haplotype carrying \texttt{G531V} from Bioko) (Table \ref{table:variants_missense}), and to
- our knowledge, none have previously been found in other species \cite{Rinkevich2013, Dong2014}.
+The four remaining novel alleles, \texttt{Q697P}, \texttt{G531V} and two separate nucleotide substitutions causing \texttt{M490I}, did not occur in combination with any known resistance allele and were almost exclusively private to a single population (Table \ref{table:variants_missense}).
 %%
 
 
