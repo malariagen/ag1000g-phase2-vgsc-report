@@ -37,16 +37,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1857"
-     inkscape:window-height="1025"
+     inkscape:window-height="1052"
      id="namedview1855"
      showgrid="false"
-     inkscape:zoom="1.5657893"
-     inkscape:cx="396.15266"
-     inkscape:cy="177.8314"
-     inkscape:window-x="1983"
-     inkscape:window-y="27"
+     inkscape:zoom="2"
+     inkscape:cx="316.01621"
+     inkscape:cy="302.54306"
+     inkscape:window-x="63"
+     inkscape:window-y="411"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1853" />
+     inkscape:current-layer="axes_1"
+     inkscape:document-rotation="0" />
   <defs
      id="defs12">
     <style
@@ -4638,7 +4639,7 @@
            id="tspan2143-0"
            x="11.818807"
            y="153.67334"
-           style="font-size:9.99998px;stroke-width:0.75">Sample size</tspan></text>
+           style="font-size:9.99998px;stroke-width:0.75">Haplotypes sampled</tspan></text>
     </g>
   </g>
   <defs
