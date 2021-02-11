@@ -1,0 +1,78 @@
+\documentclass[a4paper,11pt,abstracton,hidelinks]{scrartcl}
+
+\usepackage[margin=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage[UKenglish]{babel}
+\usepackage{csquotes}
+\usepackage[style=numeric,citestyle=numeric,backend=biber,sorting=none,doi=false,url=false]{biblatex}
+\usepackage{float}
+\usepackage[export]{adjustbox}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[textsize=tiny]{todonotes}
+\usepackage[labelsep=period,font=small,labelfont=bf,format=plain]{caption}
+\captionsetup[table]{
+  position=above,
+  belowskip=10pt,
+  aboveskip=0pt,
+}
+\usepackage[group-separator={,}]{siunitx}
+\usepackage{booktabs}
+\usepackage{pdflscape}
+\usepackage{tablefootnote}
+\usepackage{authblk}
+\usepackage{threeparttable}
+\usepackage{afterpage}
+\usepackage{lineno}
+
+\usepackage{setspace}
+\usepackage{hyperref}
+\doublespacing
+
+\newcommand{\beginsupplement}{%
+  \setcounter{table}{0}
+  \renewcommand{\thetable}{S\arabic{table}}%
+  \setcounter{figure}{0}
+  \renewcommand{\thefigure}{S\arabic{figure}}%
+}
+
+%
+\begin{document}
+
+
+\section*{Supplementary Figures}
+
+
+%% Figure - L995F recombination
+%
+\begin{figure}[!b]
+  \includegraphics[width=1.1\linewidth,center]{artwork/mhh_F.pdf}
+  \caption{\textbf{Windowed analysis of haplotype homozygosity for genetic backgrounds carrying the \texttt{L995F} allele}. Each sub-plot shows the fraction of haplotype pairs that are identical within half-overlapping moving windows of 1000 SNPs. Each sub-plot in the left-hand column shows homozygosity for haplotype pairs within one of the haplotype groups identified by the network analysis. Sub-plots in the central and right-hand columns show homozygosity for haplotype pairs between two haplotype groups. If two haplotype groups are truly unrelated, haplotype homozygosity between them should be close to zero across the whole genome region. Dashed vertical lines show the location of the \textit{Vgsc} gene.}
+  \label{fig:mhh_f}
+\end{figure}
+%%
+
+\clearpage
+
+%% Figure - L995S recombination
+%
+\begin{figure}[!b]
+  \includegraphics[width=1.1\linewidth,center]{artwork/mhh_S.pdf}
+  \caption{\textbf{Windowed analysis of haplotype homozygosity for genetic backgrounds carrying the \texttt{L995S} allele}. See Supplementary Figure \ref{fig:mhh_f} for explanation. Haplotype homozygosity is high between groups S4 and S5 on both flanks of the gene, indicating that haplotypes from both groups are in fact closely related.}
+  \label{fig:mhh_s}
+\end{figure}
+%%
+
+
+\clearpage
+
+%% Figure - haplotype sharing
+%
+\begin{figure}[!b]
+  \includegraphics[width=1.1\linewidth,center]{artwork/clusters_compare_pspd.pdf}
+  \caption{\textbf{Shared haplotype length}. Each bar shows the distribution of shared haplotype lengths between all pairs of haplotypes with the same core haplotype. For each pair of haplotypes, the shared haplotype length is computed as the region extending upstream and downstream from the core locus (\textit{Vgsc} codon 995) over which haplotypes are identical at all non-singleton variants. The \textit{Vgsc} gene sits on the border of pericentromeric heterochromatin and euchromatin, and we assume different recombination rates in upstream and downstream regions. The shared haplotype length is expressed in centiMorgans (cM) assuming a constant recombination rate of 2.0 cM/Mb on the downstream (euchromatin) flank and 0.6 cM/Mb on the upstream (heterochromatin) flank. Bars show the inter-quartile range, fliers show the 5-95th percentiles, horizontal black line shows the median, notch in bar shows the 95\% bootstrap confidence interval for the median. Haplotypes F1-5 each carry the \texttt{L995F} resistance allele. Haplotypes S1-5 each carry the \texttt{L995S} resistance allele. Haplotype L1 carries the \texttt{I1527T} allele. Haplotype L2 carries the \texttt{M490I} allele. Wild-type (\textit{wt}) haplotypes do not carry any known or putative resistance alleles.}
+  \label{fig:pspd}
+\end{figure}
+%%
+
+\end{document}

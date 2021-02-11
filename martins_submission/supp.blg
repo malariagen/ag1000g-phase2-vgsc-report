@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'supp.blg'
+[23] biber:313> INFO - === Tue Feb  9, 2021, 20:51:23
+[40] Biber.pm:371> INFO - Reading 'supp.bcf'
+[96] Utils.pm:193> WARN - No data sources defined!
